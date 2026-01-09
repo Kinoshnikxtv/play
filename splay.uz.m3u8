@@ -37,7 +37,7 @@ https://vod.splay.uz/live_splay/original/TV1000rus/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/Dom_Kino/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/462.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание HD
 https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/644.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",киномикс HD
+#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/644.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс HD
 https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/821.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_821",Кинокомедия HD
 https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
@@ -125,3 +125,4 @@ https://vod.splay.uz/live_splay/original/Uzbekiston-TarixiHD/tracks-v1a1/mono.m3
 https://vod.splay.uz/live_splay/original/Dunyoboylab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Nurafshon TV
 https://vod.splay.uz/live_splay/original/Nurafshon_TV/tracks-v1a1/mono.m3u8
+
