@@ -1,6 +1,4 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="↕️ ▶🔺PLAYLIST INFORMATION🔺INFO 🔴🔺↕️" tvg-logo="https://suzukantv.at.ua/LOGO/suzustv-icon.ico" tvg-id="simpleTVFakeEpgId" $ExtFilter="Torrenttv",+✓Обновление:🔺INFO 🔴🔺↕️ https://suzustv.clan.su/
-https://v2.catcast.tv/videos/ch38963/110220220628_125335/video.mp4
 #EXTINF:-1 group-title="↕️ ТТV | Кино 🎬 ↕️" tvg-id="simpleTVFakeEpgId" $ExtFilter="Torrenttv",.black
 http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5
 #EXTINF:-1 group-title="↕️ ТТV | Разное ↕️" $ExtFilter="Torrenttv",.black
@@ -6201,3 +6199,4 @@ http://127.0.0.1:6878/ace/getstream?infohash=c1c09a5546c3d2d3e70eaf55e78452d95c3
 http://127.0.0.1:6878/ace/getstream?infohash=53f25dbcc206033a27eba34af2b649e0e5d2cd54
 #EXTINF:-1 group-title="↕️ ТТV | Другое ↕️" tvg-id="simpleTVFakeEpgId" $ExtFilter="Torrenttv",ფორმულა
 http://127.0.0.1:6878/ace/getstream?infohash=6ed8d14b9f8a4e8a0dc26ea8ae16031ebf145827
+
