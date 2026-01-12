@@ -1,0 +1,761 @@
+#EXTM3U
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1cd49e97c4889b35a169ff36ea0d048746abc247
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=e8f879061af9baeed16ac4e1e4207d9aa4cf348a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c29f1c1354a942851181529cfcaa19bf3c7ac3c0
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0bc4dbd6bde4a04e1d74d685ec3f522449dc42cf
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a6169d01fb2b8a62b45857666946732773c651d1
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=00ed244a3f5e36067b57b6a62b18cfa5d9dd0e22
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=91d445104c9f83bb748ccd9e826a403493b755ff
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8905ae2f502880f2f2aa56c3209239e7f4e0bf73
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=6ca70fa4e297d7e423750f512a44f47e25e761c6
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ad5c09fb6b08bc1aefe4b6bf292c4db6a04f7700
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=b3e2c143d1e998d166573c007c979fe0e0376a77
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fbe6cc6532011348e31992e4e37138de3001f2d7
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3403267623697a7092a10478aad7f234f2ce4a64
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=6f169084c32e98f87f49d9880406873c3453b49d
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a95ec5a3780c3a3c76da5707b12561daee4f2305
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=bb8e98b0ecce77ed19759a8823ec95f31fccfe19
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7278cacf226493d4086ca8717a4b7314b08ff4fe
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=dfd91947739f46974eb7273304c42f6ffc720aca
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=18875e086412c2ed551e03a0b176f9b2861c5e6a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3a0aadc7e0d18378e47100ec1b9210bf0faa30a2
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c8664d53f5553fbbc565e5c2e99f6cc31f1e78db
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ebeec408c96acce8cfea1dcb0a53397fbee77acf
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f49580a9df5a207d16c8aab72419494d531008d7
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9c8afbde609bc567af99799b78f72f6f6a30e546
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f69b2859510dce33b992dd1940f95254c6e6f51c
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=88c482d9e57b1a031c032344f9c00cf7b36da8d9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4fe43d0daca047040d2e758f82302bed3bbf854a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=e84c8f3896a843b7fb272a6e3a18bba6b198db04
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=72b8c093be3c3e3c434c723ee93af0d1d07a7cbf
+#EXTINF:0,M-1 Global
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f562d8a45a5475599fbd2ad18886b0cc847f75e4
+#EXTINF:0,FightBox HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=80b395de2f07983ac324d1160711487aefaa7eaa
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3a6ebb9eb0012bbd563e710c0c7e7ce2a8e4239a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8a8f6a325daa9b61370ea7800359b11392219f3c
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=20be180e057ac43660627ca9fe66eaa6bd6c1aee
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7f6cf90f0e096df22e2b7fbcd5e6bff2318620ad
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0bb7252a2a8dd3704b3a6c0538478450b8987012
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fc5e35ba19a015dc14fa4060fb922f7cbc026f96
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7f6ceda82b964c416983ab233787cee4e2333435
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9d4b38b7218803e1d877b01b3a6c6db1a494bb6a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=65ae3e0427ef14d9ef88f0183c011e6ff42ca062
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=30cf0f8140006a03d60a4639c623f024b4e167ed
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3dd5cc4427c44e9235ccc4eaf3a68f2f468320f6
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fc5c69847a489f2e0984926534205627989f1896
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8b7c300e60486a80c1e25bc5ecd693533fca52a4
+#EXTINF:0,KHL
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=38c98858c0fc5e670820d2e1d308c71efcaa2ddc
+#EXTINF:0,KHL Prime
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=242553daf687872eca8e184c238dc11ab712e9ac
+#EXTINF:0,Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=42e959bffd0dd0f138dd03abf387b4284ece7e30
+#EXTINF:0,Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3fee4ce1dbc079ff3f302535070d9547988a407c
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f6fe32f9f31a7b72693a2ede8e5ad039b9ff1677
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=223585a877fa51808b5c6244b3f0591c82e84cbd
+#EXTINF:0,viju+ Sport
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:0,Fast&Funbox
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18
+#EXTINF:0,Russian Extreme
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=570d51491a1e50989346ecd9d0c5cf8f3aecd78b
+#EXTINF:0,Russian Extreme Ultra HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0de043f3043f5a18603013304159cc2089cb76c4
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d092686779efec6d9ccea4409d567b9dfbe29252
+#EXTINF:0,BCU Ultra 4K
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c9714c4ce79127f4cf36a925f1e1ad5a7bd7cadd
+#EXTINF:0,BCU Premiere Ultra 4K
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4b598726baad9f7a96f8fed7f4415f8379d6d5f9
+#EXTINF:0,Ultra HD Cinema
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4447d0a31556f25b0ebce1bac9c8f60c669bc68d
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1b86e011adec585107f75423b7c5827f2ce0e460
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8eb2c2a4534bcbaa1873e258e0fa4fcdad0dc05c
+#EXTINF:0,FAN
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f54e34b0f822b9050c5491d4dc9efc61b2b8fe14
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=5e41e16355cfe58b6aa24820ce4110b3e1fd7f05
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=22b73ed881efe130b4222b0168de8a0e8a299c24
+#EXTINF:0,TV1000
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=b2937e666b87952e13f299d9ee52bd77117f5ccb
+#EXTINF:0,TV1000 Action
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=647c31eee02705588b3d84e6f4359d4c8123585b
+#EXTINF:0,TV1000 #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=579f9693b8084c1b8349c4108ab7a69d2953e72f
+#EXTINF:0,TV1000 World Kino
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=36327fc5b9ce670f5d51e0eb322b079ae2d06cd8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4297ca60ff3262c95d183094b101c5d41440d4be
+#EXTINF:0,VIP Premiere
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9808c355077d9f9a8fd937732fe1141a7cbd54db
+#EXTINF:0,VIP Comedy
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8e27f09c9c4eb4ea09a1d2bc1c71689a52be5129
+#EXTINF:0,VIP Megahit
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2946debcde707ac6dff8c35f56a02ebefc5e094d
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=da7e8d2f8d00e935946fb17a88d6eab62e7212ef
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=26704e203fcf15bf025bbc9a2d238dfb14075652
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9650f12d9a13248dc7ee4919eb208b0eff3c563a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7d60b1179bac6fa3a63c7b80dd02b4bd33c9079e
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2fcdf632729bef234bfe1048532be31fe261d2c3
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=43457f20587e5837ff55c0b46ac549dfc155103a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c9f1505f9c0597424e0c595edbe441c1780a8b12
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ce1735b634b02267a74367a51f0ef8ef66630ef7
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=605dc598e02b8ba1ef8c07572661a421cefe33ba
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=373b097439b972056ddd336f74949e5d012a4634
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c6b97fd0578b6f279870a6d002640c1fc97e810a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=5254ec612b0bded26299560b4e51bd491bf9796f
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f1a5c523d5e844945969c6bb7b51fbf1f28eba03
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ac61a121998a3dcd1aa2a0bda6c8d757f89388af
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9f1c19be4fa27db2bc9789252240296d2cc66b54
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=156283f58f21399fb21145d36fd43419da56bfbf
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a75932b014d58bd39017ec775b859ccd14f374ce
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2d5d33c8c011603172bf9d778d6d77dcce6e0aca
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7489852d25d4dbb269c1352042c7423f13220903
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=00314f5387ad15fd701ba7d2e9fdb7b4a286197d
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ad985ece170940d1d93769dc9f2291469a718dfc
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f38c884bce595a962f75f838596165c99ef8402a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ac1af534d9413abee090607cd87954d964d2fd91
+#EXTINF:0,.sci-fi
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4155750f93c063a053c9d6628657616b0457eb9f
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2a996dbd7180fe0fa2c147b7ee1d532c220c2457
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=44f248fb3e52db27504a1fa72560e0aa187ac72e
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9ac637b44ab67b62d2e195c2e2e15178f96cb548
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=90f87b7e2044d25ce1e483774bded9ccf961e697
+#EXTINF:0,BOX Ghost HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=e51c5d8b3f61796fbe0fca332c5bf13cf0f9ef84
+#EXTINF:0,CineMan #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d479f8e40ed56c3c428cafc25cdb77d952700685
+#EXTINF:0,CineMan Top
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8e07c3d6077be4d88860ab195db98a57e4fd3ca2
+#EXTINF:0,CineMan
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=71acc70a75cf545f379890d8e015ec47b92cc066
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3b40d0d8f3292e94d23e92e7f2fad000b1b03f92
+#EXTINF:0,312 #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=22c35a8e3a9ce68964b29b98410b00cb9b801192
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=403a3d7707586a2639237ea4d441cc029459524c
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2344fa4304ac860f6469f03b1563b9332acefeb0
+#EXTINF:0,Kino 24
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=73fca88ed5a01842471c946b6e719c622ee663c7
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fb32787299441e0054678257842877cc193851cf
+#EXTINF:0,Cinema
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4b9aab6ea7a9143085d887918f990d82189d700f
+#EXTINF:0,Hollywood HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2410ae82a0227b51843b4cf47260c14aa8b4503e
+#EXTINF:0,BCU Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c248c963c8de10771ace5f3d370566c1b4a6e4ad
+#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=aeb2a969592f32d318e362601e3dfa9b51672039
+#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0e1f8b3f3bcc338c333fc131b0817fdfc4ebf13b
+#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=395e35eb507c28e97c313cf72d7817784fc214d5
+#EXTINF:0,BCU Cosmo HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a842fe2a71043c3e15e4ea6851af34aabf00dff1
+#EXTINF:0,BCU Fantastic HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9aece1167d82d7f3fdc36493a11de28b45ed75bb
+#EXTINF:0,BCU Action HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ac82e6570ec2137e9e56dcefa5bdc54ff790bc54
+#EXTINF:0,BCU Catastrophe HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=aeaeae9ce8696813734ee21c0713929f461cf371
+#EXTINF:0,BCU Marvel HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=b437118a4f66ac71cd9b16e2d30b0aff7baf7541
+#EXTINF:0,BCU History HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3a43c9534e29fe4bced0b6b52d84208e8731a1c6
+#EXTINF:0,BCU Stars HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=b51a7479bd0ba533ac322799f89a26dfb22dedb2
+#EXTINF:0,BCU Russian HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0643d7ff20eb8faec2d6d063b9d0fa4ab9e54fc6
+#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9fcf8f56aeb2e49fe2eff5d7c445d1058a03ce4c
+#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0c9f0b3d557692321e2b3533f066a326edfdab9d
+#EXTINF:0,BCU VHS HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=26168a25a71df0ba02344ee1b6be4d281a42ed39
+#EXTINF:0,BCU Kinorating HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=28c8f0bb16a323db3a4b6189cd3fb35d1f57a736
+#EXTINF:0,BCU Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8f7c250bba5197733583fdd64d240f32ff9958aa
+#EXTINF:0,BCU Cinema+ HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=bd0150e4082d4a3c6d0cfd5f8ee21ae33092866d
+#EXTINF:0,BCU Criminal HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=b987e76986be71e070b7a3c8516a3beef348b9c7
+#EXTINF:0,BCU Reality HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d2d86cf5b97ec439b604627b0fb5b18882ea34a4
+#EXTINF:0,BCU Cinema HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=66915c66a5a5f3f89ea41700d3c32bb3a6062ba4
+#EXTINF:0,BCU Filmystic HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ead5111aea99166535f7d32fc6976c7c4a4c38d6
+#EXTINF:0,BCU TruMotion HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=bd9eab96495d0bc1b940afd7161455c2e69b9a24
+#EXTINF:0,BCU Survival HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ac539b6110a210c6e6fcef26a61170b05f01888e
+#EXTINF:0,BCU Romantic HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f45a2775a15f7f719e1f0e8e13468bbfa7f54017
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1324b58bf20dd2dc6491353e6f09c5c19effb8e4
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c1dee6517b501723725b0ba578e2134ba8d317a6
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7e47ad913e702f8586bcdb0c4d97d3f96e8641c0
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c62affbc37a7b013f7e47d72e11e09e5879a053b
+#EXTINF:0,Bollywood HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a64f487b491e1c0ad0be1af30383aba16411b8b6
+#EXTINF:0,Amedia Premium HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=bd3909c04c1086803526c7b06a8266654a70e482
+#EXTINF:0,Amedia Hit
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2c4f6570d3c6cdbd726a98fd1df2bd1dcb60eab9
+#EXTINF:0,A1
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=cce1a8bc804cefa65bc72638f3a5f0252b086f90
+#EXTINF:0,A2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2a11aebead8123a02ed1413671eaa1e1ad33a408
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=bd0abcbc41397ebec18e94dd4799b24c21449ccd
+#EXTINF:0,BCU Ruserial HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7278589eb71cba58dd084dcf51ba5ec12fa35dcc
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=80e761abc1c2793ee2ceb87485db40b99bb13407
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2f681a20a31e7e7a351702823d50c50dcf96fc0c
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fc05594eea6af5b2d82b022b768a92d1260b4ffe
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=bc301f9bb46cb45a6ba0a6ae1dc4a0bf1b8cc36b
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fb85e578240f4aceb1d1e67e52a9cc6895c67ef8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=050d2c6e62118c2f8a75e26c1399d06cb07bb551
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4a66f6256d4aafe9043ca46cb057e887ecf14980
+#EXTINF:0,VIP Serial
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0f12577008461ddbdef03d974a23e7f2236ff2de
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1178829996d938a69c7b942ef804127bfca836b3
+#EXTINF:0,Star Cinema
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f77691e6419afa90a62b4bbd40629fab751246de
+#EXTINF:0,.red
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=cd680104166a605ed27730dcaec73bf81221d540
+#EXTINF:0,.black
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=18cf2d3491233fa980add6db246847a5077be047
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=5e40d94899925654ba5baf7f9ede7db5e0c10ad7
+#EXTINF:0,Fox Life HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d8b7a3f67305d65d0c75602eb7ec8e7f1df6b8b7
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7a19cd742fba7d89ffa491776c38b3008154df36
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=cb6c39a9987af5867be67dc65d628a2eafdef597
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2f2d2d6aeecf0c643becb8806db98f02d14cc49f
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=05d9828914cc0971afc68c86b3509b3447ed3b95
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=545f804d6640e3c969487968fa9f60d26d10086a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d1fbe42603735324739b65df0678fba5d337001a
+#EXTINF:0,BCU Kids 4K
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=876afe0bccfedbd7be72caf2eea1dc21b0118ca3
+#EXTINF:0,BCU #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=821cfc152e1130591fe8255c5d3535b6aa89cd53
+#EXTINF:0,BCU Kids HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8cee61d7252426713403bf5d12acbf5a742b30ba
+#EXTINF:0,BCU Kids+ HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c37f4c259b1a38e5cef0db764a0531dd2c706e60
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a07a6365dc2f3f7e1ca8dfdb63d05f45e187afb7
+#EXTINF:0,2x2
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fdf1e7149472e234dc3864185e3c4ff1483541bd
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=881465432a90d2a4cb7df8bf41cb25fce15177a7
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=120cffa3087fc07ea13c83f2c4fff8f3f5767eb8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d78c7a1da99696e3987563926a1cd31bff9c56bf
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f45b5a67839dad483c93132cbbb7c1f88f3f66a9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=b229a0b136490e63cd361c1dcd0f55d45281a87a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4f70340432c9d26003ff4b0afbd4d285afdc5c38
+#EXTINF:0,Ani
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1a56fa1e4c2800c4bca035bc6b3b2cd425bb69dc
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1fdaf5914ea4b80d10b1053de7d740fe31f31fee
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f19a2cd4c0e4924b79d207c39a9570bcf2620f70
+#EXTINF:0,Boomerang
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3f6a6aa05bd8e07a98e49fd7b00c9691a69164fc
+#EXTINF:0,Gulli Girl
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=45b1c4b07917fd5d1cc10b55d376753593ed4a0a
+#EXTINF:0,TiJi
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8adf3a3dc4379137b05d1fa340c5cc84283d7e72
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=5d52371d64c6f92b5c5b9eaf49db0912578c5c95
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1caba4f91a3060510514c9ca2c64fa7c3c31c864
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=bde0b4aa0c8461fc252b5576a31a09e644e58d48
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=78250d0bb48bb99877ef2708f5c98ffa532d5a08
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=338f7dd8ab8a6cfb53e195235966dd8bd5cd51ed
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8cec6ab291a7d545817d14e724d9c9bcba473f1e
+#EXTINF:0,Love Nature 4K
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54
+#EXTINF:0,Insight UHD 4K
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=6eccf3104e984a7f2705ac6215c74e76fd7782ad
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=e926e95fd0c8b79d003d9426e2a99f118f5e0796
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=64d344a0acae84a96205b9b91924d5777f147a89
+#EXTINF:0,Eureka HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8b7a9d0425fea08894d8bf6e213d16252d2a77c8
+#EXTINF:0,Da Vinci
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d1ec4c88d74afd58d8e47a80fea010475d752426
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a604243282974cc912690555f96b1c80d1495607
+#EXTINF:0,Univer TV HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=47fdadad0171675f03e1a17adcf1a3bb174d8647
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=6a3e9398e0ef1ab2baab904cd3d3d78afb72cb18
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2f7bd12803e3600bb80600e12364fc26e9f1c7ba
+#EXTINF:0,H2 HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=259cb14a1a9178a6b3f8228b25c057e0f1463ce7
+#EXTINF:0,History HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4f7be698925e8df0bc338170a81c390d3cb391ae
+#EXTINF:0,Viasat History
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0f88c98c5e4f31e9918e16d469a495cc15dcfe50
+#EXTINF:0,viju+ Planet HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=14c74e9552c440606b9f628cc4f50dc14e2dfc2b
+#EXTINF:0,Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=6477d56108d979adf1a069b26c820e749b94b9da
+#EXTINF:0,National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1a6c974216f9305c02fb92962575f32ce85030a3
+#EXTINF:0,Viasat Explore
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=361e2b2f24d617ed599dc354180c80cd1705f5c0
+#EXTINF:0,HD Life
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=44ffb1bd04a4aa2df86bbca0f29a714772a7abe1
+#EXTINF:0,Viasat Nature
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=724f24ba3e7faf98394f75de217d1e404700f41b
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8ee0c3512883fe9cd8fc597e30a4cf45631c92df
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=5013186c2b6b0ce4d813cd8bcf13b6a7ecec1e48
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=46a0913a7a3ab1d6fa2e53c4889046fef06bdcf0
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=e06688954b01bd649f62e385a190fa63bfe01d9f
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c5bac5ae6b8f86668fab3776ff09bee03a272736
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=10cb1b48a429a04bbcdbcd75835f26062c4e41b4
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fa7779232bdf287ba44134ab1cc02a592ff9c698
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=db78bbaaa4dbb877cfa87070db8179cd0c78b515
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7670a5eb8855ee531fd83071d3f4dcb4088608c2
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a98290bfa375a6f19b81d664e59da9bb0111d997
+#EXTINF:0,Travel+Adventure HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=6e96ec55341e3bf654d0c9335fffb43f0a7e46a2
+#EXTINF:0,Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c0280edf1a8bab3e8ea8fd33e12d1009c9f09e11
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=db224b9e4979973e97a389a62c8259388ec3207e
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3b63538adbaed8e4b192a054fdc7882296d44026
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7299f1e25e42a5f99c79416d18eb9cd44da34688
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=b36ca2884ed1cedd173e96e53337588ed9784437
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9a7419d0e9ccf16b5c474cb9c80f3b5cc08d7872
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c798cfb60ad3202bf02dc9eeda42b6a977c96d63
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=69af62012e44a54dbe1d7a330bc53d037dd7cc3e
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=5421d7e05a8400792bedebc375569abe0652c9b9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0334a6a2478cb04840b658cd9eec2181fadd73d4
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=47c727a649958399a0b18aa3e92350f42a58d247
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2c4cda7044f5390e060823dc25014eb23875c820
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1f6bafc2d59c5eafa5355c6aa70931282be68ce4
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9acf35677bb01e4b7bfc6a6b8e7c24c5294d54a9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=5c12404dc3f67ce3421cee2e47871912d313dad7
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=6c7984193ea8238a730c0000ea47e93cd3aff609
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c18fd62e385573b8d4c8aa2cb5811a193e2befea
+#EXTINF:0,43 #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=99ecf9fe20ec3627713fbb7e51660b7b32cff803
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4fc6ccf973b4bc12957d490a36c84729bceb3bc7
+#EXTINF:0,RTG
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=dcc496fba4ca2f4541823deae31247ec6ecfab38
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2d093fce90c42d50a36ad8b0b54b27ee45c09e1e
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=98989eaf0bdcea310283c4bfb62cff652c743b8d
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8285b1e22c8248879554a8b0e8cc6e4f5b46b767
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=6fcff80bedfcdf35e9b62ba5b2fb29a892b5d0fa
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=b7923a25c30eddae7d7a5749aed88f1d63455b6b
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1825cece2bf18cc0a94f83a7dabc93dfe95d1522
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=8c3e0dd1b256163c8d486b138cc6b8510d16e7b2
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7f68905586e70b6d2684f6ded8e6367365906f5c
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=e33cf73fc43eb81db612e0e6eb021a691b01aac5
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=74a633386d7fa7fc8d8003b18a440f33b431e66a
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ff14ae1297259be0063fe96d06f2804eb46255a8
+#EXTINF:0,Gameplay #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a3e43ac700b57d3c54bf4651516f625c9cead821
+#EXTINF:0,1HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=5b12f2cf29ad1c793998cf82fbd07ca50c9f1b59
+#EXTINF:0,VIVA
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fb361b926b7211092010d6944fb5b70753ee19b2
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d4e1984fe9e54956aec065fe4532841d66c01438
+#EXTINF:0,SongTV Russia
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d2a21b3d4ec0723bfc813523ab6b4e81bf931485
+#EXTINF:0,SongTV Armenia
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ad37c2ae2c5a41f7a319961ef2b37775d8767126
+#EXTINF:0,iConcerts
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=aca4e2aab3e3dd86ce44fbb0e5d25ddcf256fceb
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=64404f0e23ae2a21b28d714138472954bda42395
+#EXTINF:0,Bridge Deluxe
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=56f73fefee3e8cfdc742d1de9c892f0a3ec79413
+#EXTINF:0,Bridge TV #EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=241d329c6bf7fd3a2008d6c57dfb76da5b7920f4
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=e1bba4aa473d4bec2966d35bc2b579c3f1120da8
+#EXTINF:0,RU.TV HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=17fb626a8f61048aafeecb8e3d055f0ede070d56
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9fb2a296420e6a33d1de4e54611d7039d533a2b3
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a1673401b01e3c9626837bb1163e3e6baa4c1c33
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7f9ae2b48d0872ae47d04890227d33fb225658d1
+#EXTINF:0,Europa Plus TV HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=0349677b468cd305ccc2d502446a60e9f0ff3ec3
+#EXTINF:0,MTV Live HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9ddda51034375eb93505c076d4437064abdf2dcf
+#EXTINF:0,CHD TV ROCK HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2adfe16e5a99c4cd401a3439fe529b0493014440
+#EXTINF:0,CHD TV RU ROCK HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3c5ee7da4eaeb7042fea8fecbb7577723cc8c351
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=1c4def70252bcce77d52f297c88981506a007aa4
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=5423a9d8f0e29208ff2c037d9fd819b606c05d68
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4d6fe1b163061f110e32c65c1df53a61c0a8d95d
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ef43c6e7d8daaebfd3e096f12fa304b99fb5c3e2
+#EXTINF:0,70-80 TV
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=44ee10f23a6baecb05f281928cd7aeab197ffb4d
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=24f461a1a2b77f530a7e0d3ecb9e1f2462f1f625
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f6f9ef0ca5b8315702d4b064fb071f89fb3ede36
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ba3293e5e2510ed569c0dc2d5388ef56daa53749
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fb8d0cb102e163d0ff8475c65a5ef29d890ceb8b
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ced4aa738fe7737f0f56f63a4bab96ac0165fab8
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fd25334933ccdabf3e95baa1bbc20ff8c6bed038
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=626833cd1392543c58bd4cfb9c96f59bb74b8fd9
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=4d3095cb6698e7e02fe7402a9fa12076a4b6c31b
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=ecaca424e4de968c961712cc8661f7b0ad27f47b
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d709c67550cf1e8a7a124d3a0cea6c27f9d54138
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=b8da62bc4eedf7395530450ce218b469dae78d21
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=12ec7a3a57205d606eb2c97fea58d5fec83e1755
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=53d8ec8e8dc5633e59c5450767716b516009a201
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a7bef81533f467cdecf9f634b32175cdc45eabaf
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f35858386669dfcedf2b0b113e261d25c1b64966
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a4d1f042e5a367bb63d155680e79c8e3b6745ca3
+#EXTINF:0,Dance FM
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=f0a102abb975f51269b6ac8e6e7b0e2abd5a0af6
+#EXTINF:0,88 Stereo
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=897daa0e615645d90abe36a2d8926054457c2a98
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=fdeb2394a70cdbbfb40d8e9e0094fdf187aecdb9
+#EXTINF:0,Playboy UK
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=3538699d0f82ab315ae4eb73170fad6f9c24cacb
+#EXTINF:0,Brazzers TV Europe
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=2835be1d45f51067386a031dbf6d586700515d5f
+#EXTINF:0,Erox
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=26af17aba41cd451d04c4855605e4b44d8af1dce
+#EXTINF:0,Porn Blowjob
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=c6193b0d98e34358b8cca87ea051d9de72b27a07
+#EXTINF:0,Porn Brunette
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d526a92016174aba45d7fac637688c621195f88e
+#EXTINF:0,Porn Cuckold
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=d58b9ab0196c7e7cca993fc2cf9025502b23c1d0
+#EXTINF:0,Porn Gangbang
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=665e2a6c67ce403fa085edbfe69d29fd7c036abd
+#EXTINF:0,Porn Latina
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=22a1266f0a19cea8d0d22c3e7e91ac02a2ee71b9
+#EXTINF:0,Porn Threesome
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=56005fc06d68d20f715f102bca40e13a73d498e8
+#EXTINF:0,Porn Webcam
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=01ed3bc2bc61a90162df9a299904a66c6daa8608
+#EXTINF:0,Porn Fetish
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=cb4cbf3adb80692d94484e4c9b9e05fc67ac0603
+#EXTINF:0,Porn Interracial
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a8973d26820b406fd73bbb19a740a830913bd57f
+#EXTINF:0,Porn Russian
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7b7f2f4494a71b69fa1c9a5ecb63964d00a1414c
+#EXTINF:0,Porn Big Tits
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=af78a9abcd5cfc80ca26b41173c663186220bf78
+#EXTINF:0,Porn Asian
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=76c9b8b65a48bd7facb21051fa619ac1284b4e71
+#EXTINF:0,Porn Big Dick
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=a54d96fa3381c74881b7b24165c7ce535a7de1e6
+#EXTINF:0,Porn Bigass
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=af0b17f2ee39c5df42158246d60306cc4a5cb870
+#EXTINF:0,Adult IPTV Pornstar
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=55a3af97b5ee2425dc83511909974be1604506ff
+#EXTINF:0,Adult IPTV Lesbian
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=9b21004a17469fa94c5b46bbdc17c6c812dd7f79
+#EXTINF:0,Adult IPTV Livecams
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=05315bda1c153053c6d679742567ae605c45a78c
+#EXTINF:0,Adult IPTV Anal
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=7fdaf062d18012d31868d836e097aa5325469e9b
+#EXTINF:0,Adult IPTV Big Ass
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=dc7473fb548c7d488fa0b0b53df0b5147a717aa2
+#EXTINF:0,Adult IPTV Teen
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?infohash=61e65c856a5a56a84b97de35771af2f068928806
