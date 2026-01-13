@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_noarch.xml.gz"
-
 #EXTINF:-1 group-title="Федеральные",Первый канал
 http://127.0.0.1:6878/ace/getstream?infohash=1cd49e97c4889b35a169ff36ea0d048746abc247
 #EXTINF:-1 group-title="Федеральные",Россия 1 HD
