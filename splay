@@ -35,16 +35,18 @@ https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 https://vod.splay.uz/live_splay/original/TV1000rus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/834.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_834",Дом кино
 https://vod.splay.uz/live_splay/original/Dom_Kino/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/462.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание HD
-https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/644.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс HD
-https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/821.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_821",Кинокомедия HD
 https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/644.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс HD
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/566.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_566",Кинопремьера HD
 https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/462.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание HD
+https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/987.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_987",Киносемья HD
 https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_542",Кинохит HD
+https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",Cinema HD
 http://vod.splay.uz/live_splay/original/CinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_12",Родное кино
