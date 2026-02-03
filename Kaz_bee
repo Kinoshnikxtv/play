@@ -201,7 +201,7 @@ http://188.225.31.197/bpk-tv/000001510/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001513/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/rika.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rika",Рика ТВ
 http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",ТВК 6
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="simpleTVFakeEpgId",ТВК 6
 http://188.225.31.197/bpk-tv/000001516/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2569.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2569",Qostanai
 http://188.225.31.197/bpk-tv/000001521/tve/index.m3u8
@@ -233,7 +233,7 @@ http://188.225.31.197/bpk-tv/000009427/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000009344/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/show-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_show-kz",Show KZ
 http://188.225.31.197/bpk-tv/000008944/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/koktem-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_koktem-kz",Köktem
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/koktem-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_koktem-kz",Köktem HD
 http://188.225.31.197/bpk-tv/000008934/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/appetitny.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_appetitny",Аппетитный
 http://188.225.31.197/bpk-tv/000008877/tve/index.m3u8
@@ -265,13 +265,13 @@ http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/lapki-live.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_lapki-live",Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_premium-kino-kz" tvg-shift="2",Премиум Кино HD KZ
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_premium-kino-kz",Премиум Кино HD KZ
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinoboevik-kz" tvg-shift="2",КиноБоевик HD KZ
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinoboevik-kz",КиноБоевик HD KZ
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_semejnoe-kino-kz" tvg-shift="2",Семейное Кино HD KZ
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_semejnoe-kino-kz",Семейное Кино HD KZ
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mirovoe-kino-kz" tvg-shift="2",Мировое Кино HD KZ
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mirovoe-kino-kz",Мировое Кино HD KZ
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-live4-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-live4-kz",Q Live 4
 http://188.225.31.197/bpk-tv/000008445/tve/index.m3u8
@@ -317,15 +317,15 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000006116/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/277.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_277",Viju History HD
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-alem" tvg-shift="2",Киносериал HD [KZ]
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-alem",Киносериал HD [KZ]
 http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-hit" tvg-shift="2",Кинодрама HD [KZ]
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-hit",Кинодрама HD [KZ]
 http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/atameken-business.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_atameken-business",Atameken business
 http://188.225.31.197/bpk-tv/000005322/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/balapan.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_balapan",Balapan
 http://188.225.31.197/bpk-tv/000005178/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2578.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2578",24KZ
+#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2578.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2578",24 KZ HD
 http://188.225.31.197/bpk-tv/000005177/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/tv3-int.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv3-int",ТВ-3 International
 http://188.225.31.197/bpk-tv/000004712/tve/index.m3u8
@@ -449,11 +449,9 @@ http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
 http://188.225.31.197/bpk-tv/100006969/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="../Channel/logo/info-kanal.png" tvg-id="simpleTVFakeEpgId",Инфоканал
 http://188.225.31.197/bpk-tv/100006592/tve/index.m3u8
-#EXTINF:-1 group-title="",VOD Star Trek HD
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",VOD Star Trek HD
 http://188.225.31.197/bpk-tv/100001689/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/9kanal-israel.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль)
-https://contact.gostreaming.tv/Con-11/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/9kanal-israel.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль)
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/9kanal-israel.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль) HD
 http://4.59.210.197:8815/udp/127.0.0.1:6013
-#EXTINF:-1 group-title="" tvg-logo="../Channel/logo/i.webp",RTN-USA (rus)
+#EXTINF:-1 group-title="" tvg-logo="../Channel/logo/i.webp" tvg-id="simpleTVFakeEpgId",RTN-USA (rus)
 http://4.59.210.197:8815/udp/127.0.0.1:6002
