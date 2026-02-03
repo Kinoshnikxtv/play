@@ -265,7 +265,7 @@ http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/lapki-live.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_lapki-live",Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_premium-kino-kz" tvg-shift="2",Премиум Кино HD KZ
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_premium-kino-kz",Премиум Кино HD KZ
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinoboevik-kz",КиноБоевик HD KZ
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
