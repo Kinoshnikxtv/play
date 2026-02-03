@@ -317,7 +317,7 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000006116/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/277.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_277",Viju History HD
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-alem",Киносериал HD [KZ]
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-alem" tvg-shift="-2",Киносериал HD [KZ]
 http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-hit",Кинодрама HD [KZ]
 http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
