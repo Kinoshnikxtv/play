@@ -265,13 +265,13 @@ http://188.225.31.197/bpk-tv/000008615/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008614/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/lapki-live.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_lapki-live",Лапки Live
 http://188.225.31.197/bpk-tv/000008551/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_premium-kino-kz",Премиум Кино HD KZ
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_premium-kino-kz" tvg-shift="-2",Премиум Кино HD KZ
 http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinoboevik-kz",КиноБоевик HD KZ
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinoboevik-kz" tvg-shift="-2",КиноБоевик HD KZ
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_semejnoe-kino-kz",Семейное Кино HD KZ
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_semejnoe-kino-kz" tvg-shift="-2",Семейное Кино HD KZ
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mirovoe-kino-kz",Мировое Кино HD KZ
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mirovoe-kino-kz" tvg-shift="-2",Мировое Кино HD KZ
 http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-live4-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-live4-kz",Q Live 4
 http://188.225.31.197/bpk-tv/000008445/tve/index.m3u8
@@ -319,7 +319,7 @@ http://188.225.31.197/bpk-tv/000006116/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000005528/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-alem.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-alem" tvg-shift="-2",Киносериал HD [KZ]
 http://188.225.31.197/bpk-tv/000005450/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-hit",Кинодрама HD [KZ]
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/q-kino-hit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_q-kino-hit" tvg-shift="-2",Кинодрама HD [KZ]
 http://188.225.31.197/bpk-tv/000005449/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/atameken-business.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_atameken-business",Atameken business
 http://188.225.31.197/bpk-tv/000005322/tve/index.m3u8
