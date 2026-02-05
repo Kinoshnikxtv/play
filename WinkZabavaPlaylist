@@ -671,3 +671,4 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_4/variant.m3u8
 #EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/Ю.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_yu" $ExtFilter="WinkZabavaPlaylist",Ю
 #EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8
+
