@@ -1,0 +1,673 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/2na2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_2na2" $ExtFilter="WinkZabavaPlaylist",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/2na2-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_2na2-pl2" $ExtFilter="WinkZabavaPlaylist",2x2 (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/2na2-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_2na2-pl4" $ExtFilter="WinkZabavaPlaylist",2x2 (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/2na2-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_2na2-pl7" $ExtFilter="WinkZabavaPlaylist",2x2 (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/Всё ТВ.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Всё ТВ" $ExtFilter="WinkZabavaPlaylist",Всё ТВ HD
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/e53b539aab3900b7d873aad7765d093d.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_domashny" $ExtFilter="WinkZabavaPlaylist",Домашний
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/9a255fc3d7f1ddee9c6b1bcbd9083d5f.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_domashny-pl2" $ExtFilter="WinkZabavaPlaylist",Домашний (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOM_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/e97eb8a54bd005fb143fc7270ff14753.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_domashny-pl4" $ExtFilter="WinkZabavaPlaylist",Домашний (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/3010.png" tvg-id="cc668781276fd092727c0507369cc752_3010" $ExtFilter="WinkZabavaPlaylist",Домашний +2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="cc668781276fd092727c0507369cc752_3010" $ExtFilter="WinkZabavaPlaylist",Домашний +2
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/3011.png" tvg-id="cc668781276fd092727c0507369cc752_3011" $ExtFilter="WinkZabavaPlaylist",Домашний +4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/3012.png" tvg-id="cc668781276fd092727c0507369cc752_3012" $ExtFilter="WinkZabavaPlaylist",Домашний +7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="cc668781276fd092727c0507369cc752_3012" $ExtFilter="WinkZabavaPlaylist",Домашний +7
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/zvezda.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda" $ExtFilter="WinkZabavaPlaylist",Звезда
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/48f61415a32b4111fee20ef9e7b6ff3b.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda" $ExtFilter="WinkZabavaPlaylist",Звезда
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/zvezda-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda-pl2" $ExtFilter="WinkZabavaPlaylist",Звезда (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/2fc34f3da4bb64860eac4418667d2109.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda-pl2" $ExtFilter="WinkZabavaPlaylist",Звезда (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_CHEL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/zvezda-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda-pl4" $ExtFilter="WinkZabavaPlaylist",Звезда (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/zvezda-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda-pl4" $ExtFilter="WinkZabavaPlaylist",Звезда (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/2c935c4c2fbec5978ea3c9ecce7c64c7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda-pl4" $ExtFilter="WinkZabavaPlaylist",Звезда (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/zvezda-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda-pl7" $ExtFilter="WinkZabavaPlaylist",Звезда (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/zvezda-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda-pl7" $ExtFilter="WinkZabavaPlaylist",Звезда (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/zvezda.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_zvezda" tvg-shift="1" $ExtFilter="WinkZabavaPlaylist",Звезда (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0926/46/9a03c8c7f20fdcfc8a0b935deefbbc46.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Карусель (+2)" $ExtFilter="WinkZabavaPlaylist",Карусель +2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0926/f3/8a6d6839b5d715fefe2bfa93fb9e34f3.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Карусель (+4)" $ExtFilter="WinkZabavaPlaylist",Карусель +4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/1107.png" tvg-id="cc668781276fd092727c0507369cc752_1107" $ExtFilter="WinkZabavaPlaylist",Карусель +7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/Матч ТВ HD.png" tvg-id="cc668781276fd092727c0507369cc752_2051" $ExtFilter="WinkZabavaPlaylist",Матч ТВ
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/Матч!.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_match-tv" $ExtFilter="WinkZabavaPlaylist",Матч!
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/a5e92858e4135515280cf0713f891e8a.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_mir" $ExtFilter="WinkZabavaPlaylist",Мир
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/236b3495b51a5eae057349b7ccf35431.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_mir-pl2" $ExtFilter="WinkZabavaPlaylist",Мир (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_MIR_CHEL/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/6b69b6bf844663d41d4577f6910d1792.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_mir-pl4" $ExtFilter="WinkZabavaPlaylist",Мир (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/6a5b33bc688585021d0485dc3a54b80c.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_moskva-24" $ExtFilter="WinkZabavaPlaylist",Москва 24
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/muztv-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_muztv-pl2" $ExtFilter="WinkZabavaPlaylist",Муз ТВ (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/muztv-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_muztv-pl4" $ExtFilter="WinkZabavaPlaylist",Муз ТВ (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/muztv-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_muztv-pl7" $ExtFilter="WinkZabavaPlaylist",Муз ТВ (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" $ExtFilter="WinkZabavaPlaylist",НТВ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" $ExtFilter="WinkZabavaPlaylist",НТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",нтв (+0.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?&offset=-5400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl1" $ExtFilter="WinkZabavaPlaylist",НТВ (+1)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl1" $ExtFilter="WinkZabavaPlaylist",нтв (+1)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?&offset=-3600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl2" $ExtFilter="WinkZabavaPlaylist",НТВ (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl2" $ExtFilter="WinkZabavaPlaylist",НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl2" $ExtFilter="WinkZabavaPlaylist",НТВ (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/7e2ec138d65397877aba57bae2e7f2b8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl2" $ExtFilter="WinkZabavaPlaylist",НТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_CHEL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",нтв (+2.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2&offset=-5400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl3" $ExtFilter="WinkZabavaPlaylist",НТВ (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_NTV_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl3" $ExtFilter="WinkZabavaPlaylist",нтв (+3)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?&offset=-3600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",нтв (+3.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?&offset=-1800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl4" $ExtFilter="WinkZabavaPlaylist",НТВ (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl4" $ExtFilter="WinkZabavaPlaylist",НТВ (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/37a3b701eab90f260c116385eda49ff4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl4" $ExtFilter="WinkZabavaPlaylist",НТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",НТВ (+4.00)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?&offset=0
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",нтв (+4.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?&offset=-9000
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i117.fastpic.org/big/2022/0502/6e/1c0b5cf1b847c3f39faf6a2b6e36d26e.png" tvg-id="f736135dfb80936a523d63c9a10f2613_НТВ (+5)" $ExtFilter="WinkZabavaPlaylist",НТВ (+5)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_NTV_BURAT/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i117.fastpic.org/big/2022/0502/6e/1c0b5cf1b847c3f39faf6a2b6e36d26e.png" tvg-id="f736135dfb80936a523d63c9a10f2613_НТВ (+5)" $ExtFilter="WinkZabavaPlaylist",нтв (+5)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?&offset=-7200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/b4/0dd4932a103cc8e2b6d1aaa336cc31b4.png" tvg-id="f736135dfb80936a523d63c9a10f2613_НТВ (+6)" $ExtFilter="WinkZabavaPlaylist",нтв (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?&offset=-3600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl7" $ExtFilter="WinkZabavaPlaylist",НТВ (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl7" $ExtFilter="WinkZabavaPlaylist",НТВ (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv-pl7" $ExtFilter="WinkZabavaPlaylist",нтв (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?&offset=0
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",нтв (-0.30)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-1800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="10" $ExtFilter="WinkZabavaPlaylist",нтв (-10)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-36000
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="11" $ExtFilter="WinkZabavaPlaylist",нтв (-11)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-39600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="12" $ExtFilter="WinkZabavaPlaylist",нтв (-12)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-43200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",нтв (-13)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-46800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",нтв (-14)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-50400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",нтв (-15)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-57600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",нтв (-16)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-61200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="8" $ExtFilter="WinkZabavaPlaylist",нтв (-8)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-28800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="9" $ExtFilter="WinkZabavaPlaylist",нтв (-9)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-32400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ННТВ (Нижний Новгород).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",НТВ (Мурманск)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NW_MURM_NTV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="3" $ExtFilter="WinkZabavaPlaylist",нтв(-3)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-10800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="4" $ExtFilter="WinkZabavaPlaylist",нтв(-4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-14400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="5" $ExtFilter="WinkZabavaPlaylist",нтв(-5)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-18000
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="6" $ExtFilter="WinkZabavaPlaylist",нтв(-6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-21600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_ntv" tvg-shift="7" $ExtFilter="WinkZabavaPlaylist",нтв(-7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8?&offset=-25200
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/e2f886585f0a9003ad258d7aa18b83b8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_otr" $ExtFilter="WinkZabavaPlaylist",ОТР
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" $ExtFilter="WinkZabavaPlaylist",Первый канал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" $ExtFilter="WinkZabavaPlaylist",Первый канал
+#EXTVLCOPT:http-user-agent=WINK/1.130.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" $ExtFilter="WinkZabavaPlaylist",Первый канал
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl1" $ExtFilter="WinkZabavaPlaylist",Первый канал (+1)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl1" $ExtFilter="WinkZabavaPlaylist",Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl1" $ExtFilter="WinkZabavaPlaylist",Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl1" $ExtFilter="WinkZabavaPlaylist",Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl1" $ExtFilter="WinkZabavaPlaylist",Первый канал (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl1" $ExtFilter="WinkZabavaPlaylist",Первый канал (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl2" $ExtFilter="WinkZabavaPlaylist",Первый канал (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl2" $ExtFilter="WinkZabavaPlaylist",Первый канал (+2)
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl2" $ExtFilter="WinkZabavaPlaylist",Первый канал (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl2" $ExtFilter="WinkZabavaPlaylist",первый канал (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl3" $ExtFilter="WinkZabavaPlaylist",Первый канал (+3)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl3" $ExtFilter="WinkZabavaPlaylist",Первый канал (+3)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl3" $ExtFilter="WinkZabavaPlaylist",Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl3" $ExtFilter="WinkZabavaPlaylist",Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl3" $ExtFilter="WinkZabavaPlaylist",Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl3" $ExtFilter="WinkZabavaPlaylist",Первый канал (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl3" $ExtFilter="WinkZabavaPlaylist",Первый канал (+3)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl4" $ExtFilter="WinkZabavaPlaylist",Первый канал (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl4" $ExtFilter="WinkZabavaPlaylist",Первый канал (+4)
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl4" $ExtFilter="WinkZabavaPlaylist",Первый канал (+4)
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/621ee43520f50c8cd7e48c4845095915.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl4" $ExtFilter="WinkZabavaPlaylist",Первый канал (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl5.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl5" $ExtFilter="WinkZabavaPlaylist",Первый канал (+5)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl5.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl5" $ExtFilter="WinkZabavaPlaylist",Первый канал (+5)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl5.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl5" $ExtFilter="WinkZabavaPlaylist",Первый канал (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_IRKUTSK/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/f60988945329df2963bf932d7035dee9.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl5" $ExtFilter="WinkZabavaPlaylist",Первый канал (+5)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_UUDE_1TV_ULAN/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl6.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl6" $ExtFilter="WinkZabavaPlaylist",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl6.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl6" $ExtFilter="WinkZabavaPlaylist",Первый канал (+6)
+https://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl6.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl6" $ExtFilter="WinkZabavaPlaylist",Первый канал (+6)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/d85f45e8d3641438124cbe5d31586e4b.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl6" $ExtFilter="WinkZabavaPlaylist",Первый канал (+6)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl7" $ExtFilter="WinkZabavaPlaylist",Первый канал (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl7" $ExtFilter="WinkZabavaPlaylist",Первый канал (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl8" $ExtFilter="WinkZabavaPlaylist",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl8" $ExtFilter="WinkZabavaPlaylist",Первый канал (+8)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl8" $ExtFilter="WinkZabavaPlaylist",Первый канал (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl8" $ExtFilter="WinkZabavaPlaylist",Первый канал (+8)
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/79ecb44f8584c29c06dbd8dcfaf46f89.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl8" $ExtFilter="WinkZabavaPlaylist",Первый канал (+8)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl9.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl9" $ExtFilter="WinkZabavaPlaylist",Первый канал (+9)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl9.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl9" $ExtFilter="WinkZabavaPlaylist",Первый канал (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl9.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl9" $ExtFilter="WinkZabavaPlaylist",Первый канал (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-mn1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-mn1" $ExtFilter="WinkZabavaPlaylist",Первый канал (-1)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-mn1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-mn1" $ExtFilter="WinkZabavaPlaylist",Первый канал (-1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-mn1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-mn1" $ExtFilter="WinkZabavaPlaylist",Первый канал (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="10" $ExtFilter="WinkZabavaPlaylist",Первый канал (-10)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="11" $ExtFilter="WinkZabavaPlaylist",Первый канал (-11)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="12" $ExtFilter="WinkZabavaPlaylist",Первый канал (-12)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",Первый канал (-13)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",Первый канал (-14)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",Первый канал (-15)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="2" $ExtFilter="WinkZabavaPlaylist",Первый канал (-2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="3" $ExtFilter="WinkZabavaPlaylist",Первый канал (-3)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="4" $ExtFilter="WinkZabavaPlaylist",Первый канал (-4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="5" $ExtFilter="WinkZabavaPlaylist",Первый канал (-5)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="6" $ExtFilter="WinkZabavaPlaylist",Первый канал (-6)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="7" $ExtFilter="WinkZabavaPlaylist",Первый канал (-7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="8" $ExtFilter="WinkZabavaPlaylist",Первый канал (-8)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy" tvg-shift="9" $ExtFilter="WinkZabavaPlaylist",Первый канал (-9)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",Первый канал (Магадан)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_1TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl2" $ExtFilter="WinkZabavaPlaylist",Первый канал +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl4" $ExtFilter="WinkZabavaPlaylist",Первый канал +4
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KRASN_KRAI/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/pervy-pl8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_pervy-pl8" $ExtFilter="WinkZabavaPlaylist",Первый канал +8
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",Первый канал -(-16)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/Пятница HD.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_piatnica" $ExtFilter="WinkZabavaPlaylist",Пятница
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Пятница! (+2)" $ExtFilter="WinkZabavaPlaylist",Пятница! +2
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Пятница! (+7)" $ExtFilter="WinkZabavaPlaylist",Пятница! +7
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",Пятый
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_5kanal-ru" $ExtFilter="WinkZabavaPlaylist",Пятый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_5kanal-ru" tvg-shift="-1" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+1)
+http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_5TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/2035.png" tvg-id="cc668781276fd092727c0507369cc752_2035" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/2035.png" tvg-id="cc668781276fd092727c0507369cc752_2035" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_5kanal-ru" tvg-shift="-3" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R02_5TV_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/93/de79d49c502f84f3e5fa25f8c1f3e693.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Пятый канал (+4)" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/93/de79d49c502f84f3e5fa25f8c1f3e693.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Пятый канал (+4)" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/c57aed7087905cdc9b0bff02d72bc096.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Пятый канал (+4)" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_5TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_5kanal-ru" tvg-shift="-5" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+5)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0930/6b/3649acad65785985084e47e86609516b.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Пятый канал (+6)" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/81/b51886b9a84f71f50e0d5b20ef67a681.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Пятый канал (+7)" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/81/b51886b9a84f71f50e0d5b20ef67a681.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Пятый канал (+7)" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/81/b51886b9a84f71f50e0d5b20ef67a681.png" tvg-id="f736135dfb80936a523d63c9a10f2613_Пятый канал (+7)" $ExtFilter="WinkZabavaPlaylist",Пятый канал (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?version=2&offset=0
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/5kanal-ru.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_5kanal-ru" tvg-shift="1" $ExtFilter="WinkZabavaPlaylist",Пятый канал (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_OTT_NW_KLGR_5TV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/5kanal-ru-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_5kanal-ru-pl2" $ExtFilter="WinkZabavaPlaylist",Пятый канал +2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/5kanal-ru-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_5kanal-ru-pl4" $ExtFilter="WinkZabavaPlaylist",Пятый канал +4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/5kanal-ru-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_5kanal-ru-pl7" $ExtFilter="WinkZabavaPlaylist",Пятый канал +7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_RENTV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" $ExtFilter="WinkZabavaPlaylist",Рен ТВ
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_NTV_URAL_EKT/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="-1" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (+1)
+http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STH_ASTRH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv-pl2" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/a1ccb59a17cfd033c0354f36dc7a9f62.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv-pl2" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_URAL_CHEL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv-pl4" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/76cf0974aefcda57925eb075eb95ea84.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv-pl4" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_RENTV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="-5" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (+5)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_BURAT/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv-pl7" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="1" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-1)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="1" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="10" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-10)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="11" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-11)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-39600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="12" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-12)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-43200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-13)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-46800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-14)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-50400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-15)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-57600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-16)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-61200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="2" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-7200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="3" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-3)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-10800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="4" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-14400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="5" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-5)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-18000
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="6" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-6)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-21600
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="7" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-25200
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="8" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-8)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-28800
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rentv" tvg-shift="9" $ExtFilter="WinkZabavaPlaylist",РЕН ТВ (-9)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8?version=2&offset=-32400
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/1e/85f294a6ddf35c85f064a5af1d7ca71e.png" tvg-id="f736135dfb80936a523d63c9a10f2613_РЕН ТВ (+2)" $ExtFilter="WinkZabavaPlaylist",Рен ТВ +2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/3033.png" tvg-id="cc668781276fd092727c0507369cc752_3033" $ExtFilter="WinkZabavaPlaylist",Рен ТВ +4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/3034.png" tvg-id="cc668781276fd092727c0507369cc752_3034" $ExtFilter="WinkZabavaPlaylist",Рен ТВ +7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1" $ExtFilter="WinkZabavaPlaylist",Россия 1
+http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SAMARA_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1" $ExtFilter="WinkZabavaPlaylist",Россия 1
+http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1" $ExtFilter="WinkZabavaPlaylist",Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1" $ExtFilter="WinkZabavaPlaylist",Россия 1
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1" $ExtFilter="WinkZabavaPlaylist",Россия 1
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl1" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+1)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl1" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+1)
+https://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl1" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl2" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl2" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl3" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+3)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl3" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl3" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+3)
+https://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl3" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl4" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl4" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/4a1bba6bd30bf26c90e0ddcd9cd92996.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl4" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl5" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+5)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl5" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl5" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+5)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl5.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl5" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+5)
+https://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl6.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl6" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl6.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl6" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+6)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl6.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl6" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+6)
+https://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/5087bdc8363e9b938a924f1e4d470bf7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl6" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+6)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA1_ZK/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl7" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl7" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl7" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+7)
+https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/701138c2017a433b077b6c000f4639be.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl7" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+7)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl8" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl8" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+8)
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl8" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl8.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl8" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+8)
+https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/b7931240dc54f92b38e1069554206fb0.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl8" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+8)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl9.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl9" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+9)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl9.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl9" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-pl9.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-pl9" $ExtFilter="WinkZabavaPlaylist",Россия 1 (+9)
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-m1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-m1" $ExtFilter="WinkZabavaPlaylist",Россия 1 (-1)
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-m1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-m1" $ExtFilter="WinkZabavaPlaylist",Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-m1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-m1" $ExtFilter="WinkZabavaPlaylist",Россия 1 (-1)
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/rossia1-m1.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia1-m1" $ExtFilter="WinkZabavaPlaylist",Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?|User-agent=HlsWinkPlayer
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",Россия 1 (Хабаровск)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/797756d8f9f3521965ca4daba1d6f5bb.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_rossia-24" $ExtFilter="WinkZabavaPlaylist",Россия 24
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/0a20fc3d5981813494d046f9b86bc128.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kultura" $ExtFilter="WinkZabavaPlaylist",Россия К
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/82c76d78fa66d74cb28efe6ede677b7f.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kultura-pl2" $ExtFilter="WinkZabavaPlaylist",Россия К (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_ROSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/097c32be459376e0190ce0959c4b7a6b.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_kultura-pl4" $ExtFilter="WinkZabavaPlaylist",Россия К (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_ROSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="http://epg.it999.ru/img/711.png" tvg-id="cc668781276fd092727c0507369cc752_3001" $ExtFilter="WinkZabavaPlaylist",Россия-1 +4
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4//variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="https://iptvx.one/picons/solnce-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_solnce-pl2" $ExtFilter="WinkZabavaPlaylist",Солнце (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/Спас.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_spas-pl2" $ExtFilter="WinkZabavaPlaylist",Спас (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/Спас.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_spas-pl7" $ExtFilter="WinkZabavaPlaylist",Спас (+7)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/СТС.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_sts-pl2" $ExtFilter="WinkZabavaPlaylist",СТС (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_sts-love-pl4" $ExtFilter="WinkZabavaPlaylist",СТС Love (+4)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_sts-love-pl7" $ExtFilter="WinkZabavaPlaylist",СТС Love (+7)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="http://www.vsetv.com/pic/channel_logos/1302.gif" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_super" $ExtFilter="WinkZabavaPlaylist",Суббота
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/playlist.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr" $ExtFilter="WinkZabavaPlaylist",ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr" $ExtFilter="WinkZabavaPlaylist",ТВ Центр
+https://s39787.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr" $ExtFilter="WinkZabavaPlaylist",ТВ Центр
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr" tvg-shift="-1" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (+1)
+http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_ASTRH_TVC/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/dd/fecc0db23a434a8ac3105b0cb4dd62dd.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВ Центр (+2)" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/dd/fecc0db23a434a8ac3105b0cb4dd62dd.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВ Центр (+2)" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/65d87b29d310d561e5d5d535ff222569.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВ Центр (+2)" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_URAL_CHEL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr" tvg-shift="-3" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_TVC_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/a1/6b83cb6a270e56e8db20699becd86aa1.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВ Центр (+4)" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://karnei4.github.io/convert/logo-z/94f335f79f4d098cda5c065361898fae.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВ Центр (+4)" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr" tvg-shift="-5" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (+5)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_TVC_BURAT/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://i115.fastpic.org/big/2021/0927/6e/df6f6393ab1a70d0ed8cbc13a1dd9b6e.png" tvg-id="f736135dfb80936a523d63c9a10f2613_ТВ Центр (+7)" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr" tvg-shift="1" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="WinkZabavaPlaylist",ТВ Центр (Мурманск)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_MURM_TVC/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr-pl2" $ExtFilter="WinkZabavaPlaylist",ТВ Центр +2
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr-pl4" $ExtFilter="WinkZabavaPlaylist",ТВ Центр +4
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tvcentr-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tvcentr-pl7" $ExtFilter="WinkZabavaPlaylist",ТВ Центр +7
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tv3-ru.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv3-ru" tvg-shift="-1" $ExtFilter="WinkZabavaPlaylist",ТВ3 (+1)
+http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ASTRH_TV3/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tv3-ru-pl3.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv3-ru-pl3" $ExtFilter="WinkZabavaPlaylist",ТВ3 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R01_TV3_OMSKOBL/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tv3-ru.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv3-ru" tvg-shift="-5" $ExtFilter="WinkZabavaPlaylist",ТВ3 (+5)
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_TV3_BURAT/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tv3-ru-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv3-ru-pl7" $ExtFilter="WinkZabavaPlaylist",ТВ3 (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tv3-ru.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tv3-ru" tvg-shift="1" $ExtFilter="WinkZabavaPlaylist",ТВ3 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/3037.png" tvg-id="cc668781276fd092727c0507369cc752_3037" $ExtFilter="WinkZabavaPlaylist",ТВЦ +4
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="http://epg.one/img/3038.png" tvg-id="cc668781276fd092727c0507369cc752_3038" $ExtFilter="WinkZabavaPlaylist",ТВЦ +7
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt" $ExtFilter="WinkZabavaPlaylist",ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt" $ExtFilter="WinkZabavaPlaylist",ТНТ
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt" $ExtFilter="WinkZabavaPlaylist",ТНТ
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tnt-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt-pl2" $ExtFilter="WinkZabavaPlaylist",ТНТ (+2)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tnt-pl2.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt-pl2" $ExtFilter="WinkZabavaPlaylist",ТНТ (+2)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tnt-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt-pl4" $ExtFilter="WinkZabavaPlaylist",ТНТ (+4)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tnt-pl4.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt-pl4" $ExtFilter="WinkZabavaPlaylist",ТНТ (+4)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?version=2
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tnt-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt-pl7" $ExtFilter="WinkZabavaPlaylist",ТНТ (+7)
+#EXTVLCOPT:http-user-agent=SmartTV
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="🏝 + Плюсовые✨" tvg-logo="https://iptvx.one/picons/tnt-pl7.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_tnt-pl7" $ExtFilter="WinkZabavaPlaylist",ТНТ (+7)
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?version=2
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/Че!.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_che-pl2" $ExtFilter="WinkZabavaPlaylist",Че! (+2)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_2/variant.m3u8
+#EXTINF:-1 group-title="Основные" tvg-logo="../Channel/Logo/Че!.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_che-pl2" $ExtFilter="WinkZabavaPlaylist",Че! (+2)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/Че!.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_che-pl4" $ExtFilter="WinkZabavaPlaylist",Че! (+4)
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_4/variant.m3u8
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="../Channel/Logo/Ю.png" tvg-id="0aff53edcbcf5111e3a2b47f80701b10_yu" $ExtFilter="WinkZabavaPlaylist",Ю
+#EXTVLCOPT:http-user-agent=WINK/RT_(Android_TV/11)_WinkPlayer_AppleWebKit/537.36
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8
