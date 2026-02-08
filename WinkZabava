@@ -1,571 +1,580 @@
 #EXTM3U 
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="1", Первый канал (-1)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-1", Первый канал (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-2", Первый канал (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-3", Первый канал (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-4", Первый канал (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-5", Первый канал (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-6", Первый канал (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-7", Первый канал (+7)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-8", Первый канал (+8)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-8" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+8)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-9", Первый канал (+9 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-9" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+9 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="1", Россия 1 (-1)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1 (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-1", Россия 1 (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-2", Россия 1 (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-3", Россия 1 (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-4", Россия 1 (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-5", Россия 1 (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-6", Россия 1 (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-7", Россия 1 (+7)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-8", Россия 1 (+8)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-8" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-9", Россия 1 (+9 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-9" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+9 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr", ТВ Центр (-1)
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr", ТВ Центр (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-1", ТВ Центр (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-2", ТВ Центр (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-3", ТВ Центр (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-4", ТВ Центр (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-5", ТВ Центр (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-6", ТВ Центр (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-7", ТВ Центр (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-1", НТВ (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-2", НТВ (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-3", НТВ (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-4", НТВ (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-5", НТВ (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-6", НТВ (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-7", НТВ (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал (-1)
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_OTT_NW_KLGR_5TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-1", Пятый канал (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-2", Пятый канал (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-3", Пятый канал (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-4", Пятый канал (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-5", Пятый канал (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-6", Пятый канал (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-7", Пятый канал (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="1", ТВ-3 (-1)
+#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru", ТВ-3 (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-1", ТВ-3 (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-2", ТВ-3 (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-3", ТВ-3 (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-4", ТВ-3 (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-5", ТВ-3 (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-6", ТВ-3 (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-7", ТВ-3 (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts", СТС (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="sts" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-1", СТС (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-2", СТС (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-3", СТС (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-4", СТС (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-5", СТС (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-6", СТС (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-7", СТС (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love", СТС Love (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="sts-love" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-1", СТС Love (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-2", СТС Love (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-3", СТС Love (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-4", СТС Love (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-5", СТС Love (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-6", СТС Love (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-7", СТС Love (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="domashny", Домашний (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="domashny" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-1", Домашний (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-2", Домашний (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-3", Домашний (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-4", Домашний (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-5", Домашний (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-6", Домашний (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-7", Домашний (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt", ТНТ (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-1", ТНТ (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-2", ТНТ (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-3", ТНТ (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-4", ТНТ (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-5", ТНТ (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-6", ТНТ (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Развлечение" tvg-id="sts-love-pl7", ТНТ +7 (Архив)
+#EXTINF:-1 group-title="Развлечение" tvg-id="sts-love-pl7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4", ТНТ4 (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-1", ТНТ4 (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-2", ТНТ4 (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-3", ТНТ4 (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-4", ТНТ4 (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-5", ТНТ4 (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-6", ТНТ4 (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-7", ТНТ4 (+7) (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+7) (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="1", РЕН ТВ (-1)
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv", РЕН ТВ (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-1", РЕН ТВ (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-2", РЕН ТВ (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-3", РЕН ТВ (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-4", РЕН ТВ (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-5", РЕН ТВ (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-6", РЕН ТВ (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-7", РЕН ТВ (+7) (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+7) (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir", Мир (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="mir" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-1", Мир (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-2", Мир (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-3", Мир (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-4", Мир (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-5", Мир (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-6", Мир (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-7", Мир (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="otr", ОТР
+#EXTINF:-1 group-title="Общие" tvg-id="otr" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia-24", Россия 24 (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="rossia-24" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="otr",Всё ТВ HD
+#EXTINF:-1 group-title="Общие" tvg-id="otr" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Всё ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="kultura", Россия Культура (Архив)
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Общие" tvg-id="kultura" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-1", Россия Культура (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-2", Россия Культура (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-3", Россия Культура (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-4", Россия Культура (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-5", Россия Культура (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-6", Россия Культура (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-7", Россия Культура (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-1", Звезда (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-2", Звезда (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-3", Звезда (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-4", Звезда (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-5", Звезда (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-6", Звезда (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-7", Звезда (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="che", Че! (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="che" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-1", Че! (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-2", Че! (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-3", Че! (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-4", Че! (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-5", Че! (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-6", Че! (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-7", Че! (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica", Пятница! (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="piatnica" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-1", Пятница! (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-2", Пятница! (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-3", Пятница! (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-4", Пятница! (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-5", Пятница! (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-6", Пятница! (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-7", Пятница! (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="super", Суббота! (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="super" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-1", Суббота! (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-2", Суббота! (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-3", Суббота! (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-4", Суббота! (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-5", Суббота! (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-6", Суббота! (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-7", Суббота! (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="solnce", Солнце (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="solnce" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-1", Солнце (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-2", Солнце (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-3", Солнце (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-4", Солнце (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-5", Солнце (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-6", Солнце (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-7", Солнце (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="yu", Ю-ТВ (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="yu" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-1", Ю-ТВ (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-2", Ю-ТВ (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-3", Ю-ТВ (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-4", Ю-ТВ (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-5", Ю-ТВ (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-6", Ю-ТВ (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-7", Ю-ТВ (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="2x2", 2x2 (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="2x2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-1", 2x2 (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-2", 2x2 (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-3", 2x2 (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-4", 2x2 (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-5", 2x2 (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-6", 2x2 (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-7", 2x2 (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="karusel", Карусель (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="karusel" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-1", Карусель (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-1" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-2", Карусель (+2)
+#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-2" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-3", Карусель (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-3" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-4", Карусель (+4)
+#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-4" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-5", Карусель (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-5" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-6", Карусель (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-6" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-7", Карусель (+7 Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="-7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+7 Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="match-tv", Матч! (Архив)
+#EXTINF:-1 group-title="Общие" tvg-id="match-tv" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
