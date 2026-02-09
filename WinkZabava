@@ -245,22 +245,22 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="tnt" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="1" , ТНТ (+1)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="1", ТНТ (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?offset=-3600
 #EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="3" , ТНТ (+3)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="3", ТНТ (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?offset=-3600
 #EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="5" , ТНТ (+5)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="5", ТНТ (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="6" , ТНТ (+6)
+#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="6", ТНТ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?offset=-3600
 #EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+7)
@@ -569,6 +569,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч!
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
 
 
 
