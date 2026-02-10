@@ -1,0 +1,321 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_162",НТВ HD
+udp://@239.255.5.95:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_146",Первый канал HD
+udp://@239.255.2.185:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_711",Россия 1 HD
+udp://@239.255.2.120:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Про Бизнес.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pro-business",Про бизнес
+udp://@239.255.2.119:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/2x2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
+udp://@239.255.2.115:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1683",Россия-24
+udp://@239.255.2.109:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt",ТНТ
+udp://@239.255.2.100:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica",Пятница!
+udp://@239.255.2.98:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy",Первый канал
+udp://@239.255.2.97:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_162",НТВ HD
+udp://@239.255.2.95:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
+udp://@239.255.2.91:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
+udp://@239.255.2.90:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Старт.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9080",Арт
+udp://@239.255.2.87:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_187",Россия К
+udp://@239.255.2.68:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
+udp://@239.255.2.67:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Матч! HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_match-tv",Матч! ТВ
+udp://@239.255.2.65:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний
+udp://@239.255.2.63:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Ю.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yu",Ю
+udp://@239.255.2.62:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/СТС.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС
+udp://@239.255.2.61:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",Рен ТВ
+udp://@239.255.2.59:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvcentr",ТВ Центр
+udp://@239.255.2.58:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/БелРос.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tro",БелРос
+udp://@239.255.2.52:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
+udp://@239.255.2.18:5500
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",МТС Инфо
+udp://@239.255.2.1:5500
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/insight-ultra-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_insight-ultra-hd",Insight Ultra HD
+udp://@239.255.2.213:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_146",Первый канал HD
+udp://@239.255.5.185:5500
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Multiscreen
+udp://@239.255.4.218:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4466",Kinojam 1 HD
+udp://@239.255.4.200:5500
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",МТС Тест
+udp://@239.255.3.194:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv3-ru-pl2",ТВ-3 (+2)
+udp://@239.255.3.159:5500
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/tv-guberniya.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv-guberniya",TV Губерния
+udp://@239.255.3.153:5500
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/evrasia.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_evrasia",Евразия Орск
+udp://@239.255.3.151:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zvezda-pl7",Звезда (+7)
+udp://@239.255.3.138:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zvezda-pl4",Звезда (+4)
+udp://@239.255.3.137:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2039",Звезда (+2)
+udp://@239.255.3.136:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt-pl7",ТНТ (+7)
+udp://@239.255.3.135:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica-pl7",Пятница! (+7)
+udp://@239.255.3.134:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt-pl4",ТНТ (+4)
+udp://@239.255.3.128:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_3022",ТНТ (+2)
+udp://@239.255.3.127:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica-pl4",Пятница! (+4)
+udp://@239.255.3.125:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica-pl2",Пятница! (+2)
+udp://@239.255.3.124:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv3-ru-pl4",ТВ-3 (+4)
+udp://@239.255.3.122:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv3-ru-pl2",ТВ-3 (+2)
+udp://@239.255.3.121:5500
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/appetitny.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_appetitny",Аппетитный
+udp://@239.255.3.114:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Радио Romantika.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_romance",Romance
+udp://@239.255.3.112:5500
+#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2156.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2156",Duck TV HD
+udp://@239.255.3.106:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2498",В мире животных HD
+udp://@239.255.3.104:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2831",Наш Кинопоказ HD
+udp://@239.255.3.103:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bridge-tv-rock",Bridge TV Rock
+udp://@239.255.3.96:5500
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/minijam.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_minijam",MiniJam
+udp://@239.255.3.94:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Ратник.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2470",Ратник
+udp://@239.255.3.93:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Неизвестная планета.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9015",Неизвестная Россия HD
+udp://@239.255.3.92:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bolt-ru",Bolt HD Россия
+udp://@239.255.3.86:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_3328",Star Cinema Россия
+udp://@239.255.3.85:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Star Family HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9162",Star Family Россия HD
+udp://@239.255.3.84:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/FAN.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2359",FAN HD
+udp://@239.255.3.82:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Хит HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2833",Хит HD
+udp://@239.255.3.81:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Шант Kids HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9025",Kids TV HD
+udp://@239.255.3.74:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТВ-3 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3 HD
+udp://@239.255.3.72:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний HD
+udp://@239.255.3.69:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_146",Первый канал HD
+udp://@239.255.3.66:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinokult",КиноКульт
+udp://@239.255.3.65:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Russian Extreme Ultra.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_russian-musicbox",Russian MusicBox HD
+udp://@239.255.3.62:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Муз-ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_897",Муз-ТВ HD
+udp://@239.255.3.56:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Мир.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир HD
+udp://@239.255.3.44:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда HD
+udp://@239.255.3.43:5500
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",Multiscreen
+udp://@239.255.3.38:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Ocean-TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_55",Ocean-TV
+udp://@239.255.3.35:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Суббота!.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2288",Суббота HD
+udp://@239.255.3.28:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1649",ТНТ4 HD
+udp://@239.255.3.27:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_353",ТНТ HD
+udp://@239.255.3.26:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1003",Пятница! HD
+udp://@239.255.3.25:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Матч! HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2051",Матч! HD
+udp://@239.255.3.21:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/2x2.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_2na2",2x2 HD
+udp://@239.255.3.5:5500
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",MТС Инфо
+udp://@239.255.5.1:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Матч! HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_match-tv",Матч! ТВ
+udp://@239.255.4.148:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский роман
+udp://@239.255.3.180:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/СТС.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sts-pl2",СТС (+2)
+udp://@239.255.3.158:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
+udp://@239.255.3.157:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvcentr-pl2",ТВ Центр +2
+udp://@239.255.3.156:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Русский север.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_russky-sever",Русский Север
+udp://@239.255.3.154:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
+udp://@239.255.3.150:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Матч! HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_match-tv",Матч! ТВ
+udp://@239.255.3.148:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
+udp://@239.255.3.147:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/СТС.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС
+udp://@239.255.3.146:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Матч! HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_match-tv",Матч! ТВ
+udp://@239.255.3.145:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvcentr",ТВ Центр
+udp://@239.255.3.144:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
+udp://@239.255.3.143:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
+udp://@239.255.3.142:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy",Первый канал
+udp://@239.255.3.141:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1-pl7",Россия 1 (+7)
+udp://@239.255.3.133:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
+udp://@239.255.3.131:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kultura-pl2",Россия К +2
+udp://@239.255.3.130:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
+udp://@239.255.3.129:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_domashny-pl2",Домашний (+2)
+udp://@239.255.3.126:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Че!.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1598",Че!
+udp://@239.255.3.123:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9183",Cartoon Classics
+udp://@239.255.3.111:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9024",Киномульт
+udp://@239.255.3.110:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ТНВ-Планета (Казань).png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_933",ТНВ-Планета
+udp://@239.255.3.95:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_plan-b",Plan_B
+udp://@239.255.3.89:5500
+#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",МТС Тест
+udp://@239.255.3.88:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Живая планета.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2432",Живая планета
+udp://@239.255.3.87:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1620",Русская комедия
+udp://@239.255.3.83:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Техно 24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_texno-24",Техно 24
+udp://@239.255.3.80:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Русский детектив.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1570",Русский детектив
+udp://@239.255.3.79:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Психология.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2450",Психология 21
+udp://@239.255.3.78:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1322",СТС Love
+udp://@239.255.3.77:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Ключ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kluch",Ключ
+udp://@239.255.3.76:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_domashny-pl4",Домашний (+4)
+udp://@239.255.3.71:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Шант Music HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_musicbox",Musicbox Gold
+udp://@239.255.3.63:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Ю.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yu",Ю
+udp://@239.255.3.57:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/СТС.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sts-pl4",СТС (+4)
+udp://@239.255.3.55:5500
+#EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/mtv-volgograd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mtv-volgograd",МТВ Волгоград
+udp://@239.255.3.53:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy-pl7",Первый канал (+7)
+udp://@239.255.3.52:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/СТС.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sts-pl2",СТС (+2)
+udp://@239.255.3.51:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал +2
+udp://@239.255.3.50:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1000",ОТР
+udp://@239.255.3.49:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
+udp://@239.255.3.48:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_6750",Губерния Самара
+udp://@239.255.3.47:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
+udp://@239.255.3.45:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/СТС.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС
+udp://@239.255.3.40:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
+udp://@239.255.3.39:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Ямал-регион.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_region29",Регион 29
+udp://@239.255.3.37:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Загородная жизнь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2298",Загородная жизнь
+udp://@239.255.3.34:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний
+udp://@239.255.3.31:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy",Первый канал
+udp://@239.255.3.30:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_domashny-pl7",Домашний (+7)
+udp://@239.255.3.23:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/СТС.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sts-pl7",СТС (+7)
+udp://@239.255.3.19:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_994",Русский бестселлер
+udp://@239.255.3.14:5500
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Супер.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2239",Супергерои
+udp://@239.255.3.10:5500
+#EXTINF:-1 ,MTS:Amedia 1 HD-udp://@239.255.2.5:5500
+udp://@239.255.2.5:5500
+#EXTINF:-1 ,Harmonic:Program-1-udp://@239.255.2.6:5500
+udp://@239.255.2.6:5500
+#EXTINF:-1 ,MTS:Amedia Premium HD-udp://@239.255.2.247:5500
+udp://@239.255.2.247:5500
+#EXTINF:-1 ,Harmonic:Solntce (+2)-udp://@239.255.3.6:5500
+udp://@239.255.3.6:5500
+#EXTINF:-1 ,Harmonic:U (2)-udp://@239.255.3.7:5500
+udp://@239.255.3.7:5500
+#EXTINF:-1 ,Harmonic:2x2 (2)-udp://@239.255.3.8:5500
+udp://@239.255.3.8:5500
+#EXTINF:-1 ,Harmonic:STS LOVE+2 SD-udp://@239.255.3.9:5500
+udp://@239.255.3.9:5500
+#EXTINF:-1 ,Harmonic:THT4_2-udp://@239.255.3.11:5500
+udp://@239.255.3.11:5500
+#EXTINF:-1 ,Harmonic:Subbota +2-udp://@239.255.3.12:5500
+udp://@239.255.3.12:5500
+#EXTINF:-1 ,Harmonic:CHE+2-udp://@239.255.3.13:5500
+udp://@239.255.3.13:5500
+#EXTINF:-1 ,РТРС:-udp://@239.255.3.16:5500
+udp://@239.255.3.16:5500
+#EXTINF:-1 ,Harmonic:Solntce (+7)-udp://@239.255.3.17:5500
+udp://@239.255.3.17:5500
+#EXTINF:-1 ,Harmonic:U (7)-udp://@239.255.3.18:5500
+udp://@239.255.3.18:5500
+#EXTINF:-1 ,Harmonic:Che+7-udp://@239.255.3.22:5500
+udp://@239.255.3.22:5500
+#EXTINF:-1 ,Harmonic:2x2 (+4)-udp://@239.255.3.24:5500
+udp://@239.255.3.24:5500
+#EXTINF:-1 ,Harmonic:THT4+4-udp://@239.255.3.29:5500
+udp://@239.255.3.29:5500
+#EXTINF:-1 ,Harmonic:Subbota+7-udp://@239.255.3.33:5500
+udp://@239.255.3.33:5500
+#EXTINF:-1 ,Harmonic:Solntce (+4)-udp://@239.255.3.36:5500
+udp://@239.255.3.36:5500
+#EXTINF:-1 ,Harmonic:U (4)-udp://@239.255.3.42:5500
+udp://@239.255.3.42:5500
+#EXTINF:-1 ,Harmonic:Che +4-udp://@239.255.3.46:5500
+udp://@239.255.3.46:5500
+#EXTINF:-1 ,Harmonic:STS Love+4-udp://@239.255.3.54:5500
+udp://@239.255.3.54:5500
+#EXTINF:-1 ,Harmonic:Subbota +4-udp://@239.255.3.58:5500
+udp://@239.255.3.58:5500
+#EXTINF:-1 ,Harmonic:2x2 +7-udp://@239.255.3.59:5500
+udp://@239.255.3.59:5500
+#EXTINF:-1 ,Harmonic:TNT4 +7-udp://@239.255.3.60:5500
+udp://@239.255.3.60:5500
+#EXTINF:-1 ,Harmonic:U (0)-udp://@239.255.3.61:5500
+udp://@239.255.3.61:5500
+#EXTINF:-1 ,Harmonic:Che+0-udp://@239.255.3.64:5500
+udp://@239.255.3.64:5500
+#EXTINF:-1 ,Harmonic:TNT4-0-udp://@239.255.3.67:5500
+udp://@239.255.3.67:5500
+#EXTINF:-1 ,Harmonic:Subbota +0-udp://@239.255.3.68:5500
+udp://@239.255.3.68:5500
+#EXTINF:-1 ,Harmonic:STS LOVE 0+ sint M9-udp://@239.255.3.73:5500
+udp://@239.255.3.73:5500
+#EXTINF:-1 ,Harmonic:A+K-udp://@239.255.3.75:5500
+udp://@239.255.3.75:5500
