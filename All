@@ -2737,7 +2737,7 @@ http://185.46.16.239:8000/Fox_Life_HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="simpleTVFakeEpgId",Беларусь 24 HD1
 https://edge51.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="http://epg.one/img2/2538.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2538",Беларусь 1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="belarus1",Беларусь 1
 http://194.158.222.36:6101
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="belarus1",Беларусь 1 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
@@ -3463,4 +3463,5 @@ http://193.25.8.59:8000/dtx
 http://185.164.82.18:9010/ykMHqK_NatGeo
 #EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo Wild
 http://185.164.82.18:9010/ykMHqK_NatGeoWild
+
 
