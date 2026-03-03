@@ -1401,35 +1401,35 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/24.m3u8
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
-#EXTINF:-1 group-title="minsktelecom.by",ZALA:Беларусь 2-http://194.158.222.36:6111
+#EXTINF:-1 group-title="minsktelecom.by",Беларусь 2
 http://194.158.222.36:6111
-#EXTINF:-1 group-title="minsktelecom.by",ZALA:Беларусь 5-http://194.158.222.36:6109
+#EXTINF:-1 group-title="minsktelecom.by",Беларусь 5
 http://194.158.222.36:6109
-#EXTINF:-1 group-title="minsktelecom.by",Beltelecom:Belarus 3-http://194.158.222.36:6108
+#EXTINF:-1 group-title="minsktelecom.by",Беларусь 3
 http://194.158.222.36:6108
-#EXTINF:-1 group-title="minsktelecom.by",Beltelecom:NTV Belarus-http://194.158.222.36:6107
+#EXTINF:-1 group-title="minsktelecom.by",НТВ Беларусь
 http://194.158.222.36:6107
-#EXTINF:-1 group-title="minsktelecom.by",Beltelecom:RTR Belarus-http://194.158.222.36:6106
+#EXTINF:-1 group-title="minsktelecom.by",RTR Беларусь
 http://194.158.222.36:6106
-#EXTINF:-1 group-title="minsktelecom.by",Beltelecom:Perviy Informacionniy-http://194.158.222.36:6105
+#EXTINF:-1 group-title="minsktelecom.by",Первый информационный
 http://194.158.222.36:6105
-#EXTINF:-1 group-title="minsktelecom.by",Beltelecom:MIR-http://194.158.222.36:6104
+#EXTINF:-1 group-title="minsktelecom.by",Мир
 http://194.158.222.36:6104
-#EXTINF:-1 group-title="minsktelecom.by",Beltelecom:STV-http://194.158.222.36:6103
+#EXTINF:-1 group-title="minsktelecom.by",СТВ by
 http://194.158.222.36:6103
-#EXTINF:-1 group-title="minsktelecom.by",Beltelecom:ONT-http://194.158.222.36:6102
+#EXTINF:-1 group-title="minsktelecom.by",ОНТ by
 http://194.158.222.36:6102
-#EXTINF:-1 group-title="minsktelecom.by",Beltelecom:Belarus1-http://194.158.222.36:6101
+#EXTINF:-1 group-title="minsktelecom.by",Беларусь 1
 http://194.158.222.36:6101
-#EXTINF:-1 group-title="minsktelecom.by",Orion Express:Оружие-http://194.158.222.36:6093
+#EXTINF:-1 group-title="minsktelecom.by",Оружие
 http://194.158.222.36:6093
-#EXTINF:-1 group-title="minsktelecom.by",COSMOS Media:-http://194.158.222.36:6089
+#EXTINF:-1 group-title="minsktelecom.by",Матч Планета
 http://194.158.222.36:6089
-#EXTINF:-1 group-title="minsktelecom.by",Orion Express:RTG TV-http://194.158.222.36:6039
+#EXTINF:-1 group-title="minsktelecom.by",RTG TV
 http://194.158.222.36:6039
-#EXTINF:-1 group-title="minsktelecom.by",HTB+:-http://194.158.222.36:6037
+#EXTINF:-1 group-title="minsktelecom.by",Россия К
 http://194.158.222.36:6037
-#EXTINF:-1 group-title="minsktelecom.by",HTB+:-http://194.158.222.36:6013
+#EXTINF:-1 group-title="minsktelecom.by",KHL
 http://194.158.222.36:6013
 #EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",FTV HD
 http://213.230.65.254:8000/play/a004
@@ -3463,5 +3463,6 @@ http://193.25.8.59:8000/dtx
 http://185.164.82.18:9010/ykMHqK_NatGeo
 #EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo Wild
 http://185.164.82.18:9010/ykMHqK_NatGeoWild
+
 
 
