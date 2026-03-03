@@ -2663,6 +2663,30 @@ http://87.246.54.249:8080/MIR/index.m3u8
 http://87.246.54.249:8080/CTC_Kids/index.m3u8
 #EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId",Киномикс HD
 http://87.246.54.249:8080/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId",Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="simpleTVFakeEpgId",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Наука.png" tvg-id="simpleTVFakeEpgId",Наука 2.0
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Travel+ adventure.png" tvg-id="simpleTVFakeEpgId",Travel+Adventure
+http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="simpleTVFakeEpgId",Viasat Explore
+http://45.145.32.13:20440/viasat_explore/index.m3u8?token=test
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="simpleTVFakeEpgId",Viasat History
+http://45.145.32.13:20440/viasat_history/index.m3u8?token=test
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Viasat nature.png" tvg-id="simpleTVFakeEpgId",Viasat Nature
+http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
+#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",Big Planet
+http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="simpleTVFakeEpgId",Galaxy
+http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
+#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",Epic
+http://193.25.8.59:8000/dtx
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo
+http://185.164.82.18:9010/ykMHqK_NatGeo
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo Wild
+http://185.164.82.18:9010/ykMHqK_NatGeoWild
 #EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",KINO TV
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",Zhivaja Planeta
@@ -3419,6 +3443,10 @@ http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="IPTVPLAY (Кинозал)" tvg-logo="https://i.postimg.cc/v8KFj826/1.png" tvg-id="simpleTVFakeEpgId",IPTVPLAY Великая Отечественная HD
 http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="IPTVPLAY (Кинозал)" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" tvg-id="simpleTVFakeEpgId",Ералаш
+http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPTVPLAY (Кинозал)" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" tvg-id="simpleTVFakeEpgId",Ералаш 2
+https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" tvg-id="simpleTVFakeEpgId",НТВ Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" tvg-id="simpleTVFakeEpgId",НТВ Первый Отдел
@@ -3435,34 +3463,3 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId",Киномикс
-http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Сборник" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" tvg-id="simpleTVFakeEpgId",Ералаш
-http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Сборник" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" tvg-id="simpleTVFakeEpgId",Ералаш 2
-https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="simpleTVFakeEpgId",Моя Планета
-http://vod.tuva.ru/myplanet/index.m3u8
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Наука.png" tvg-id="simpleTVFakeEpgId",Наука 2.0
-http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Travel+ adventure.png" tvg-id="simpleTVFakeEpgId",Travel+Adventure
-http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="simpleTVFakeEpgId",Viasat Explore
-http://45.145.32.13:20440/viasat_explore/index.m3u8?token=test
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="simpleTVFakeEpgId",Viasat History
-http://45.145.32.13:20440/viasat_history/index.m3u8?token=test
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Viasat nature.png" tvg-id="simpleTVFakeEpgId",Viasat Nature
-http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
-#EXTINF:-1 group-title="Сборник" tvg-id="simpleTVFakeEpgId",Big Planet
-http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="simpleTVFakeEpgId",Galaxy
-http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
-#EXTINF:-1 group-title="Сборник" tvg-id="simpleTVFakeEpgId",Epic
-http://193.25.8.59:8000/dtx
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo
-http://185.164.82.18:9010/ykMHqK_NatGeo
-#EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo Wild
-http://185.164.82.18:9010/ykMHqK_NatGeoWild
-
-
-
