@@ -1,4 +1,4 @@
-#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTM3U url-tvg="https://iptvx.one/EPG" $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/66.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_66",Уникум
 http://minsk-cache07t.voka.tv/live/5512-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/tv3-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv3-by",ТВ-3 Беларусь
@@ -3463,3 +3463,4 @@ http://193.25.8.59:8000/dtx
 http://185.164.82.18:9010/ykMHqK_NatGeo
 #EXTINF:-1 group-title="Сборник" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo Wild
 http://185.164.82.18:9010/ykMHqK_NatGeoWild
+
