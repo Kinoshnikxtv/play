@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG" $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/66.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_66",Уникум
+#EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/66.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12681",Уникум
 http://minsk-cache07t.voka.tv/live/5512-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/tv3-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv3-by",ТВ-3 Беларусь
+#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/tv3-by.png" tvg-id="simpleTVFakeEpgId",ТВ-3 Беларусь
 http://minsk-cache07t.voka.tv/live/5127-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
+#EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/740.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444",Карусель
 http://minsk-cache07t.voka.tv/live/5123-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/427.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piaty-int",5 канал (Россия) International
 http://minsk-cache07t.voka.tv/live/5121-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/ТНТ International.png",ТНТ-International HD (Беларусь)
+#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/ТНТ International.png" tvg-id="simpleTVFakeEpgId",ТНТ-International HD (Беларусь)
 http://minsk-cache07t.voka.tv/live/5120-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/domkino-premium.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_domkino-premium",Дом кино премиум
 http://minsk-cache07t.voka.tv/live/5111-req_5k_v5.m3u8
@@ -297,847 +297,753 @@ http://minsk-cache07t.voka.tv/live/10003-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/10002-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus1",Беларусь 1 HD
 http://minsk-cache07t.voka.tv/live/10001-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Победа HD.png",Победа HD
+#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Победа HD.png" tvg-id="simpleTVFakeEpgId",Победа HD
 http://minsk-cache07t.voka.tv/live/12228-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Bollywood HD.png",Bollywood HD
+#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="simpleTVFakeEpgId",Bollywood HD
 http://minsk-cache07t.voka.tv/live/12227-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Ключ.png",Ключ HD
+#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Ключ.png" tvg-id="simpleTVFakeEpgId",Ключ HD
 http://minsk-cache07t.voka.tv/live/12226-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka",Наша тема
+#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Наша тема.png" tvg-id="simpleTVFakeEpgId",Наша тема
 http://minsk-cache07t.voka.tv/live/2103-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Еврокино.png",Еврокино HD
+#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId",Еврокино HD
 http://minsk-cache07t.voka.tv/live/1325-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Luxury HD.png",Luxury HD
+#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Luxury HD.png" tvg-id="simpleTVFakeEpgId",Luxury HD
 http://minsk-cache07t.voka.tv/live/212-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Зал суда.png",Зал суда HD
+#EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Зал суда.png" tvg-id="simpleTVFakeEpgId",Зал суда HD
 http://minsk-cache07t.voka.tv/live/15082-req_5k_v5.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/2025/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/2025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/NickToons.png",Nicktoons
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/NickToons.png" tvg-id="simpleTVFakeEpgId",Nicktoons
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Nick jr.png",Nick Jr
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Nick jr.png" tvg-id="simpleTVFakeEpgId",Nick Jr
 https://stream8.cinerama.uz/1501/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Nickelodeon HD.png",Nickelodeon HD
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Nickelodeon HD.png" tvg-id="simpleTVFakeEpgId",Nickelodeon HD
 https://stream8.cinerama.uz/1500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1499/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1499/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1498/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1498/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1494/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1494/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1491/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1491/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1489/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1489/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1486/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1476/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1476/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1470/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1470/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1469/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1469/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1468/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1468/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1467/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1467/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1466/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1466/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1465/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1465/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1464/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1463/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1463/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1462/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1462/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1461/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1461/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1459/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1458/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1457/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/CGTN Русский.png",CGTN-Русский
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="simpleTVFakeEpgId",CGTN-Русский
 https://stream8.cinerama.uz/1456/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",AzTV
-https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/NHK WORLD-JAPAN.png",NHK World Japan
-https://stream8.cinerama.uz/1449/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/KBS World.png",KBS World
-https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",Al Jazeera International
-https://stream8.cinerama.uz/1447/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Gulli Girl.png",Gulli Girl
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Bollywood HD.png",Bollywood
-https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Hollywood.png",Hollywood
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Hollywood.png" tvg-id="simpleTVFakeEpgId",Hollywood
 https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/English club HD.png",English Club TV
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Tiji.png",TiJi
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Tiji.png" tvg-id="simpleTVFakeEpgId",TiJi
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",Мультиландия
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Мультиландия.png" tvg-id="simpleTVFakeEpgId",Мультиландия
 https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",Eurosport 1
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="simpleTVFakeEpgId",Eurosport 1
 https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",ТВ-3 International
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",ТВ-3 International
 https://stream8.cinerama.uz/1435/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",Al Jazeera
-https://stream8.cinerama.uz/1433/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Авто 24.png",Авто 24
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Авто 24.png" tvg-id="simpleTVFakeEpgId",Авто 24
 https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",Вопросы и ответы
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",Вопросы и ответы
 https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Здоровое ТВ.png",Здоровое ТВ
-https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Усадьба.png",Усадьба
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Усадьба.png" tvg-id="simpleTVFakeEpgId",Усадьба
 https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",Домашние животные
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="simpleTVFakeEpgId",Домашние животные
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Наша сибирь.png",Наша сибирь HD
 https://stream8.cinerama.uz/1424/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10062",Глазами туриста
 https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",UZ Cable
 https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Драйв.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7805",Драйв
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Приключения.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8126",Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1418/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11295",ZOO Парк
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="https://veranzo.ru/other/icons/Insight Ultra HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9530",Insight HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="https://veranzo.ru/other/icons/Первый космический.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7917",Первый Космический
 https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Арсенал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8767",Арсенал
 https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7914",Охотник и Рыболов
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Живая природа.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9052",Живая природа
 https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1410/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Загородный.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9053",Загородный
 https://stream8.cinerama.uz/1410/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Доктор.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7800",Доктор
 https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Рыжий.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9082",Рыжий
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Капитан Фантастика.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7829",Капитан Фантастика
 https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8743",В мире животных
 https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1291/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1290/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1285/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1285/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1284/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1283/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020",ТВЦ
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1280/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1280/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Trace Sport Stars.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9303",Trace Sport Stars
 https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Дорама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7804",Дорама
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="https://veranzo.ru/other/icons/Duck TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9702",Duck TV
 https://stream8.cinerama.uz/1271/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/В гостях у сказки.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7788",В гостях у сказки
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/История.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7826",История
 https://stream8.cinerama.uz/1266/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1265/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1262/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1261/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1259/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1258/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1257/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1255/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1253/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1252/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1252/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1252/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1245/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1241/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1217/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1216/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1216/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1216/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1212/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1210/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1206/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1206/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1206/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1202/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1062/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1050/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1049/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1048/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1028/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1015/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1011/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1009/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1007/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1005/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1002/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz",канал-https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=458
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=458
 http://cdn.kubteltv.workers.dev/?ID=458
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=457
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=457
 http://cdn.kubteltv.workers.dev/?ID=457
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=456
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=456
 http://cdn.kubteltv.workers.dev/?ID=456
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=453
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=453
 http://cdn.kubteltv.workers.dev/?ID=453
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=451
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=451
 http://cdn.kubteltv.workers.dev/?ID=451
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=444
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=444
 http://cdn.kubteltv.workers.dev/?ID=444
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=443
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=443
 http://cdn.kubteltv.workers.dev/?ID=443
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=423
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=423
 http://cdn.kubteltv.workers.dev/?ID=423
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=422
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=422
 http://cdn.kubteltv.workers.dev/?ID=422
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=421
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=421
 http://cdn.kubteltv.workers.dev/?ID=421
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=419
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=419
 http://cdn.kubteltv.workers.dev/?ID=419
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=414
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=414
 http://cdn.kubteltv.workers.dev/?ID=414
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=412
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=412
 http://cdn.kubteltv.workers.dev/?ID=412
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=405
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=405
 http://cdn.kubteltv.workers.dev/?ID=405
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=404
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=404
 http://cdn.kubteltv.workers.dev/?ID=404
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=401
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=401
 http://cdn.kubteltv.workers.dev/?ID=401
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=395
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=395
 http://cdn.kubteltv.workers.dev/?ID=395
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=394
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=394
 http://cdn.kubteltv.workers.dev/?ID=394
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=381
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=381
 http://cdn.kubteltv.workers.dev/?ID=381
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=380
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=380
 http://cdn.kubteltv.workers.dev/?ID=380
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=378
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=378
 http://cdn.kubteltv.workers.dev/?ID=378
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=377
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=377
 http://cdn.kubteltv.workers.dev/?ID=377
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=376
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=376
 http://cdn.kubteltv.workers.dev/?ID=376
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=375
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=375
 http://cdn.kubteltv.workers.dev/?ID=375
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=374
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=374
 http://cdn.kubteltv.workers.dev/?ID=374
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=373
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=373
 http://cdn.kubteltv.workers.dev/?ID=373
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=372
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=372
 http://cdn.kubteltv.workers.dev/?ID=372
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=371
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=371
 http://cdn.kubteltv.workers.dev/?ID=371
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=369
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=369
 http://cdn.kubteltv.workers.dev/?ID=369
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=367
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=367
 http://cdn.kubteltv.workers.dev/?ID=367
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=366
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=366
 http://cdn.kubteltv.workers.dev/?ID=366
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=365
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=365
 http://cdn.kubteltv.workers.dev/?ID=365
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=364
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=364
 http://cdn.kubteltv.workers.dev/?ID=364
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=363
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=363
 http://cdn.kubteltv.workers.dev/?ID=363
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=362
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=362
 http://cdn.kubteltv.workers.dev/?ID=362
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=361
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=361
 http://cdn.kubteltv.workers.dev/?ID=361
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=359
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=359
 http://cdn.kubteltv.workers.dev/?ID=359
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=358
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=358
 http://cdn.kubteltv.workers.dev/?ID=358
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=357
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=357
 http://cdn.kubteltv.workers.dev/?ID=357
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=356
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=356
 http://cdn.kubteltv.workers.dev/?ID=356
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=355
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=355
 http://cdn.kubteltv.workers.dev/?ID=355
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=353
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=353
 http://cdn.kubteltv.workers.dev/?ID=353
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=352
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=352
 http://cdn.kubteltv.workers.dev/?ID=352
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=350
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=350
 http://cdn.kubteltv.workers.dev/?ID=350
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=349
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=349
 http://cdn.kubteltv.workers.dev/?ID=349
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=348
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=348
 http://cdn.kubteltv.workers.dev/?ID=348
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=346
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=346
 http://cdn.kubteltv.workers.dev/?ID=346
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=345
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=345
 http://cdn.kubteltv.workers.dev/?ID=345
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=344
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=344
 http://cdn.kubteltv.workers.dev/?ID=344
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=343
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=343
 http://cdn.kubteltv.workers.dev/?ID=343
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=342
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=342
 http://cdn.kubteltv.workers.dev/?ID=342
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=341
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=341
 http://cdn.kubteltv.workers.dev/?ID=341
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=340
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=340
 http://cdn.kubteltv.workers.dev/?ID=340
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=339
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=339
 http://cdn.kubteltv.workers.dev/?ID=339
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=334
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=334
 http://cdn.kubteltv.workers.dev/?ID=334
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=333
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=333
 http://cdn.kubteltv.workers.dev/?ID=333
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=332
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=332
 http://cdn.kubteltv.workers.dev/?ID=332
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=331
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=331
 http://cdn.kubteltv.workers.dev/?ID=331
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=330
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=330
 http://cdn.kubteltv.workers.dev/?ID=330
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=329
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=329
 http://cdn.kubteltv.workers.dev/?ID=329
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=328
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=328
 http://cdn.kubteltv.workers.dev/?ID=328
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=321
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=321
 http://cdn.kubteltv.workers.dev/?ID=321
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=320
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=320
 http://cdn.kubteltv.workers.dev/?ID=320
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=316
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=316
 http://cdn.kubteltv.workers.dev/?ID=316
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=304
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=304
 http://cdn.kubteltv.workers.dev/?ID=304
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=300
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=300
 http://cdn.kubteltv.workers.dev/?ID=300
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=299
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=299
 http://cdn.kubteltv.workers.dev/?ID=299
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=298
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=298
 http://cdn.kubteltv.workers.dev/?ID=298
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=297
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=297
 http://cdn.kubteltv.workers.dev/?ID=297
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=285
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=285
 http://cdn.kubteltv.workers.dev/?ID=285
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=277
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=277
 http://cdn.kubteltv.workers.dev/?ID=277
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=273
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=273
 http://cdn.kubteltv.workers.dev/?ID=273
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=271
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=271
 http://cdn.kubteltv.workers.dev/?ID=271
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=270
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=270
 http://cdn.kubteltv.workers.dev/?ID=270
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=268
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=268
 http://cdn.kubteltv.workers.dev/?ID=268
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=267
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=267
 http://cdn.kubteltv.workers.dev/?ID=267
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=266
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=266
 http://cdn.kubteltv.workers.dev/?ID=266
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=265
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=265
 http://cdn.kubteltv.workers.dev/?ID=265
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=264
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=264
 http://cdn.kubteltv.workers.dev/?ID=264
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=262
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=262
 http://cdn.kubteltv.workers.dev/?ID=262
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=261
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=261
 http://cdn.kubteltv.workers.dev/?ID=261
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=259
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=259
 http://cdn.kubteltv.workers.dev/?ID=259
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=258
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=258
 http://cdn.kubteltv.workers.dev/?ID=258
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=257
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=257
 http://cdn.kubteltv.workers.dev/?ID=257
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=256
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=256
 http://cdn.kubteltv.workers.dev/?ID=256
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=255
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=255
 http://cdn.kubteltv.workers.dev/?ID=255
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=231
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=231
 http://cdn.kubteltv.workers.dev/?ID=231
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=229
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=229
 http://cdn.kubteltv.workers.dev/?ID=229
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=219
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=219
 http://cdn.kubteltv.workers.dev/?ID=219
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=217
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=217
 http://cdn.kubteltv.workers.dev/?ID=217
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=216
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=216
 http://cdn.kubteltv.workers.dev/?ID=216
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=207
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=207
 http://cdn.kubteltv.workers.dev/?ID=207
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=200
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=200
 http://cdn.kubteltv.workers.dev/?ID=200
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=193
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=193
 http://cdn.kubteltv.workers.dev/?ID=193
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=192
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=192
 http://cdn.kubteltv.workers.dev/?ID=192
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=191
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=191
 http://cdn.kubteltv.workers.dev/?ID=191
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=186
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=186
 http://cdn.kubteltv.workers.dev/?ID=186
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=182
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=182
 http://cdn.kubteltv.workers.dev/?ID=182
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=177
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=177
 http://cdn.kubteltv.workers.dev/?ID=177
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=176
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=176
 http://cdn.kubteltv.workers.dev/?ID=176
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=175
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=175
 http://cdn.kubteltv.workers.dev/?ID=175
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=172
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=172
 http://cdn.kubteltv.workers.dev/?ID=172
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=148
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=148
 http://cdn.kubteltv.workers.dev/?ID=148
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=146
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=146
 http://cdn.kubteltv.workers.dev/?ID=146
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=145
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=145
 http://cdn.kubteltv.workers.dev/?ID=145
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=136
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=136
 http://cdn.kubteltv.workers.dev/?ID=136
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=132
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=132
 http://cdn.kubteltv.workers.dev/?ID=132
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=131
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=131
 http://cdn.kubteltv.workers.dev/?ID=131
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=121
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=121
 http://cdn.kubteltv.workers.dev/?ID=121
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=113
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=113
 http://cdn.kubteltv.workers.dev/?ID=113
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=112
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=112
 http://cdn.kubteltv.workers.dev/?ID=112
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=111
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=111
 http://cdn.kubteltv.workers.dev/?ID=111
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=110
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=110
 http://cdn.kubteltv.workers.dev/?ID=110
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=105
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=105
 http://cdn.kubteltv.workers.dev/?ID=105
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=92
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=92
 http://cdn.kubteltv.workers.dev/?ID=92
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=91
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=91
 http://cdn.kubteltv.workers.dev/?ID=91
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=82
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=82
 http://cdn.kubteltv.workers.dev/?ID=82
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=77
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=77
 http://cdn.kubteltv.workers.dev/?ID=77
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=73
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=73
 http://cdn.kubteltv.workers.dev/?ID=73
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=72
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=72
 http://cdn.kubteltv.workers.dev/?ID=72
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=70
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=70
 http://cdn.kubteltv.workers.dev/?ID=70
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=69
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=69
 http://cdn.kubteltv.workers.dev/?ID=69
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=67
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=67
 http://cdn.kubteltv.workers.dev/?ID=67
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=65
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=65
 http://cdn.kubteltv.workers.dev/?ID=65
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=64
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=64
 http://cdn.kubteltv.workers.dev/?ID=64
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=63
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=63
 http://cdn.kubteltv.workers.dev/?ID=63
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=62
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=62
 http://cdn.kubteltv.workers.dev/?ID=62
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=61
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=61
 http://cdn.kubteltv.workers.dev/?ID=61
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=60
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=60
 http://cdn.kubteltv.workers.dev/?ID=60
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=59
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=59
 http://cdn.kubteltv.workers.dev/?ID=59
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=57
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=57
 http://cdn.kubteltv.workers.dev/?ID=57
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=52
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=52
 http://cdn.kubteltv.workers.dev/?ID=52
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=50
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=50
 http://cdn.kubteltv.workers.dev/?ID=50
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=48
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=48
 http://cdn.kubteltv.workers.dev/?ID=48
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=47
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=47
 http://cdn.kubteltv.workers.dev/?ID=47
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=46
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=46
 http://cdn.kubteltv.workers.dev/?ID=46
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=45
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=45
 http://cdn.kubteltv.workers.dev/?ID=45
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=39
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=39
 http://cdn.kubteltv.workers.dev/?ID=39
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=38
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=38
 http://cdn.kubteltv.workers.dev/?ID=38
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=37
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=37
 http://cdn.kubteltv.workers.dev/?ID=37
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=36
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=36
 http://cdn.kubteltv.workers.dev/?ID=36
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=35
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=35
 http://cdn.kubteltv.workers.dev/?ID=35
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=32
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=32
 http://cdn.kubteltv.workers.dev/?ID=32
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=31
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=31
 http://cdn.kubteltv.workers.dev/?ID=31
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=28
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=28
 http://cdn.kubteltv.workers.dev/?ID=28
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=24
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=24
 http://cdn.kubteltv.workers.dev/?ID=24
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=23
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=23
 http://cdn.kubteltv.workers.dev/?ID=23
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=20
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=20
 http://cdn.kubteltv.workers.dev/?ID=20
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=19
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=19
 http://cdn.kubteltv.workers.dev/?ID=19
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=18
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=18
 http://cdn.kubteltv.workers.dev/?ID=18
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=17
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=17
 http://cdn.kubteltv.workers.dev/?ID=17
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=16
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=16
 http://cdn.kubteltv.workers.dev/?ID=16
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=15
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=15
 http://cdn.kubteltv.workers.dev/?ID=15
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=14
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=14
 http://cdn.kubteltv.workers.dev/?ID=14
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=13
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=13
 http://cdn.kubteltv.workers.dev/?ID=13
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=12
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=12
 http://cdn.kubteltv.workers.dev/?ID=12
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=11
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=11
 http://cdn.kubteltv.workers.dev/?ID=11
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=10
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=10
 http://cdn.kubteltv.workers.dev/?ID=10
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=9
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=9
 http://cdn.kubteltv.workers.dev/?ID=9
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=7
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=7
 http://cdn.kubteltv.workers.dev/?ID=7
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=6
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=6
 http://cdn.kubteltv.workers.dev/?ID=6
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=5
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=5
 http://cdn.kubteltv.workers.dev/?ID=5
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=3
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=3
 http://cdn.kubteltv.workers.dev/?ID=3
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=2
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=2
 http://cdn.kubteltv.workers.dev/?ID=2
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev",канал-http://cdn.kubteltv.workers.dev/?ID=1
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=1
 http://cdn.kubteltv.workers.dev/?ID=1
-#EXTINF:-1 group-title="Шахтёрск Эфир",РТРС:20 Муз-ТВ-http://31.131.141.195:8000/play/2100/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:20 Муз-ТВ-http://31.131.141.195:8000/play/2100/index.m3u8
 http://31.131.141.195:8000/play/2100/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",РТРС:19 ТНТ-http://31.131.141.195:8000/play/2090/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:19 ТНТ-http://31.131.141.195:8000/play/2090/index.m3u8
 http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",РТРС:17 Звезда-http://31.131.141.195:8000/play/2070/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:17 Звезда-http://31.131.141.195:8000/play/2070/index.m3u8
 http://31.131.141.195:8000/play/2070/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",РТРС:16 Пятница-http://31.131.141.195:8000/play/2060/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:16 Пятница-http://31.131.141.195:8000/play/2060/index.m3u8
 http://31.131.141.195:8000/play/2060/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",РТРС:13 СТС-http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:13 СТС-http://31.131.141.195:8000/play/2030/index.m3u8
 http://31.131.141.195:8000/play/2030/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",РТРС:12 Спас-http://31.131.141.195:8000/play/2020/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:12 Спас-http://31.131.141.195:8000/play/2020/index.m3u8
 http://31.131.141.195:8000/play/2020/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",РТРС:11 Рен ТВ-http://31.131.141.195:8000/play/2010/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:11 Рен ТВ-http://31.131.141.195:8000/play/2010/index.m3u8
 http://31.131.141.195:8000/play/2010/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:Радио России-http://31.131.141.195:8000/play/1130/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:Радио России-http://31.131.141.195:8000/play/1130/index.m3u8
 http://31.131.141.195:8000/play/1130/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:Маяк-http://31.131.141.195:8000/play/1120/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:Маяк-http://31.131.141.195:8000/play/1120/index.m3u8
 http://31.131.141.195:8000/play/1120/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:Вести ФМ-http://31.131.141.195:8000/play/1110/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:Вести ФМ-http://31.131.141.195:8000/play/1110/index.m3u8
 http://31.131.141.195:8000/play/1110/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:10 ТВЦ-http://31.131.141.195:8000/play/1100/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:10 ТВЦ-http://31.131.141.195:8000/play/1100/index.m3u8
 http://31.131.141.195:8000/play/1100/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:09 ОТР-http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:09 ОТР-http://31.131.141.195:8000/play/1090/index.m3u8
 http://31.131.141.195:8000/play/1090/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:08 Карусель-http://31.131.141.195:8000/play/1080/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:08 Карусель-http://31.131.141.195:8000/play/1080/index.m3u8
 http://31.131.141.195:8000/play/1080/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:07 Россия-24-http://31.131.141.195:8000/play/1070/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:07 Россия-24-http://31.131.141.195:8000/play/1070/index.m3u8
 http://31.131.141.195:8000/play/1070/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:06 Россия К-http://31.131.141.195:8000/play/1060/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:06 Россия К-http://31.131.141.195:8000/play/1060/index.m3u8
 http://31.131.141.195:8000/play/1060/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:05 Пятый канал-http://31.131.141.195:8000/play/1050/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:05 Пятый канал-http://31.131.141.195:8000/play/1050/index.m3u8
 http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:04 НТВ-http://31.131.141.195:8000/play/1040/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:04 НТВ-http://31.131.141.195:8000/play/1040/index.m3u8
 http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:03 Матч!-http://31.131.141.195:8000/play/1030/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:03 Матч!-http://31.131.141.195:8000/play/1030/index.m3u8
 http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",VGTRK:02 Россия-1-http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",VGTRK:02 Россия-1-http://31.131.141.195:8000/play/1020/index.m3u8
 http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир",RTRC:01 Первый канал-http://31.131.141.195:8000/play/1010/index.m3u8
+#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:01 Первый канал-http://31.131.141.195:8000/play/1010/index.m3u8
 http://31.131.141.195:8000/play/1010/index.m3u8
-#EXTINF:-1 group-title="tinyurl.com",РТРС:NTV Region-https://tinyurl.com/45x3xrpm/chid522/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",РТРС:NTV Region-https://tinyurl.com/45x3xrpm/chid522/mpegts
 https://tinyurl.com/45x3xrpm/chid522/mpegts
-#EXTINF:-1 group-title="tinyurl.com",HTB+:КИНОСВИДАНИЕ-https://tinyurl.com/45x3xrpm/chid521/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",HTB+:КИНОСВИДАНИЕ-https://tinyurl.com/45x3xrpm/chid521/mpegts
 https://tinyurl.com/45x3xrpm/chid521/mpegts
-#EXTINF:-1 group-title="tinyurl.com",uctv:Кинопремьера-https://tinyurl.com/45x3xrpm/chid518/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",uctv:Кинопремьера-https://tinyurl.com/45x3xrpm/chid518/mpegts
 https://tinyurl.com/45x3xrpm/chid518/mpegts
-#EXTINF:-1 group-title="tinyurl.com",HTB+:КИНОСЕМЬЯ-https://tinyurl.com/45x3xrpm/chid517/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",HTB+:КИНОСЕМЬЯ-https://tinyurl.com/45x3xrpm/chid517/mpegts
 https://tinyurl.com/45x3xrpm/chid517/mpegts
-#EXTINF:-1 group-title="tinyurl.com",канал-https://tinyurl.com/45x3xrpm/chid516/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",канал-https://tinyurl.com/45x3xrpm/chid516/mpegts
 https://tinyurl.com/45x3xrpm/chid516/mpegts
-#EXTINF:-1 group-title="tinyurl.com",GeoTelecom:Лапки Live-https://tinyurl.com/45x3xrpm/chid514/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",GeoTelecom:Лапки Live-https://tinyurl.com/45x3xrpm/chid514/mpegts
 https://tinyurl.com/45x3xrpm/chid514/mpegts
-#EXTINF:-1 group-title="tinyurl.com",тст-https://tinyurl.com/45x3xrpm/chid459/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",тст-https://tinyurl.com/45x3xrpm/chid459/mpegts
 https://tinyurl.com/45x3xrpm/chid459/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Medialogistika:HDL-https://tinyurl.com/45x3xrpm/chid431/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Medialogistika:HDL-https://tinyurl.com/45x3xrpm/chid431/mpegts
 https://tinyurl.com/45x3xrpm/chid431/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Моя стихия-https://tinyurl.com/45x3xrpm/chid430/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Моя стихия-https://tinyurl.com/45x3xrpm/chid430/mpegts
 https://tinyurl.com/45x3xrpm/chid430/mpegts
-#EXTINF:-1 group-title="tinyurl.com",1 Космический-https://tinyurl.com/45x3xrpm/chid427/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",1 Космический-https://tinyurl.com/45x3xrpm/chid427/mpegts
 https://tinyurl.com/45x3xrpm/chid427/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Hollywood HD-https://tinyurl.com/45x3xrpm/chid421/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Hollywood HD-https://tinyurl.com/45x3xrpm/chid421/mpegts
 https://tinyurl.com/45x3xrpm/chid421/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Bollywood HD-https://tinyurl.com/45x3xrpm/chid420/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Bollywood HD-https://tinyurl.com/45x3xrpm/chid420/mpegts
 https://tinyurl.com/45x3xrpm/chid420/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Россия HD-https://tinyurl.com/45x3xrpm/chid416/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Россия HD-https://tinyurl.com/45x3xrpm/chid416/mpegts
 https://tinyurl.com/45x3xrpm/chid416/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Food Time HD-https://tinyurl.com/45x3xrpm/chid415/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Food Time HD-https://tinyurl.com/45x3xrpm/chid415/mpegts
 https://tinyurl.com/45x3xrpm/chid415/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Medialogistika:Живая природа-https://tinyurl.com/45x3xrpm/chid414/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Medialogistika:Живая природа-https://tinyurl.com/45x3xrpm/chid414/mpegts
 https://tinyurl.com/45x3xrpm/chid414/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Kino Living HD-https://tinyurl.com/45x3xrpm/chid413/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Kino Living HD-https://tinyurl.com/45x3xrpm/chid413/mpegts
 https://tinyurl.com/45x3xrpm/chid413/mpegts
-#EXTINF:-1 group-title="tinyurl.com",канал-https://tinyurl.com/45x3xrpm/chid326/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",канал-https://tinyurl.com/45x3xrpm/chid326/mpegts
 https://tinyurl.com/45x3xrpm/chid326/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Дом Кино HD-https://tinyurl.com/45x3xrpm/chid294/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Дом Кино HD-https://tinyurl.com/45x3xrpm/chid294/mpegts
 https://tinyurl.com/45x3xrpm/chid294/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Капитан Фантастика-https://tinyurl.com/45x3xrpm/chid292/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Капитан Фантастика-https://tinyurl.com/45x3xrpm/chid292/mpegts
 https://tinyurl.com/45x3xrpm/chid292/mpegts
-#EXTINF:-1 group-title="tinyurl.com",канал-https://tinyurl.com/45x3xrpm/chid290/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",канал-https://tinyurl.com/45x3xrpm/chid290/mpegts
 https://tinyurl.com/45x3xrpm/chid290/mpegts
-#EXTINF:-1 group-title="tinyurl.com",RT D-https://tinyurl.com/45x3xrpm/chid284/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",RT D-https://tinyurl.com/45x3xrpm/chid284/mpegts
 https://tinyurl.com/45x3xrpm/chid284/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Советская киноклассика-https://tinyurl.com/45x3xrpm/chid276/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Советская киноклассика-https://tinyurl.com/45x3xrpm/chid276/mpegts
 https://tinyurl.com/45x3xrpm/chid276/mpegts
-#EXTINF:-1 group-title="tinyurl.com",живи-https://tinyurl.com/45x3xrpm/chid275/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",живи-https://tinyurl.com/45x3xrpm/chid275/mpegts
 https://tinyurl.com/45x3xrpm/chid275/mpegts
-#EXTINF:-1 group-title="tinyurl.com",RTD HD-https://tinyurl.com/45x3xrpm/chid212/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",RTD HD-https://tinyurl.com/45x3xrpm/chid212/mpegts
 https://tinyurl.com/45x3xrpm/chid212/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Планета HD-https://tinyurl.com/45x3xrpm/chid210/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Планета HD-https://tinyurl.com/45x3xrpm/chid210/mpegts
 https://tinyurl.com/45x3xrpm/chid210/mpegts
-#EXTINF:-1 group-title="tinyurl.com",В Мире Животных HD-https://tinyurl.com/45x3xrpm/chid209/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",В Мире Животных HD-https://tinyurl.com/45x3xrpm/chid209/mpegts
 https://tinyurl.com/45x3xrpm/chid209/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Fashion Lifestyle-https://tinyurl.com/45x3xrpm/chid169/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Fashion Lifestyle-https://tinyurl.com/45x3xrpm/chid169/mpegts
 https://tinyurl.com/45x3xrpm/chid169/mpegts
-#EXTINF:-1 group-title="tinyurl.com",День победы-https://tinyurl.com/45x3xrpm/chid168/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",День победы-https://tinyurl.com/45x3xrpm/chid168/mpegts
 https://tinyurl.com/45x3xrpm/chid168/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Первый Канал HD-https://tinyurl.com/45x3xrpm/chid164/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Первый Канал HD-https://tinyurl.com/45x3xrpm/chid164/mpegts
 https://tinyurl.com/45x3xrpm/chid164/mpegts
-#EXTINF:-1 group-title="tinyurl.com",ОТВ-https://tinyurl.com/45x3xrpm/chid144/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",ОТВ-https://tinyurl.com/45x3xrpm/chid144/mpegts
 https://tinyurl.com/45x3xrpm/chid144/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Индия-https://tinyurl.com/45x3xrpm/chid139/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Индия-https://tinyurl.com/45x3xrpm/chid139/mpegts
 https://tinyurl.com/45x3xrpm/chid139/mpegts
-#EXTINF:-1 group-title="tinyurl.com",GeoTelecom:Пёс и Ко-https://tinyurl.com/45x3xrpm/chid122/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",GeoTelecom:Пёс и Ко-https://tinyurl.com/45x3xrpm/chid122/mpegts
 https://tinyurl.com/45x3xrpm/chid122/mpegts
-#EXTINF:-1 group-title="tinyurl.com",Настоящее страшное ТВ-https://tinyurl.com/45x3xrpm/chid118/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="simpleTVFakeEpgId",Настоящее страшное ТВ-https://tinyurl.com/45x3xrpm/chid118/mpegts
 https://tinyurl.com/45x3xrpm/chid118/mpegts
-#EXTINF:-1 group-title="tinyurl.com",viju serial-https://tinyurl.com/45x3xrpm/chid40/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",viju serial-https://tinyurl.com/45x3xrpm/chid40/mpegts
 https://tinyurl.com/45x3xrpm/chid40/mpegts
-#EXTINF:-1 group-title="tinyurl.com",РТРС:Спас-https://tinyurl.com/45x3xrpm/chid7/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",РТРС:Спас-https://tinyurl.com/45x3xrpm/chid7/mpegts
 https://tinyurl.com/45x3xrpm/chid7/mpegts
 #EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.196:2020
 http://85.88.175.48:2020/udp/239.28.0.196:2020
@@ -1359,77 +1265,77 @@ http://85.88.175.48:2020/udp/239.4.10.9:2020
 http://85.88.175.48:2020/udp/239.4.10.5:2020
 #EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:Lyubimoe Kino-http://85.88.175.48:2020/udp/239.4.10.1:2020
 http://85.88.175.48:2020/udp/239.4.10.1:2020
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/863.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/863.m3u8
 https://streaming.televizor-24-tochka.ru/live/863.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/748.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/748.m3u8
 https://streaming.televizor-24-tochka.ru/live/748.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/618.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/618.m3u8
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/554.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/554.m3u8
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/296.m3u8
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/250.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/250.m3u8
 https://streaming.televizor-24-tochka.ru/live/250.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/232.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/232.m3u8
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/213.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/213.m3u8
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/211.m3u8
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/210.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/210.m3u8
 https://streaming.televizor-24-tochka.ru/live/210.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/46.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/46.m3u8
 https://streaming.televizor-24-tochka.ru/live/46.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/45.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/45.m3u8
 https://streaming.televizor-24-tochka.ru/live/45.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/44.m3u8
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/43.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/43.m3u8
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/38.m3u8
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/30.m3u8
 https://streaming.televizor-24-tochka.ru/live/30.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/29.m3u8
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/28.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/28.m3u8
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/27.m3u8
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/25.m3u8
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru",канал-https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/24.m3u8
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
-#EXTINF:-1 group-title="minsktelecom.by",Беларусь 2
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Беларусь 2.png" tvg-id="simpleTVFakeEpgId",Беларусь 2
 http://194.158.222.36:6111
-#EXTINF:-1 group-title="minsktelecom.by",Беларусь 5
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Беларусь 5.png" tvg-id="simpleTVFakeEpgId",Беларусь 5
 http://194.158.222.36:6109
-#EXTINF:-1 group-title="minsktelecom.by",Беларусь 3
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3
 http://194.158.222.36:6108
-#EXTINF:-1 group-title="minsktelecom.by",НТВ Беларусь
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/НТВ Беларусь_белый.png" tvg-id="simpleTVFakeEpgId",НТВ Беларусь
 http://194.158.222.36:6107
-#EXTINF:-1 group-title="minsktelecom.by",RTR Беларусь
+#EXTINF:-1 group-title="minsktelecom.by" tvg-id="simpleTVFakeEpgId",RTR Беларусь
 http://194.158.222.36:6106
-#EXTINF:-1 group-title="minsktelecom.by",Первый информационный
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="simpleTVFakeEpgId",Первый информационный
 http://194.158.222.36:6105
-#EXTINF:-1 group-title="minsktelecom.by",Мир
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Мир.png" tvg-id="simpleTVFakeEpgId",Мир
 http://194.158.222.36:6104
-#EXTINF:-1 group-title="minsktelecom.by",СТВ by
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="simpleTVFakeEpgId",СТВ by
 http://194.158.222.36:6103
-#EXTINF:-1 group-title="minsktelecom.by",ОНТ by
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/ОНТ.png" tvg-id="simpleTVFakeEpgId",ОНТ by
 http://194.158.222.36:6102
-#EXTINF:-1 group-title="minsktelecom.by",Беларусь 1
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1
 http://194.158.222.36:6101
-#EXTINF:-1 group-title="minsktelecom.by",Оружие
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Оружие.png" tvg-id="simpleTVFakeEpgId",Оружие
 http://194.158.222.36:6093
-#EXTINF:-1 group-title="minsktelecom.by",Матч Планета
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Матч Премьер HD.png" tvg-id="simpleTVFakeEpgId",Матч Планета
 http://194.158.222.36:6089
-#EXTINF:-1 group-title="minsktelecom.by",RTG TV
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/RTG TV.png" tvg-id="simpleTVFakeEpgId",RTG TV
 http://194.158.222.36:6039
-#EXTINF:-1 group-title="minsktelecom.by",Россия К
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="simpleTVFakeEpgId",Россия К
 http://194.158.222.36:6037
-#EXTINF:-1 group-title="minsktelecom.by",KHL
+#EXTINF:-1 group-title="minsktelecom.by" tvg-id="simpleTVFakeEpgId",KHL
 http://194.158.222.36:6013
 #EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",FTV HD
 http://213.230.65.254:8000/play/a004
@@ -2685,7 +2591,7 @@ http://185.164.82.18:9010/ykMHqK_NatGeo
 http://185.164.82.18:9010/ykMHqK_NatGeoWild
 #EXTINF:-1 group-title="Болгария" tvg-logo="https://iptvx.one/picons/9kanal-israel.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль) HD
 http://4.59.210.197:8815/udp/127.0.0.1:6013
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/logo/i.webp",RTN-USA (rus)
+#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/logo/i.webp" tvg-id="simpleTVFakeEpgId",RTN-USA (rus)
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",KINO TV
 http://185.46.16.239:8000/Kino_TV
@@ -3463,4 +3369,3 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
-
