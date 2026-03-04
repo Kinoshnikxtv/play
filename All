@@ -347,7 +347,7 @@ https://stream8.cinerama.uz/1422/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Приключения.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8126",Приключения
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11295",ZOO Парк
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11295",ZOOПарк
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="https://veranzo.ru/other/icons/Insight Ultra HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9530",Insight HD
 https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
@@ -3369,3 +3369,4 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+
