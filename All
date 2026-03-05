@@ -409,7 +409,7 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Cinema HD
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",Матрас
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Матч!.png" tvg-id="simpleTVFakeEpgId",Матрас
 https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11501",viju TV1000 Action HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
@@ -823,78 +823,62 @@ http://cdn.kubteltv.workers.dev/?ID=3
 http://cdn.kubteltv.workers.dev/?ID=2
 #EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=1
 http://cdn.kubteltv.workers.dev/?ID=1
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",РТРС:NTV Region-https://tinyurl.com/45x3xrpm/chid522/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12875",НТВ
 https://tinyurl.com/45x3xrpm/chid522/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",HTB+:КИНОСВИДАНИЕ-https://tinyurl.com/45x3xrpm/chid521/mpegts
-https://tinyurl.com/45x3xrpm/chid521/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",uctv:Кинопремьера-https://tinyurl.com/45x3xrpm/chid518/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7837",Кинопремьера HD
 https://tinyurl.com/45x3xrpm/chid518/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",HTB+:КИНОСЕМЬЯ-https://tinyurl.com/45x3xrpm/chid517/mpegts
-https://tinyurl.com/45x3xrpm/chid517/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",канал-https://tinyurl.com/45x3xrpm/chid516/mpegts
-https://tinyurl.com/45x3xrpm/chid516/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",GeoTelecom:Лапки Live-https://tinyurl.com/45x3xrpm/chid514/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/lapki-live.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9960",Лапки Live
 https://tinyurl.com/45x3xrpm/chid514/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",тст-https://tinyurl.com/45x3xrpm/chid459/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/tst-cheremchovo.png" tvg-id="simpleTVFakeEpgId",ТСТ (Черемхово)
 https://tinyurl.com/45x3xrpm/chid459/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Medialogistika:HDL-https://tinyurl.com/45x3xrpm/chid431/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/hdl.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12715",Точка РФ
 https://tinyurl.com/45x3xrpm/chid431/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Моя стихия-https://tinyurl.com/45x3xrpm/chid430/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/morskoy.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11506",Моя стихия HD
 https://tinyurl.com/45x3xrpm/chid430/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",1 Космический-https://tinyurl.com/45x3xrpm/chid427/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/kosmichesky.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7917",Первый Космический HD
 https://tinyurl.com/45x3xrpm/chid427/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Hollywood HD-https://tinyurl.com/45x3xrpm/chid421/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Hollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12672",Hollywood HD
 https://tinyurl.com/45x3xrpm/chid421/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Bollywood HD-https://tinyurl.com/45x3xrpm/chid420/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood HD
 https://tinyurl.com/45x3xrpm/chid420/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Россия HD-https://tinyurl.com/45x3xrpm/chid416/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12877",Россия 1 HD
 https://tinyurl.com/45x3xrpm/chid416/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Food Time HD-https://tinyurl.com/45x3xrpm/chid415/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Food network HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9321",Food Time HD
 https://tinyurl.com/45x3xrpm/chid415/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Medialogistika:Живая природа-https://tinyurl.com/45x3xrpm/chid414/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Живая природа.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9052",Живая природа
 https://tinyurl.com/45x3xrpm/chid414/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Kino Living HD-https://tinyurl.com/45x3xrpm/chid413/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/kinoliving.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8401",KinoLiving HD
 https://tinyurl.com/45x3xrpm/chid413/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",канал-https://tinyurl.com/45x3xrpm/chid326/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/kinosat.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9853",Киноман
 https://tinyurl.com/45x3xrpm/chid326/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Дом Кино HD-https://tinyurl.com/45x3xrpm/chid294/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7802",Дом кино Премиум HD
 https://tinyurl.com/45x3xrpm/chid294/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Капитан Фантастика-https://tinyurl.com/45x3xrpm/chid292/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Капитан Фантастика.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7829",Капитан Фантастика
 https://tinyurl.com/45x3xrpm/chid292/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",канал-https://tinyurl.com/45x3xrpm/chid290/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://static.tildacdn.com/tild6137-3630-4864-a433-316237633365/tiviciirku.jpg" tvg-id="simpleTVFakeEpgId",Ти Ви Си   Иркутск
 https://tinyurl.com/45x3xrpm/chid290/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",RT D-https://tinyurl.com/45x3xrpm/chid284/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/logo/RTД HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11461",RT Д HD
 https://tinyurl.com/45x3xrpm/chid284/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Советская киноклассика-https://tinyurl.com/45x3xrpm/chid276/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/sov-kinklass-hd.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10434",Советская киноклассика HD
 https://tinyurl.com/45x3xrpm/chid276/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",живи-https://tinyurl.com/45x3xrpm/chid275/mpegts
-https://tinyurl.com/45x3xrpm/chid275/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",RTD HD-https://tinyurl.com/45x3xrpm/chid212/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/logo/RTД HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11461",RT Д HD
 https://tinyurl.com/45x3xrpm/chid212/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Планета HD-https://tinyurl.com/45x3xrpm/chid210/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12694",Моя Планета HD
 https://tinyurl.com/45x3xrpm/chid210/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",В Мире Животных HD-https://tinyurl.com/45x3xrpm/chid209/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8743",В Мире Животных HD
 https://tinyurl.com/45x3xrpm/chid209/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Fashion Lifestyle-https://tinyurl.com/45x3xrpm/chid169/mpegts
-https://tinyurl.com/45x3xrpm/chid169/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",День победы-https://tinyurl.com/45x3xrpm/chid168/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/denpobedy.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9119",День Победы HD
 https://tinyurl.com/45x3xrpm/chid168/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Первый Канал HD-https://tinyurl.com/45x3xrpm/chid164/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12730",Первый Канал HD
 https://tinyurl.com/45x3xrpm/chid164/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",ОТВ-https://tinyurl.com/45x3xrpm/chid144/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/otv-eburg.png" tvg-id="simpleTVFakeEpgId",ОТВ Екатеринбург
 https://tinyurl.com/45x3xrpm/chid144/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",Индия-https://tinyurl.com/45x3xrpm/chid139/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="https://epg.iptvx.one/picons/zee-tv.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11504",Индия
 https://tinyurl.com/45x3xrpm/chid139/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",GeoTelecom:Пёс и Ко-https://tinyurl.com/45x3xrpm/chid122/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Пёс и Ко.png" tvg-id="simpleTVFakeEpgId",Пёс и Ко
 https://tinyurl.com/45x3xrpm/chid122/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="simpleTVFakeEpgId",Настоящее страшное ТВ-https://tinyurl.com/45x3xrpm/chid118/mpegts
+#EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7889",Настоящее страшное ТВ
 https://tinyurl.com/45x3xrpm/chid118/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",viju serial-https://tinyurl.com/45x3xrpm/chid40/mpegts
-https://tinyurl.com/45x3xrpm/chid40/mpegts
-#EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",РТРС:Спас-https://tinyurl.com/45x3xrpm/chid7/mpegts
-https://tinyurl.com/45x3xrpm/chid7/mpegts
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/863.m3u8
-https://streaming.televizor-24-tochka.ru/live/863.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/748.m3u8
 https://streaming.televizor-24-tochka.ru/live/748.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/618.m3u8
@@ -2919,4 +2903,3 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
-
