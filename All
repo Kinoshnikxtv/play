@@ -907,7 +907,7 @@ https://streaming.televizor-24-tochka.ru/live/29.m3u8
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://www.lyngsat.com/logo/tv/pp/perviy-respublikanskiy-telekanal-ru.png",Первый Республиканский Телеканал
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13",За! ТВ
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13",За!
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://avatars.mds.yandex.net/i?id=2b3e781adbc0bad3101e9e6b8fa01b85_sr-5530893-images-thumbs&n=13",Таврия
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
@@ -2895,3 +2895,4 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
+
