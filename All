@@ -3,8 +3,6 @@
 http://minsk-cache07t.voka.tv/live/5512-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/tv3-by.png" tvg-id="simpleTVFakeEpgId",ТВ-3 Беларусь
 http://minsk-cache07t.voka.tv/live/5127-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/740.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444",Карусель
-http://minsk-cache07t.voka.tv/live/5123-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/427.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piaty-int",5 канал (Россия) International
 http://minsk-cache07t.voka.tv/live/5121-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/ТНТ International.png" tvg-id="simpleTVFakeEpgId",ТНТ-International HD (Беларусь)
@@ -399,7 +397,7 @@ https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11507",Мужское кино
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835",Киномикс
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8762",Наш Кинопоказ
 https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7834",Кинокомедия
 https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
@@ -443,6 +441,8 @@ https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801",Дом кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
+https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11110",Родное кино
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897",Наше новое кино
@@ -477,8 +477,6 @@ https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7970",Телекафе
 https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444",Карусель
-https://stream8.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Уникум.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12681",Уникум
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Точка отрыва.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11512",Точка отрыва
@@ -827,46 +825,6 @@ http://cdn.kubteltv.workers.dev/?ID=3
 http://cdn.kubteltv.workers.dev/?ID=2
 #EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-id="simpleTVFakeEpgId",канал-http://cdn.kubteltv.workers.dev/?ID=1
 http://cdn.kubteltv.workers.dev/?ID=1
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:20 Муз-ТВ-http://31.131.141.195:8000/play/2100/index.m3u8
-http://31.131.141.195:8000/play/2100/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:19 ТНТ-http://31.131.141.195:8000/play/2090/index.m3u8
-http://31.131.141.195:8000/play/2090/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:17 Звезда-http://31.131.141.195:8000/play/2070/index.m3u8
-http://31.131.141.195:8000/play/2070/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:16 Пятница-http://31.131.141.195:8000/play/2060/index.m3u8
-http://31.131.141.195:8000/play/2060/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:13 СТС-http://31.131.141.195:8000/play/2030/index.m3u8
-http://31.131.141.195:8000/play/2030/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:12 Спас-http://31.131.141.195:8000/play/2020/index.m3u8
-http://31.131.141.195:8000/play/2020/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",РТРС:11 Рен ТВ-http://31.131.141.195:8000/play/2010/index.m3u8
-http://31.131.141.195:8000/play/2010/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:Радио России-http://31.131.141.195:8000/play/1130/index.m3u8
-http://31.131.141.195:8000/play/1130/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:Маяк-http://31.131.141.195:8000/play/1120/index.m3u8
-http://31.131.141.195:8000/play/1120/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:Вести ФМ-http://31.131.141.195:8000/play/1110/index.m3u8
-http://31.131.141.195:8000/play/1110/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:10 ТВЦ-http://31.131.141.195:8000/play/1100/index.m3u8
-http://31.131.141.195:8000/play/1100/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:09 ОТР-http://31.131.141.195:8000/play/1090/index.m3u8
-http://31.131.141.195:8000/play/1090/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:08 Карусель-http://31.131.141.195:8000/play/1080/index.m3u8
-http://31.131.141.195:8000/play/1080/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:07 Россия-24-http://31.131.141.195:8000/play/1070/index.m3u8
-http://31.131.141.195:8000/play/1070/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:06 Россия К-http://31.131.141.195:8000/play/1060/index.m3u8
-http://31.131.141.195:8000/play/1060/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:05 Пятый канал-http://31.131.141.195:8000/play/1050/index.m3u8
-http://31.131.141.195:8000/play/1050/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:04 НТВ-http://31.131.141.195:8000/play/1040/index.m3u8
-http://31.131.141.195:8000/play/1040/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:03 Матч!-http://31.131.141.195:8000/play/1030/index.m3u8
-http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",VGTRK:02 Россия-1-http://31.131.141.195:8000/play/1020/index.m3u8
-http://31.131.141.195:8000/play/1020/index.m3u8
-#EXTINF:-1 group-title="Шахтёрск Эфир" tvg-id="simpleTVFakeEpgId",RTRC:01 Первый канал-http://31.131.141.195:8000/play/1010/index.m3u8
-http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",РТРС:NTV Region-https://tinyurl.com/45x3xrpm/chid522/mpegts
 https://tinyurl.com/45x3xrpm/chid522/mpegts
 #EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",HTB+:КИНОСВИДАНИЕ-https://tinyurl.com/45x3xrpm/chid521/mpegts
@@ -937,226 +895,6 @@ https://tinyurl.com/45x3xrpm/chid118/mpegts
 https://tinyurl.com/45x3xrpm/chid40/mpegts
 #EXTINF:-1 group-title="tinyurl.com" tvg-id="simpleTVFakeEpgId",РТРС:Спас-https://tinyurl.com/45x3xrpm/chid7/mpegts
 https://tinyurl.com/45x3xrpm/chid7/mpegts
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.196:2020
-http://85.88.175.48:2020/udp/239.28.0.196:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.195:2020
-http://85.88.175.48:2020/udp/239.28.0.195:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.185:2020
-http://85.88.175.48:2020/udp/239.28.0.185:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.184:2020
-http://85.88.175.48:2020/udp/239.28.0.184:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.154:2020
-http://85.88.175.48:2020/udp/239.28.0.154:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",канал-http://85.88.175.48:2020/udp/239.28.0.119:2020
-http://85.88.175.48:2020/udp/239.28.0.119:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.118:2020
-http://85.88.175.48:2020/udp/239.28.0.118:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.111:2020
-http://85.88.175.48:2020/udp/239.28.0.111:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.110:2020
-http://85.88.175.48:2020/udp/239.28.0.110:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.103:2020
-http://85.88.175.48:2020/udp/239.28.0.103:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.102:2020
-http://85.88.175.48:2020/udp/239.28.0.102:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.80:2020
-http://85.88.175.48:2020/udp/239.28.0.80:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.78:2020
-http://85.88.175.48:2020/udp/239.28.0.78:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.73:2020
-http://85.88.175.48:2020/udp/239.28.0.73:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",TightVideo:-http://85.88.175.48:2020/udp/239.28.0.68:2020
-http://85.88.175.48:2020/udp/239.28.0.68:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.20:2020
-http://85.88.175.48:2020/udp/239.28.0.20:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.19:2020
-http://85.88.175.48:2020/udp/239.28.0.19:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.12:2020
-http://85.88.175.48:2020/udp/239.28.0.12:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.10:2020
-http://85.88.175.48:2020/udp/239.28.0.10:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.4:2020
-http://85.88.175.48:2020/udp/239.28.0.4:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.28.0.1:2020
-http://85.88.175.48:2020/udp/239.28.0.1:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.249:2020
-http://85.88.175.48:2020/udp/239.4.0.249:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.248:2020
-http://85.88.175.48:2020/udp/239.4.0.248:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.247:2020
-http://85.88.175.48:2020/udp/239.4.0.247:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.244:2020
-http://85.88.175.48:2020/udp/239.4.0.244:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.242:2020
-http://85.88.175.48:2020/udp/239.4.0.242:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.241:2020
-http://85.88.175.48:2020/udp/239.4.0.241:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.234:2020
-http://85.88.175.48:2020/udp/239.4.0.234:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.4.0.231:2020
-http://85.88.175.48:2020/udp/239.4.0.231:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.227:2020
-http://85.88.175.48:2020/udp/239.4.0.227:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.222:2020
-http://85.88.175.48:2020/udp/239.4.0.222:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.218:2020
-http://85.88.175.48:2020/udp/239.4.0.218:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.215:2020
-http://85.88.175.48:2020/udp/239.4.0.215:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.4.0.208:2020
-http://85.88.175.48:2020/udp/239.4.0.208:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",oruzhie-http://85.88.175.48:2020/udp/239.4.0.205:2020
-http://85.88.175.48:2020/udp/239.4.0.205:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.204:2020
-http://85.88.175.48:2020/udp/239.4.0.204:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.202:2020
-http://85.88.175.48:2020/udp/239.4.0.202:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.198:2020
-http://85.88.175.48:2020/udp/239.4.0.198:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.196:2020
-http://85.88.175.48:2020/udp/239.4.0.196:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.195:2020
-http://85.88.175.48:2020/udp/239.4.0.195:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.192:2020
-http://85.88.175.48:2020/udp/239.4.0.192:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.187:2020
-http://85.88.175.48:2020/udp/239.4.0.187:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.183:2020
-http://85.88.175.48:2020/udp/239.4.0.183:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.180:2020
-http://85.88.175.48:2020/udp/239.4.0.180:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.167:2020
-http://85.88.175.48:2020/udp/239.4.0.167:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Harmonic:Mir 24-http://85.88.175.48:2020/udp/239.4.0.164:2020
-http://85.88.175.48:2020/udp/239.4.0.164:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.4.0.161:2020
-http://85.88.175.48:2020/udp/239.4.0.161:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",GeoTelecom:Da Vinci Learning-http://85.88.175.48:2020/udp/239.4.0.159:2020
-http://85.88.175.48:2020/udp/239.4.0.159:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.157:2020
-http://85.88.175.48:2020/udp/239.4.0.157:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Leomax24-http://85.88.175.48:2020/udp/239.4.0.154:2020
-http://85.88.175.48:2020/udp/239.4.0.154:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.151:2020
-http://85.88.175.48:2020/udp/239.4.0.151:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.4.0.149:2020
-http://85.88.175.48:2020/udp/239.4.0.149:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.146:2020
-http://85.88.175.48:2020/udp/239.4.0.146:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.4.0.143:2020
-http://85.88.175.48:2020/udp/239.4.0.143:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:Shanson-http://85.88.175.48:2020/udp/239.4.0.130:2020
-http://85.88.175.48:2020/udp/239.4.0.130:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.129:2020
-http://85.88.175.48:2020/udp/239.4.0.129:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.121:2020
-http://85.88.175.48:2020/udp/239.4.0.121:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.117:2020
-http://85.88.175.48:2020/udp/239.4.0.117:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:Istoriya-http://85.88.175.48:2020/udp/239.4.0.110:2020
-http://85.88.175.48:2020/udp/239.4.0.110:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.109:2020
-http://85.88.175.48:2020/udp/239.4.0.109:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",РТРС:-http://85.88.175.48:2020/udp/239.4.0.108:2020
-http://85.88.175.48:2020/udp/239.4.0.108:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.104:2020
-http://85.88.175.48:2020/udp/239.4.0.104:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.100:2020
-http://85.88.175.48:2020/udp/239.4.0.100:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.98:2020
-http://85.88.175.48:2020/udp/239.4.0.98:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Transcoder:CGTN Russian-http://85.88.175.48:2020/udp/239.4.0.93:2020
-http://85.88.175.48:2020/udp/239.4.0.93:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.88:2020
-http://85.88.175.48:2020/udp/239.4.0.88:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.83:2020
-http://85.88.175.48:2020/udp/239.4.0.83:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.81:2020
-http://85.88.175.48:2020/udp/239.4.0.81:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.76:2020
-http://85.88.175.48:2020/udp/239.4.0.76:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.73:2020
-http://85.88.175.48:2020/udp/239.4.0.73:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.72:2020
-http://85.88.175.48:2020/udp/239.4.0.72:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.70:2020
-http://85.88.175.48:2020/udp/239.4.0.70:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.67:2020
-http://85.88.175.48:2020/udp/239.4.0.67:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",SynterraMedia:SolovievLive-http://85.88.175.48:2020/udp/239.4.0.59:2020
-http://85.88.175.48:2020/udp/239.4.0.59:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.55:2020
-http://85.88.175.48:2020/udp/239.4.0.55:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.52:2020
-http://85.88.175.48:2020/udp/239.4.0.52:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:T24-http://85.88.175.48:2020/udp/239.4.0.40:2020
-http://85.88.175.48:2020/udp/239.4.0.40:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",канал-http://85.88.175.48:2020/udp/239.4.0.35:2020
-http://85.88.175.48:2020/udp/239.4.0.35:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.29:2020
-http://85.88.175.48:2020/udp/239.4.0.29:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.0.28:2020
-http://85.88.175.48:2020/udp/239.4.0.28:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.11:2020
-http://85.88.175.48:2020/udp/239.4.0.11:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:-http://85.88.175.48:2020/udp/239.4.0.1:2020
-http://85.88.175.48:2020/udp/239.4.0.1:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",HD Life-http://85.88.175.48:2020/udp/239.4.10.173:2020
-http://85.88.175.48:2020/udp/239.4.10.173:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",SHant Music HD-http://85.88.175.48:2020/udp/239.4.10.170:2020
-http://85.88.175.48:2020/udp/239.4.10.170:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Telecafe-http://85.88.175.48:2020/udp/239.4.10.165:2020
-http://85.88.175.48:2020/udp/239.4.10.165:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Дикая охота HD-http://85.88.175.48:2020/udp/239.4.10.160:2020
-http://85.88.175.48:2020/udp/239.4.10.160:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Big Planet HD-http://85.88.175.48:2020/udp/239.4.10.151:2020
-http://85.88.175.48:2020/udp/239.4.10.151:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",RT DE HD-http://85.88.175.48:2020/udp/239.4.10.138:2020
-http://85.88.175.48:2020/udp/239.4.10.138:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Muzyka pervogo-http://85.88.175.48:2020/udp/239.4.10.130:2020
-http://85.88.175.48:2020/udp/239.4.10.130:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Taina TV-http://85.88.175.48:2020/udp/239.4.10.125:2020
-http://85.88.175.48:2020/udp/239.4.10.125:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Womens Magazine HD-http://85.88.175.48:2020/udp/239.4.10.121:2020
-http://85.88.175.48:2020/udp/239.4.10.121:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",360 Новости-http://85.88.175.48:2020/udp/239.4.10.112:2020
-http://85.88.175.48:2020/udp/239.4.10.112:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",LDPR Live-http://85.88.175.48:2020/udp/239.4.10.111:2020
-http://85.88.175.48:2020/udp/239.4.10.111:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Футбол 1-http://85.88.175.48:2020/udp/239.4.10.105:2020
-http://85.88.175.48:2020/udp/239.4.10.105:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:Ani-http://85.88.175.48:2020/udp/239.4.10.102:2020
-http://85.88.175.48:2020/udp/239.4.10.102:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",канал-http://85.88.175.48:2020/udp/239.4.10.98:2020
-http://85.88.175.48:2020/udp/239.4.10.98:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:Brazzers TV-http://85.88.175.48:2020/udp/239.4.10.91:2020
-http://85.88.175.48:2020/udp/239.4.10.91:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:МАТЧ! БОЕЦ-http://85.88.175.48:2020/udp/239.4.10.81:2020
-http://85.88.175.48:2020/udp/239.4.10.81:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Luxury HD-http://85.88.175.48:2020/udp/239.4.10.77:2020
-http://85.88.175.48:2020/udp/239.4.10.77:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://85.88.175.48:2020/udp/239.4.10.71:2020
-http://85.88.175.48:2020/udp/239.4.10.71:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-logo="../Channel/Logo/World Fashion Channel HD.png" tvg-id="simpleTVFakeEpgId",World Fashion Channel HD-http://85.88.175.48:2020/udp/239.4.10.69:2020
-http://85.88.175.48:2020/udp/239.4.10.69:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Rostelecom M7:Дикий (КТВ)-http://85.88.175.48:2020/udp/239.4.10.62:2020
-http://85.88.175.48:2020/udp/239.4.10.62:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",ZEE TV Russia-http://85.88.175.48:2020/udp/239.4.10.55:2020
-http://85.88.175.48:2020/udp/239.4.10.55:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:Telecafe-http://85.88.175.48:2020/udp/239.4.10.49:2020
-http://85.88.175.48:2020/udp/239.4.10.49:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Союз-http://85.88.175.48:2020/udp/239.4.10.36:2020
-http://85.88.175.48:2020/udp/239.4.10.36:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:Sarafan-http://85.88.175.48:2020/udp/239.4.10.24:2020
-http://85.88.175.48:2020/udp/239.4.10.24:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Кино ТВ HD (+7)-http://85.88.175.48:2020/udp/239.4.10.10:2020
-http://85.88.175.48:2020/udp/239.4.10.10:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Harmonic:Mir 24-http://85.88.175.48:2020/udp/239.4.10.9:2020
-http://85.88.175.48:2020/udp/239.4.10.9:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Uvelirochka Reg-http://85.88.175.48:2020/udp/239.4.10.5:2020
-http://85.88.175.48:2020/udp/239.4.10.5:2020
-#EXTINF:-1 group-title="Благовещенск" tvg-id="simpleTVFakeEpgId",Medialogistika:Lyubimoe Kino-http://85.88.175.48:2020/udp/239.4.10.1:2020
-http://85.88.175.48:2020/udp/239.4.10.1:2020
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/863.m3u8
 https://streaming.televizor-24-tochka.ru/live/863.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/748.m3u8
@@ -1207,7 +945,7 @@ http://194.158.222.36:6109
 http://194.158.222.36:6108
 #EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/НТВ Беларусь_белый.png" tvg-id="simpleTVFakeEpgId",НТВ Беларусь
 http://194.158.222.36:6107
-#EXTINF:-1 group-title="minsktelecom.by" tvg-id="simpleTVFakeEpgId",RTR Беларусь
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="https://epg.iptvx.one/picons/rtr-belarus.png" tvg-id="simpleTVFakeEpgId",РТР-Беларусь
 http://194.158.222.36:6106
 #EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="simpleTVFakeEpgId",Первый информационный
 http://194.158.222.36:6105
@@ -1421,8 +1159,6 @@ http://213.230.65.254:8000/play/a02i
 http://213.230.65.254:8000/play/a02j
 #EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Unikum
 http://213.230.65.254:8000/play/a02k
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="simpleTVFakeEpgId",Карусель
-http://213.230.65.254:8000/play/a02l
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="simpleTVFakeEpgId",Детский мир
 http://213.230.65.254:8000/play/a02m
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="simpleTVFakeEpgId",Охота и рыбалка
@@ -1633,8 +1369,6 @@ http://188.225.31.197/bpk-tv/000000709/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="https://iptvx.one/picons/muzzone.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_muzzone",MuzZone
 http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
-#EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
-http://188.225.31.197/bpk-tv/000000781/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="http://epg.one/img2/2008.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2008",Авто 24
 http://188.225.31.197/bpk-tv/000000815/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="http://epg.one/img2/2547.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2547",Россия РТР
@@ -2045,8 +1779,6 @@ http://178.163.13.88:4022/udp/234.0.0.200:2000
 http://178.163.13.88:4022/udp/234.0.0.201:2000
 #EXTINF:-1 group-title="Самара" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="simpleTVFakeEpgId",Россия К
 http://178.163.13.88:4022/udp/234.0.0.202:2000
-#EXTINF:-1 group-title="Самара" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="simpleTVFakeEpgId",Карусель
-http://178.163.13.88:4022/udp/234.0.0.203:2000
 #EXTINF:-1 group-title="Самара" tvg-logo="../Channel/Logo/Матч!.png" tvg-id="simpleTVFakeEpgId",Матч!
 http://178.163.13.88:4022/udp/234.0.0.204:2000
 #EXTINF:-1 group-title="Самара" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="simpleTVFakeEpgId",Пятый канал
@@ -2083,7 +1815,7 @@ http://178.163.13.88:4022/udp/234.0.0.219:2000
 http://178.163.13.88:4022/udp/234.0.0.220:2000
 #EXTINF:-1 group-title="Самара" tvg-logo="../Channel/Logo/Здоровое ТВ.png" tvg-id="simpleTVFakeEpgId",Здоровое ТВ
 http://178.163.13.88:4022/udp/234.0.0.221:2000
-#EXTINF:-1 group-title="Самара" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId",Киномикс
+#EXTINF:-1 group-title="Самара" tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8762",Наш Кинопоказ
 http://178.163.13.88:4022/udp/234.0.0.222:2000
 #EXTINF:-1 group-title="Самара" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" tvg-id="simpleTVFakeEpgId",Bridge TV Classic
 http://178.163.13.88:4022/udp/234.0.0.223:2000
@@ -2237,8 +1969,6 @@ http://178.163.13.140:4022/udp/234.0.0.200:2000
 http://178.163.13.140:4022/udp/234.0.0.201:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="simpleTVFakeEpgId",Россия К
 http://178.163.13.140:4022/udp/234.0.0.202:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="simpleTVFakeEpgId",Карусель +0
-http://178.163.13.140:4022/udp/234.0.0.203:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Матч!.png" tvg-id="simpleTVFakeEpgId",Матч!
 http://178.163.13.140:4022/udp/234.0.0.204:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="simpleTVFakeEpgId",Пятый
@@ -2387,7 +2117,7 @@ http://178.163.13.140:4022/udp/234.0.0.155:2000
 http://178.163.13.140:4022/udp/234.0.0.187:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="simpleTVFakeEpgId",Русский Бестселлер
 http://178.163.13.140:4022/udp/234.0.0.250:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId",Киномикс
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8762",Наш Кинопоказ
 http://178.163.13.140:4022/udp/234.0.0.222:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="simpleTVFakeEpgId",Русский Роман
 http://178.163.13.140:4022/udp/234.0.0.224:2000
@@ -2419,142 +2149,72 @@ http://178.163.13.140:4022/udp/234.0.0.13:2000
 http://178.163.13.140:4022/udp/234.0.0.12:2000
 #EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Дикая охота-http://178.163.13.140:4022/udp/234.0.0.11:2000
 http://178.163.13.140:4022/udp/234.0.0.11:2000
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId",Первый канал. Всемирная сеть HD
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId",Первый канал. Всемирная сеть HD
 http://87.246.54.249:8080/Pervii/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",viju+ Comedy HD
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",viju+ Comedy HD
 http://87.246.54.249:8080/Viju_Comedy/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",viju+ Premiere HD
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",viju+ Premiere HD
 http://87.246.54.249:8080/Viju_Premiere/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",FRIDAY International
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",FRIDAY International
 http://87.246.54.249:8080/piatnica/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Победа HD.png" tvg-id="simpleTVFakeEpgId",Победа
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Победа HD.png" tvg-id="simpleTVFakeEpgId",Победа
 http://87.246.54.249:8080/Pobeda/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",viju+ Megahit HD
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",viju+ Megahit HD
 http://87.246.54.249:8080/Viju_Megahit/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="simpleTVFakeEpgId",Наше Новое Кино HD
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="simpleTVFakeEpgId",Наше Новое Кино HD
 http://87.246.54.249:8080/NasheKino/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="simpleTVFakeEpgId",Кинохит HD
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="simpleTVFakeEpgId",Кинохит HD
 http://87.246.54.249:8080/KinoHit/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",Karusel Intl.
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",Karusel Intl.
 http://87.246.54.249:8080/Karusel/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="simpleTVFakeEpgId",Детский Мир
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="simpleTVFakeEpgId",Детский Мир
 http://87.246.54.249:8080/DetskiMir/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Viasat nature.png" tvg-id="simpleTVFakeEpgId",Viasat Nature
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Viasat nature.png" tvg-id="simpleTVFakeEpgId",Viasat Nature
 http://87.246.54.249:8080/ViasatNature/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="simpleTVFakeEpgId",Россия 24
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="simpleTVFakeEpgId",Россия 24
 http://87.246.54.249:8080/Rossia24/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="simpleTVFakeEpgId",Киносемья HD
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="simpleTVFakeEpgId",Киносемья HD
 http://87.246.54.249:8080/kinosemia/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="simpleTVFakeEpgId",ТНТ HD
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="simpleTVFakeEpgId",ТНТ HD
 http://87.246.54.249:8080/THT/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",Mir seriala
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",Mir seriala
 http://87.246.54.249:8080/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",РТР Планета HD
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",РТР Планета HD
 http://87.246.54.249:8080/RTR_Planeta/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Мир.png" tvg-id="simpleTVFakeEpgId",МИР
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Мир.png" tvg-id="simpleTVFakeEpgId",МИР
 http://87.246.54.249:8080/MIR/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",CTC Kids
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",CTC Kids
 http://87.246.54.249:8080/CTC_Kids/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId",Киномикс HD
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId",Киномикс HD
 http://87.246.54.249:8080/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId",Киномикс
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="simpleTVFakeEpgId",Киномикс
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="simpleTVFakeEpgId",Моя Планета
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="simpleTVFakeEpgId",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Наука.png" tvg-id="simpleTVFakeEpgId",Наука 2.0
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Наука.png" tvg-id="simpleTVFakeEpgId",Наука 2.0
 http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Travel+ adventure.png" tvg-id="simpleTVFakeEpgId",Travel+Adventure
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Travel+ adventure.png" tvg-id="simpleTVFakeEpgId",Travel+Adventure
 http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="simpleTVFakeEpgId",Viasat Explore
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Viasat explore HD.png" tvg-id="simpleTVFakeEpgId",Viasat Explore
 http://45.145.32.13:20440/viasat_explore/index.m3u8?token=test
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="simpleTVFakeEpgId",Viasat History
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="simpleTVFakeEpgId",Viasat History
 http://45.145.32.13:20440/viasat_history/index.m3u8?token=test
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Viasat nature.png" tvg-id="simpleTVFakeEpgId",Viasat Nature
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Viasat nature.png" tvg-id="simpleTVFakeEpgId",Viasat Nature
 http://45.145.32.13:20440/viasat_nature/index.m3u8?token=test
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",Big Planet
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",Big Planet
 http://45.145.32.13:20440/bigplanet/index.m3u8?token=test
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="simpleTVFakeEpgId",Galaxy
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="simpleTVFakeEpgId",Galaxy
 http://45.145.32.13:20440/outdoor_channel/index.m3u8?token=test
-#EXTINF:-1 group-title="Болгария" tvg-id="simpleTVFakeEpgId",Epic
+#EXTINF:-1 group-title="Разное" tvg-id="simpleTVFakeEpgId",Epic
 http://193.25.8.59:8000/dtx
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo
 http://185.164.82.18:9010/ykMHqK_NatGeo
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo Wild
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="simpleTVFakeEpgId",Nat Geo Wild
 http://185.164.82.18:9010/ykMHqK_NatGeoWild
-#EXTINF:-1 group-title="Болгария" tvg-logo="https://iptvx.one/picons/9kanal-israel.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль) HD
+#EXTINF:-1 group-title="Разное" tvg-logo="https://iptvx.one/picons/9kanal-israel.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль) HD
 http://4.59.210.197:8815/udp/127.0.0.1:6013
-#EXTINF:-1 group-title="Болгария" tvg-logo="../Channel/logo/i.webp" tvg-id="simpleTVFakeEpgId",RTN-USA (rus)
+#EXTINF:-1 group-title="Разное" tvg-logo="../Channel/logo/i.webp" tvg-id="simpleTVFakeEpgId",RTN-USA (rus)
 http://4.59.210.197:8815/udp/127.0.0.1:6002
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",KINO TV
-http://185.46.16.239:8000/Kino_TV
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",Zhivaja Planeta
-http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",075 365 дней ТВ
-http://185.46.16.239:8000/Paramount_Comedy
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="simpleTVFakeEpgId",Матч! Страна
-http://185.46.16.239:8000/Match_Nash_Sport
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",Evrokino
-http://185.46.16.239:8000/Yevrokino
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",08 КАРУСЕЛЬ
-http://185.46.16.239:8000/Karusel
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",04 HTB
-http://185.46.16.239:8000/NTV
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",17 Звезда
-http://185.46.16.239:8000/Zvezda
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",Unikum
-http://185.46.16.239:8000/Detskiy
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",15 TB3
-http://185.46.16.239:8000/TV3
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",19 ТНТ
-http://185.46.16.239:8000/TNT
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",13 СТС
-http://185.46.16.239:8000/STS
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",09 ОТР
-http://185.46.16.239:8000/OTR
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="simpleTVFakeEpgId",НАШЕ НОВОЕ КИНО
-http://185.46.16.239:8000/Nickelodeon
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",Nayka
-http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",18 МИР
-http://185.46.16.239:8000/Mir
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/History.png" tvg-id="simpleTVFakeEpgId",ISTORIA
-http://185.46.16.239:8000/Istoriya
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",14 Домашний
-http://185.46.16.239:8000/Domashniy
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",Mult
-http://185.46.16.239:8000/Mult
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",Shanson TV Int.
-http://185.46.16.239:8000/Shanson
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/SongTV Russia.png" tvg-id="simpleTVFakeEpgId",Russkiy roman
-http://185.46.16.239:8000/Russkiy_roman
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",06 Россия К
-http://185.46.16.239:8000/Rossiya_K
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",Ю ТВ
-http://185.46.16.239:8000/YU_TV
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",105 В гостях у сказки HD
-http://185.46.16.239:8000/V_gostyakh_u_skazki
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="simpleTVFakeEpgId",Cinema
-http://185.46.16.239:8000/Cinema
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="simpleTVFakeEpgId",ТНТ Music
-http://185.46.16.239:8000/Nashe_TV
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",075 365 дней ТВ
-http://185.46.16.239:8000/Paramount_Comedy
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="simpleTVFakeEpgId",Матч! Игра
-http://185.46.16.239:8000/Match_Igra
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/11 канал (Пенза).png" tvg-id="simpleTVFakeEpgId",11 PEH-TB
-http://185.46.16.239:8000/REN_TV
-#EXTINF:-1 group-title="Тихорецк" tvg-logo="../Channel/Logo/Супер.png" tvg-id="simpleTVFakeEpgId",Супергерои
-http://185.46.16.239:8000/National_Geographic_HD
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",RZDTV HD
-http://185.46.16.239:8000/Nat_Geo_Wild_HD
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",Солнце
-http://185.46.16.239:8000/Disney_Channel
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",035 Бокс ТВ
-http://185.46.16.239:8000/Eurosport_1
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",060 Кинокомедия
-http://185.46.16.239:8000/Fox_HD
-#EXTINF:-1 group-title="Тихорецк" tvg-id="simpleTVFakeEpgId",061 КиноМикс
-http://185.46.16.239:8000/Fox_Life_HD
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="simpleTVFakeEpgId",Беларусь 24 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="simpleTVFakeEpgId",Беларусь 24 HD1
@@ -3261,4 +2921,3 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
-
