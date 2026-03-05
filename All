@@ -2191,7 +2191,7 @@ http://4.59.210.197:8815/udp/127.0.0.1:6013
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 24.png",Беларусь 24 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 24.png",Беларусь 24 HD1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 24.png",Беларусь 24 HD
 https://edge51.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="belarus1",Беларусь 1
 http://194.158.222.36:6101
@@ -2199,19 +2199,19 @@ http://194.158.222.36:6101
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD2
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD3
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD4
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD
 https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD5
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD6
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD9
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1 HD
 https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus2hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus2",Беларусь 2
 http://194.158.222.36:6111
@@ -2223,21 +2223,21 @@ https://edge51.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_slen
 http://194.158.222.36:6108
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus3hd.png" tvg-id="belarus3",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD2
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD3
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD4
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD
 https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD5
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD6
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD9
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png",Беларусь 3 HD
 https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/РТР Беларусь.png",Беларусь4 HD
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/РТР Беларусь.png",Беларусь 4 HD
 http://46.56.85.151:8080/0.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="http://epg.one/img2/2541.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2541",Беларусь 5
 http://194.158.222.36:6109
@@ -2249,13 +2249,13 @@ https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w34
 http://194.158.222.36:6105
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/informacionnyy.png" tvg-id="informacionnyy",Первый информационный
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/informacionnyy.png" tvg-id="informacionnyy",Первый информационный1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/informacionnyy.png" tvg-id="informacionnyy",Первый информационный
 https://edge51.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="http://epg.one/img2/2543.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2543",СТВ.by
 http://194.158.222.36:6103
-#EXTINF:-1 group-title="Beltelecom 2",СТВ HD Беларусь
+#EXTINF:-1 group-title="Beltelecom 2",СТВ Беларусь
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2",СТВ HD Беларусь1
+#EXTINF:-1 group-title="Beltelecom 2",СТВ Беларусь
 https://edge51.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png",СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
@@ -2895,5 +2895,6 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
+
 
 
