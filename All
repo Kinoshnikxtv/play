@@ -879,45 +879,37 @@ https://tinyurl.com/45x3xrpm/chid139/mpegts
 https://tinyurl.com/45x3xrpm/chid122/mpegts
 #EXTINF:-1 group-title="tinyurl.com" tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7889",Настоящее страшное ТВ
 https://tinyurl.com/45x3xrpm/chid118/mpegts
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/748.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда
 https://streaming.televizor-24-tochka.ru/live/748.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/618.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/Муз-ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10414",Муз-ТВ
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/554.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/logo/RTД HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11461",RT Д HD
 https://streaming.televizor-24-tochka.ru/live/554.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/296.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/СТС.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12873",СТС
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/250.m3u8
-https://streaming.televizor-24-tochka.ru/live/250.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/232.m3u8
-https://streaming.televizor-24-tochka.ru/live/232.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/213.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://epg.iptvx.one/picons/ntv-mir.png" tvg-id="simpleTVFakeEpgId",НТВ-Мир
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta-azia.png" tvg-id="simpleTVFakeEpgId",РТР-Планета Азия
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/210.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12730",Первый канал Европа
 https://streaming.televizor-24-tochka.ru/live/210.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/46.m3u8
-https://streaming.televizor-24-tochka.ru/live/46.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/45.m3u8
-https://streaming.televizor-24-tochka.ru/live/45.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/44.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801",Дом кино
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/43.m3u8
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/38.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12872",ТНТ
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/30.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://epg.iptvx.one/picons/rossia-24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12746",Россия 24
 https://streaming.televizor-24-tochka.ru/live/30.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/29.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://avatars.mds.yandex.net/i?id=6f333fc9f18f443456734adc97ba8d044dc248dd-4227899-images-thumbs&n=13" tvg-id="simpleTVFakeEpgId",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/28.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/Крым 24.png" tvg-id="simpleTVFakeEpgId",Крым-24
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/27.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://www.lyngsat.com/logo/tv/pp/perviy-respublikanskiy-telekanal-ru.png" tvg-id="simpleTVFakeEpgId",Первый Республиканский Телеканал
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://avatars.mds.yandex.net/i?id=3392ef595a598b716b3a9c5e8939f4338114f599-5287388-images-thumbs&n=13" tvg-id="simpleTVFakeEpgId",За! ТВ
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/24.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="https://avatars.mds.yandex.net/i?id=2b3e781adbc0bad3101e9e6b8fa01b85_sr-5530893-images-thumbs&n=13" tvg-id="simpleTVFakeEpgId",Таврия
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Беларусь 2.png" tvg-id="simpleTVFakeEpgId",Беларусь 2
 http://194.158.222.36:6111
