@@ -3354,20 +3354,21 @@ http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IPTVPLAY (Кинозал)" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png" tvg-id="simpleTVFakeEpgId",Ералаш 2
 https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" tvg-id="simpleTVFakeEpgId",НТВ Невский
-https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" tvg-id="simpleTVFakeEpgId",НТВ Первый Отдел
-https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Пес
-https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.ts.m3u8
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" tvg-id="simpleTVFakeEpgId",НТВ Скорая Помощь
-https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.ts.m3u8
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-id="simpleTVFakeEpgId",НТВ Следствие вели...
-https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.ts.m3u8
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" tvg-id="simpleTVFakeEpgId",НТВ Шеф
-https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Балабол
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+
 
 
