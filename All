@@ -441,8 +441,6 @@ https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801",Дом кино
 https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-id="simpleTVFakeEpgId",канал-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11110",Родное кино
 https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897",Наше новое кино
@@ -2921,3 +2919,4 @@ https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
+
