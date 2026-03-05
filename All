@@ -3366,9 +3366,10 @@ https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" tvg-id="simpleTVFakeEpgId",НТВ Шеф
 https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Балабол
-https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" tvg-id="simpleTVFakeEpgId",НТВ Сериалы Пять минут тишины
-https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
+
 
 
 
