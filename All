@@ -3,7 +3,7 @@
 http://minsk-cache07t.voka.tv/live/5512-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/tv3-by.png" tvg-id="simpleTVFakeEpgId",ТВ-3 Беларусь
 http://minsk-cache07t.voka.tv/live/5127-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/427.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piaty-int",5 канал (Россия) International
+#EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/427.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piaty-int",Пятый International
 http://minsk-cache07t.voka.tv/live/5121-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/ТНТ International.png" tvg-id="simpleTVFakeEpgId",ТНТ-International HD (Беларусь)
 http://minsk-cache07t.voka.tv/live/5120-req_5k_v5.m3u8
@@ -501,7 +501,7 @@ http://cdn.kubteltv.workers.dev/?ID=457
 http://cdn.kubteltv.workers.dev/?ID=456
 #EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-logo="https://epg.iptvx.one/picons/the-explorers.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11384",The Explorers HD
 http://cdn.kubteltv.workers.dev/?ID=443
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968",Пятый канал HD
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-logo="http://epg.one/img2/427.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968",Пятый канал HD
 http://cdn.kubteltv.workers.dev/?ID=423
 #EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12877",Россия 1 HD
 http://cdn.kubteltv.workers.dev/?ID=422
@@ -1561,7 +1561,7 @@ http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000003748/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="http://epg.one/img2/127.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_127",Viju TV1000 HD
 http://188.225.31.197/bpk-tv/000003747/tve/index.m3u8
-#EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="https://iptvx.one/picons/piaty-int.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piaty-int",5 канал (Россия) International
+#EXTINF:-1 group-title="BeeTV   Казахстан" "http://epg.one/img2/427.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piaty-int",Пятый International
 http://188.225.31.197/bpk-tv/000003718/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="https://iptvx.one/picons/ulytau-kz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ulytau-kz",Ulytau
 http://188.225.31.197/bpk-tv/000003604/tve/index.m3u8
@@ -2885,4 +2885,5 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://epg.iptvx.one/picons/vip-comedy-cee.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12667",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
+
 
