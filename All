@@ -883,7 +883,7 @@ https://streaming.televizor-24-tochka.ru/live/211.m3u8
 https://streaming.televizor-24-tochka.ru/live/210.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801",Дом кино
 https://streaming.televizor-24-tochka.ru/live/44.m3u8
-#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-id="simpleTVFakeEpgId",канал-https://streaming.televizor-24-tochka.ru/live/43.m3u8
+#EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/Победа HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8426",Победа
 https://streaming.televizor-24-tochka.ru/live/43.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12872",ТНТ
 https://streaming.televizor-24-tochka.ru/live/38.m3u8
@@ -2885,6 +2885,7 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://epg.iptvx.one/picons/vip-comedy-cee.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12667",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
+
 
 
 
