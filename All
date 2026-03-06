@@ -393,8 +393,6 @@ https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1246/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Мама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7860",Мама
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Матч! Планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12671",Матч! Планета
-https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11507",Мужское кино
 https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="https://epg.iptvx.one/picons/nash-kinopokaz.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8762",Наш Кинопоказ
@@ -409,8 +407,6 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Cinema HD
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Матч!.png" tvg-id="simpleTVFakeEpgId",Матрас
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11501",viju TV1000 Action HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="simpleTVFakeEpgId",Мир-24
