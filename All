@@ -963,7 +963,7 @@ http://213.230.65.254:8000/play/a01t
 http://213.230.65.254:8000/play/a01u
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/История.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7826",История
 http://213.230.65.254:8000/play/a01w
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Khabar 24
+#EXTINF:-1 group-title="UZTELECOM" ,Хабар 24
 http://213.230.65.254:8000/play/a01x
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835",Киномикс
 http://213.230.65.254:8000/play/a01y
@@ -973,7 +973,7 @@ http://213.230.65.254:8000/play/a01z
 http://213.230.65.254:8000/play/a02b
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood
 http://213.230.65.254:8000/play/a02e
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10034",CGTN-Русский
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://epg.iptvx.one/picons/cctv-ru.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10034",CGTN-Русский
 http://213.230.65.254:8000/play/a02f
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12672",HollyWood
 http://213.230.65.254:8000/play/a02h
@@ -2691,4 +2691,5 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://epg.iptvx.one/picons/vip-comedy-cee.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12667",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
+
 
