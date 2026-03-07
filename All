@@ -409,6 +409,8 @@ https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Cinema HD
 https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Матч!.png" tvg-id="simpleTVFakeEpgId",Матрас
+https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11501",viju TV1000 Action HD
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="simpleTVFakeEpgId",Мир-24
@@ -657,7 +659,7 @@ http://cdn.kubteltv.workers.dev/?ID=216
 http://cdn.kubteltv.workers.dev/?ID=207
 #EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7842",Киноужас HD
 http://cdn.kubteltv.workers.dev/?ID=200
-#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11096",viju TV1000 Русское кино HD
+#EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="simpleTVFakeEpgId",viju TV1000 Русское кино HD
 http://cdn.kubteltv.workers.dev/?ID=193
 #EXTINF:-1 group-title="cdn.kubteltv.workers.dev" tvg-logo="https://epg.iptvx.one/picons/tv1000-action.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11501",viju TV1000 Action HD
 http://cdn.kubteltv.workers.dev/?ID=192
@@ -881,72 +883,44 @@ http://194.158.222.36:6102
 http://194.158.222.36:6101
 #EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Оружие.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7908",Оружие
 http://194.158.222.36:6093
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Матч Премьер HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12671",Матч Планета
+http://194.158.222.36:6089
 #EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/RTG TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10053",RTG TV
 http://194.158.222.36:6039
 #EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9173",Россия К
 http://194.158.222.36:6037
 #EXTINF:-1 group-title="minsktelecom.by" tvg-logo="https://veranzo.ru/other/icons/KHL.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12640",KHL
 http://194.158.222.36:6013
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",FTV HD
-http://213.230.65.254:8000/play/a004
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Mening Yurtim HD
-http://213.230.65.254:8000/play/a005
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Milliy TV HD
-http://213.230.65.254:8000/play/a006
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Renessans TV
-http://213.230.65.254:8000/play/a007
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Sevimli TV HD
-http://213.230.65.254:8000/play/a008
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Uzreport HD
-http://213.230.65.254:8000/play/a009
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972",ТВ-3
 http://213.230.65.254:8000/play/a010
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7970",Телекафе
 http://213.230.65.254:8000/play/a011
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Turkmenistan HD
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://avatars.mds.yandex.net/i?id=751437396c3e3dc070bdef7e3947252392d66623-10245035-images-thumbs&n=13" tvg-id="simpleTVFakeEpgId",Turkmenistan HD
 http://213.230.65.254:8000/play/a012
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/NASA HD.png" tvg-id="simpleTVFakeEpgId",Nasha Tema
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://epg.iptvx.one/picons/nasha-tema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9067",Наша тема
 http://213.230.65.254:8000/play/a013
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",RBC-TV
-http://213.230.65.254:8000/play/a015
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Al Jazeera English HD
-http://213.230.65.254:8000/play/a014
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/NHK WORLD-JAPAN.png" tvg-id="simpleTVFakeEpgId",NHK WORLD-JAPAN HD
-http://213.230.65.254:8000/play/a016
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",AzTV Azerbaijan HD
-http://213.230.65.254:8000/play/a017
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",DW English HD
-http://213.230.65.254:8000/play/a018
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/France 24.png" tvg-id="simpleTVFakeEpgId",France 24 (en Francais) HD
-http://213.230.65.254:8000/play/a019
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11110",Родное кино
 http://213.230.65.254:8000/play/a020
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Mama
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Мама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7860",Мама
 http://213.230.65.254:8000/play/a022
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Moya_planeta
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12694",Моя планета
 http://213.230.65.254:8000/play/a023
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Nauka
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Наука.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7890",Наука
 http://213.230.65.254:8000/play/a024
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Cinema
 http://213.230.65.254:8000/play/a025
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Jivi Activno HD
-http://213.230.65.254:8000/play/a026
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="simpleTVFakeEpgId",GuliGirl
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7691",Gulli Girl
 http://213.230.65.254:8000/play/a027
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Kazakh TV.png" tvg-id="simpleTVFakeEpgId",Kaz TV
-http://213.230.65.254:8000/play/a028
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",V gostyah u skazki HD
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://epg.iptvx.one/picons/v-gostiax-u-skazki.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7788",В гостях у сказки HD
 http://213.230.65.254:8000/play/a029
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Kuhnya TV
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://epg.iptvx.one/picons/kuxnia-tv.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12737",Кухня ТВ
 http://213.230.65.254:8000/play/a030
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",KinoMiks
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835",Киномикс
 http://213.230.65.254:8000/play/a031
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7840",Киносемья
 http://213.230.65.254:8000/play/a032
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Nickelodeon HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12710",Nickelodeon HD
 http://213.230.65.254:8000/play/a034
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Jivi
-http://213.230.65.254:8000/play/a033
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11111",Русский Бестселлер
 http://213.230.65.254:8000/play/a040
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11501",viju TV1000 action
@@ -957,48 +931,16 @@ http://213.230.65.254:8000/play/a042
 http://213.230.65.254:8000/play/a043
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11507",МУЖСКОЕ КИНО HD
 http://213.230.65.254:8000/play/a044
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",ITV_Music
-http://213.230.65.254:8000/play/a046
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11093",Star Cinema
 http://213.230.65.254:8000/play/a047
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Qashqadaryo HD
-http://213.230.65.254:8000/play/a048
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Samarqand HD
-http://213.230.65.254:8000/play/a049
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="simpleTVFakeEpgId",Bolajon
-http://213.230.65.254:8000/play/a00c
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",ZO'R TV HD
-http://213.230.65.254:8000/play/a00a
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",AQLVOY
-http://213.230.65.254:8000/play/a00b
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Futbol TV
-http://213.230.65.254:8000/play/a00e
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Dunyo  bo`ylab HD
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://s3.uztv.tv/rosing/0df2e037fadd5c0d09c5_500x500c.png" tvg-id="simpleTVFakeEpgId",Dunyo  bo`ylab HD
 http://213.230.65.254:8000/play/a00d
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",Kinoteatr HD
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://static10.tgstat.ru/channels/_0/11/1122a95bfe8499a8e2c09915e2761fbf.jpg" tvg-id="simpleTVFakeEpgId",Kinoteatr HD
 http://213.230.65.254:8000/play/a00f
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Madaniyat va ma`rifat
-http://213.230.65.254:8000/play/a00g
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Navo
-http://213.230.65.254:8000/play/a00h
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Nurafshon
-http://213.230.65.254:8000/play/a00i
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",O`zbekiston 24 HD
-http://213.230.65.254:8000/play/a00j
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",O`zbekiston tarixi HD
-http://213.230.65.254:8000/play/a00k
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Viasat Sport HD.png" tvg-id="simpleTVFakeEpgId",Sport HD
-http://213.230.65.254:8000/play/a00l
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Toshkent
-http://213.230.65.254:8000/play/a00m
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",O`zbekiston
-http://213.230.65.254:8000/play/a00n
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801",Дом кино
 http://213.230.65.254:8000/play/a00o
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний
 http://213.230.65.254:8000/play/a00r
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Yoshlar
-http://213.230.65.254:8000/play/a00q
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7934",Ретро
 http://213.230.65.254:8000/play/a00s
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда
@@ -1011,47 +953,15 @@ http://213.230.65.254:8000/play/a00v
 http://213.230.65.254:8000/play/a00w
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12746",Россия 24
 http://213.230.65.254:8000/play/a00x
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="simpleTVFakeEpgId",Euro News
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9521",EuroNews
 http://213.230.65.254:8000/play/a00y
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7885",Музыка Первого
 http://213.230.65.254:8000/play/a00z
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/KBS World.png" tvg-id="simpleTVFakeEpgId",KBS WORLD HD
-http://213.230.65.254:8000/play/a01b
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Luxury HD.png" tvg-id="simpleTVFakeEpgId",LUX TV HD
-http://213.230.65.254:8000/play/a01c
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",a01e HD
-http://213.230.65.254:8000/play/a01e
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Mahalla
-http://213.230.65.254:8000/play/a01d
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",QAZAQSTAN
-http://213.230.65.254:8000/play/a01f
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Russia Today.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11485",RUSSIA TODAY
-http://213.230.65.254:8000/play/a01h
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/RU TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8111",RU TV
-http://213.230.65.254:8000/play/a01g
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",a01i HD
-http://213.230.65.254:8000/play/a01i
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Tojikiston HD
-http://213.230.65.254:8000/play/a01j
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",TRT AVAZ HD
-http://213.230.65.254:8000/play/a01k
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",TRT HABER
-http://213.230.65.254:8000/play/a01l
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",TRT MUZIK
-http://213.230.65.254:8000/play/a01m
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/CNN International.png" tvg-id="simpleTVFakeEpgId",CNN International
-http://213.230.65.254:8000/play/a01n
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/CNN International.png" tvg-id="simpleTVFakeEpgId",CNN International
-http://213.230.65.254:8000/play/a01o
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Altyn Asyr HD
-http://213.230.65.254:8000/play/a01q
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/8 канал Беларусь.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9248",8 Канал
-http://213.230.65.254:8000/play/a01s
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Avto24
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Авто 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11051",Авто 24
 http://213.230.65.254:8000/play/a01t
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Jivaya planeta
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Живая планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7813",Живая планета
 http://213.230.65.254:8000/play/a01u
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/History 2.png" tvg-id="simpleTVFakeEpgId",Istoriya
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/История.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7826",История
 http://213.230.65.254:8000/play/a01w
 #EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Khabar 24
 http://213.230.65.254:8000/play/a01x
@@ -1059,25 +969,19 @@ http://213.230.65.254:8000/play/a01x
 http://213.230.65.254:8000/play/a01y
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835",Киномикс
 http://213.230.65.254:8000/play/a01z
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="simpleTVFakeEpgId",Zoo
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11295",ZooПарк
 http://213.230.65.254:8000/play/a02b
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Fashion tv.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11226",Fashion TV
-http://213.230.65.254:8000/play/a02c
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Bloomberg European TV
-http://213.230.65.254:8000/play/a02d
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",BollyWood
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood
 http://213.230.65.254:8000/play/a02e
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Муз-ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10414",МУЗ-ТВ
-http://213.230.65.254:8000/play/a02g
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="simpleTVFakeEpgId",CGTN_RU_HD
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/CGTN Русский.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10034",CGTN-Русский HD
 http://213.230.65.254:8000/play/a02f
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12672",HollyWood
 http://213.230.65.254:8000/play/a02h
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Mir
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12644",Мир
 http://213.230.65.254:8000/play/a02i
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Mir 24 HD
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7872",Мир 24 HD
 http://213.230.65.254:8000/play/a02j
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Unikum
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Уникум.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12681",Уникум
 http://213.230.65.254:8000/play/a02k
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7794",Детский мир
 http://213.230.65.254:8000/play/a02m
@@ -1085,51 +989,35 @@ http://213.230.65.254:8000/play/a02m
 http://213.230.65.254:8000/play/a02o
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Техно 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9326",Техно 24
 http://213.230.65.254:8000/play/a02n
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Mult
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Мульт.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12677",Мульт
 http://213.230.65.254:8000/play/a02p
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Россия К.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9173",Россия К
 http://213.230.65.254:8000/play/a02q
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Dasturxon TV
-http://213.230.65.254:8000/play/a02s
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Индийское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7825",Индийское Кино
 http://213.230.65.254:8000/play/a02u
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Kinopremera HD
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7837",Кинопремьера HD
 http://213.230.65.254:8000/play/a02t
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",Kinokomedia
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7834",Кинокомедия
 http://213.230.65.254:8000/play/a02v
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Kino 24.png" tvg-id="simpleTVFakeEpgId",Kinoseriya
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11099",Киносерия
 http://213.230.65.254:8000/play/a02x
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",MuzTV_UZ
-http://213.230.65.254:8000/play/a02w
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",BBC News Europe
-http://213.230.65.254:8000/play/a02y
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",a03a
-http://213.230.65.254:8000/play/a03a
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12705",Nat Geo Wild HD
 http://213.230.65.254:8000/play/a02z
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",a03e HD
-http://213.230.65.254:8000/play/a03e
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",a03i HD
-http://213.230.65.254:8000/play/a03i
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",a03j HD
-http://213.230.65.254:8000/play/a03j
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Eurosport 4K.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12855",Eurosport
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12687",Eurosport 1
 http://213.230.65.254:8000/play/a03m
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Drive
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://epg.iptvx.one/picons/drive.png",Драйв
 http://213.230.65.254:8000/play/a03n
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Discovery Channel.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12721",Discovery Channel
 http://213.230.65.254:8000/play/a03o
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12815",Animal Planet
 http://213.230.65.254:8000/play/a03p
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",ТВ 1000 Русское кино
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://epg.iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="simpleTVFakeEpgId",viju TV1000 Русское кино
 http://213.230.65.254:8000/play/a03r
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="simpleTVFakeEpgId",ТВ 1000
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://epg.iptvx.one/picons/tv1000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12874",viju TV1000
 http://213.230.65.254:8000/play/a03q
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Viasat history.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11499",Viasat History
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://epg.iptvx.one/picons/viasat-history.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11499",viju History
 http://213.230.65.254:8000/play/a03s
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Makon TV (TEST)
-http://213.230.65.254:8000/play/a03t
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/vip premiere.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9386",ViP Premiere
+#EXTINF:-1 group-title="UZTELECOM" tvg-logo="https://epg.iptvx.one/picons/vip-premiere.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9386",viju+ Premiere
 http://213.230.65.254:8000/play/a03u
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Наше новое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897",Наше новое кино
 http://213.230.65.254:8000/play/a03v
@@ -1139,16 +1027,6 @@ http://213.230.65.254:8000/play/a03x
 http://213.230.65.254:8000/play/a03y
 #EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Русский детектив.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11112",Русский Детектив
 http://213.230.65.254:8000/play/a03z
-#EXTINF:-1 group-title="UZTELECOM" tvg-logo="../Channel/Logo/Travel and Adventure HD.png" tvg-id="simpleTVFakeEpgId",Andijon HD
-http://213.230.65.254:8000/play/a04a
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Buxoro HD
-http://213.230.65.254:8000/play/a04b
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Jizax HD
-http://213.230.65.254:8000/play/a04c
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Sirdaryo
-http://213.230.65.254:8000/play/a04d
-#EXTINF:-1 group-title="UZTELECOM" tvg-id="simpleTVFakeEpgId",Namangan HD
-http://213.230.65.254:8000/play/a04e
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="http://epg.one/img2/309.png" tvg-id="simpleTVFakeEpgId",ТВ 21
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="https://iptvx.one/picons/texno-24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9326",24 техно
@@ -2137,71 +2015,59 @@ http://4.59.210.197:8815/udp/127.0.0.1:6013
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10061",Беларусь 24 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="simpleTVFakeEpgId",Беларусь 24 HD1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="simpleTVFakeEpgId",Беларусь 24 HD
 https://edge51.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="simpleTVFakeEpgId",Беларусь 1
-http://194.158.222.36:6101
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus1.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD2
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD3
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD4
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD
 https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD5
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD6
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD9
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 1.png" tvg-id="simpleTVFakeEpgId",Беларусь 1 HD
 https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus2hd.png" tvg-id="simpleTVFakeEpgId",Беларусь 2
-http://194.158.222.36:6111
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus2hd.png" tvg-id="simpleTVFakeEpgId",Беларусь 2 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 2 HD.png" tvg-id="simpleTVFakeEpgId",Беларусь 2 HD
 https://edge51.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="http://epg.one/img2/2540.png" tvg-id="simpleTVFakeEpgId",Беларусь 3
-http://194.158.222.36:6108
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus3hd.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD
 https://edge51.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD2
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD3
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD
 https://edge53.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD4
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD
 https://edge54.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD5
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD
 https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD6
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD
 https://edge56.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD9
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 3.png" tvg-id="simpleTVFakeEpgId",Беларусь 3 HD
 https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus3.smil/chunklist_w1684528521_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/РТР Беларусь.png" tvg-id="simpleTVFakeEpgId",Беларусь4 HD
 http://46.56.85.151:8080/0.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="http://epg.one/img2/2541.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11052",Беларусь 5
-http://194.158.222.36:6109
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Беларусь 5.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11052",Беларусь 5 HD
 https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/belarus5hd.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11052",Беларусь 5 HD
 https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w342334170_b1460000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" tvg-id="simpleTVFakeEpgId",Первый информационный
-http://194.158.222.36:6105
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/informacionnyy.png" tvg-id="simpleTVFakeEpgId",Первый информационный
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/informacionnyy.png" tvg-id="simpleTVFakeEpgId",Первый информационный1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/informacionnyy.png" tvg-id="simpleTVFakeEpgId",Первый информационный
 https://edge51.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="http://epg.one/img2/2543.png" tvg-id="simpleTVFakeEpgId",СТВ.by
-http://194.158.222.36:6103
 #EXTINF:-1 group-title="Beltelecom 2" tvg-id="simpleTVFakeEpgId",СТВ HD Беларусь
 https://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-id="simpleTVFakeEpgId",СТВ HD Беларусь1
+#EXTINF:-1 group-title="Beltelecom 2" tvg-id="simpleTVFakeEpgId",СТВ HD Беларусь
 https://edge51.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png" tvg-id="simpleTVFakeEpgId",СТВ Беларусь
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
@@ -2215,26 +2081,8 @@ https://edge50.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
 #EXTINF:-1 group-title="Beltelecom 2" tvg-id="simpleTVFakeEpgId",ОНТ Беларусь
 https://edge55.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/rtr-belarus.png" tvg-id="simpleTVFakeEpgId",РТР Беларусь
-http://194.158.222.36:6106
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://veranzo.ru/other/icons/НТВ Беларусь.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10550",НТВ Беларусь
-http://194.158.222.36:6107
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="http://epg.one/img2/726.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12644",Мир
-http://194.158.222.36:6104
 #EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/БелРос.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10131",БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Оружие.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7908",Оружие
-http://194.158.222.36:6093
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="../Channel/Logo/Матч Премьер HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12671",Матч Планета
-http://194.158.222.36:6089
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/timeless-dizi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10179",Timeless Dizi Channel
-http://194.158.222.36:6086
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/rtg-tv.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10053",RTG TV
-http://194.158.222.36:6039
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="https://iptvx.one/picons/kultura.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9173",Россия К
-http://194.158.222.36:6037
-#EXTINF:-1 group-title="Beltelecom 2" tvg-logo="http://epg.one/img2/2048.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12640",KHL
-http://194.158.222.36:6013
 #EXTINF:-1 group-title="Wink Moya sborka" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12730" tvg-shift="1",Первый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
@@ -2843,6 +2691,3 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://epg.iptvx.one/picons/vip-comedy-cee.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12667",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
-
-
-
