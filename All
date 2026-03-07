@@ -1593,53 +1593,43 @@ http://178.163.13.88:4022/udp/234.0.0.10:2000
 http://178.163.13.140:4022/udp/234.0.0.100:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10924",Большая Азия
 http://178.163.13.140:4022/udp/234.0.0.10:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",ТНВ Планета
-http://178.163.13.140:4022/udp/234.0.0.2:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Калейдоскоп ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11505",Калейдоскоп ТВ
 http://178.163.13.140:4022/udp/234.0.0.1:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Брянская губерния.png" tvg-id="simpleTVFakeEpgId",Губерния
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/gubernia-samara.png" tvg-id="simpleTVFakeEpgId",Самара 450
 http://178.163.13.140:4022/udp/234.0.0.7:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="https://veranzo.ru/other/icons/360°.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9933",360 Подмосковье
 http://178.163.13.140:4022/udp/234.0.0.8:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12872" tvg-shift="-4",ТНТ +4
-http://178.163.13.140:4022/udp/234.0.0.9:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Оружие.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7908",Оружие
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Travel+ adventure HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12743",Travel+Adventure HD
 http://178.163.13.140:4022/udp/234.0.0.97:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Юмор FM.png" tvg-id="simpleTVFakeEpgId",Юмор
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Мама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7860",Мама
 http://178.163.13.140:4022/udp/234.0.0.101:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Твой дом HD.png" tvg-id="simpleTVFakeEpgId",Твой Дом
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Телепутешествия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9089",Телепутешествия
 http://178.163.13.140:4022/udp/234.0.0.106:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Galaxy.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11462",Galaxy
 http://178.163.13.140:4022/udp/234.0.0.111:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Тольятти 24
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/rossia1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12877",Россия 1 HD
 http://178.163.13.140:4022/udp/234.0.0.112:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Ваш Успех
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12672",Hollywood
 http://178.163.13.140:4022/udp/234.0.0.117:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",TB3
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/tv3-ru.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972",ТВ-3
 http://178.163.13.140:4022/udp/234.0.0.171:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/English club HD.png" tvg-id="simpleTVFakeEpgId",ENGLISH CLUB TV
-http://178.163.13.140:4022/udp/234.0.0.174:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",viр-tv.org.uа
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/tolyatti24.png" tvg-id="simpleTVFakeEpgId",Тольятти 24
 http://178.163.13.140:4022/udp/234.0.0.234:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979",ТНТ4
 http://178.163.13.140:4022/udp/234.0.0.181:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/FOX.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12881",FOX
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Хит.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12683",Хит
 http://178.163.13.140:4022/udp/234.0.0.184:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Советское кино.png" tvg-id="simpleTVFakeEpgId",СовСек
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Совершенно секретно.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7950",Совершенно секретно
 http://178.163.13.140:4022/udp/234.0.0.185:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",CKAT THT
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12872",ТНТ
 http://178.163.13.140:4022/udp/234.0.0.186:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Ностальгия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9186",Ностальгия
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/gosfilmofond-mv.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11315",Госфильмофонд. Машина времени
 http://178.163.13.140:4022/udp/234.0.0.190:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний
 http://178.163.13.140:4022/udp/234.0.0.191:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/ТВЦ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020",ТВЦ
 http://178.163.13.140:4022/udp/234.0.0.192:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Союз.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12680",Союз
-http://178.163.13.140:4022/udp/234.0.0.196:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12644",МИР
-http://178.163.13.140:4022/udp/234.0.0.197:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Канал Disney.png" tvg-id="simpleTVFakeEpgId",Канал Disney
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/solnce.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9792",Солнце
 http://178.163.13.140:4022/udp/234.0.0.198:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10061",Беларусь 24
 http://178.163.13.140:4022/udp/234.0.0.199:2000
@@ -1651,21 +1641,19 @@ http://178.163.13.140:4022/udp/234.0.0.201:2000
 http://178.163.13.140:4022/udp/234.0.0.202:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Матч!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11254",Матч!
 http://178.163.13.140:4022/udp/234.0.0.204:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="simpleTVFakeEpgId",Пятый
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="simpleTVFakeEpgId",Пятый канал
 http://178.163.13.140:4022/udp/234.0.0.205:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12875",НТВ
 http://178.163.13.140:4022/udp/234.0.0.206:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Мультимания.png" tvg-id="simpleTVFakeEpgId",Мультимания
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Мультиландия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7887",Мультиландия
 http://178.163.13.140:4022/udp/234.0.0.210:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Бокс ТВ.png" tvg-id="simpleTVFakeEpgId",Бокс
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Точка отрыва.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11512",Точка отрыва
 http://178.163.13.140:4022/udp/234.0.0.211:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/FashionTv.png" tvg-id="simpleTVFakeEpgId",Fashion
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/zhara.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9709",Жара
 http://178.163.13.140:4022/udp/234.0.0.214:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Спас.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7954",Спас
-http://178.163.13.140:4022/udp/234.0.0.215:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="simpleTVFakeEpgId",Zoo
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/ZooПарк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11295",ZooПарк
 http://178.163.13.140:4022/udp/234.0.0.216:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Детский мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12681",Детский
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Уникум.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12681",Уникум
 http://178.163.13.140:4022/udp/234.0.0.217:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Че.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12879",Че
 http://178.163.13.140:4022/udp/234.0.0.218:2000
@@ -1673,25 +1661,25 @@ http://178.163.13.140:4022/udp/234.0.0.218:2000
 http://178.163.13.140:4022/udp/234.0.0.220:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Здоровое ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9054",Здоровое ТВ
 http://178.163.13.140:4022/udp/234.0.0.221:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Драйв.png" tvg-id="simpleTVFakeEpgId",Драйф
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Драйв.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7805",Драйв
 http://178.163.13.140:4022/udp/234.0.0.245:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7947",Сарафан
 http://178.163.13.140:4022/udp/234.0.0.246:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Сочи 24 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9326",24 Техно
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/texno-24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9326",24 Техно
 http://178.163.13.140:4022/udp/234.0.0.247:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7970",Телекафе
 http://178.163.13.140:4022/udp/234.0.0.249:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="simpleTVFakeEpgId",ТРО
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10061",Беларусь 24
 http://178.163.13.140:4022/udp/234.0.0.251:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Tiji.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7747",TiJi
 http://178.163.13.140:4022/udp/234.0.0.252:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Extreme sports.png" tvg-id="simpleTVFakeEpgId",Extreme Sport
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/russian-musicbox.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11491",Russian MusicBox HD
 http://178.163.13.140:4022/udp/234.0.0.150:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Jim Jam.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12727",JimJam
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Star Cinema HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11093",Star Cinema
 http://178.163.13.140:4022/udp/234.0.0.152:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Nickelodeon.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12710",Nickelodeon
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7691",Gulli Girl
 http://178.163.13.140:4022/udp/234.0.0.153:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/КХЛ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12640",КХЛ
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11495",ОТР
 http://178.163.13.140:4022/udp/234.0.0.208:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Время.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7793",Время
 http://178.163.13.140:4022/udp/234.0.0.225:2000
@@ -1705,95 +1693,91 @@ http://178.163.13.140:4022/udp/234.0.0.228:2000
 http://178.163.13.140:4022/udp/234.0.0.229:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11508",Охота и Рыбалка
 http://178.163.13.140:4022/udp/234.0.0.230:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",24_Doc
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Доктор.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7800",Доктор
 http://178.163.13.140:4022/udp/234.0.0.232:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131",Пятница!
 http://178.163.13.140:4022/udp/234.0.0.235:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Живи.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10065",Живи
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11107",НТВ Хит
 http://178.163.13.140:4022/udp/234.0.0.236:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда
 http://178.163.13.140:4022/udp/234.0.0.237:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Открытый мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9071",Открытый Мир
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/cartoon-classics.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11473",Cartoon Classics
 http://178.163.13.140:4022/udp/234.0.0.238:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/СТС.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12873",СТС
 http://178.163.13.140:4022/udp/234.0.0.239:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/РЕН ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188",Рен ТВ
 http://178.163.13.140:4022/udp/234.0.0.240:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/National Geographic.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12708",National Geographic
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Еда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10094",Еда
 http://178.163.13.140:4022/udp/234.0.0.241:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Мужской.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7883",Мужской
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Матч!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11254",Матч!
 http://178.163.13.140:4022/udp/234.0.0.242:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/RTG TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10053",RTG tv
-http://178.163.13.140:4022/udp/234.0.0.243:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/2x2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7623",2x2
 http://178.163.13.140:4022/udp/234.0.0.244:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Матч! Арена HD.png" tvg-id="simpleTVFakeEpgId",Матч! Наш Спорт
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11134",Мосфильм. Золотая коллекция
 http://178.163.13.140:4022/udp/234.0.0.95:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Муз ТВ.png" tvg-id="simpleTVFakeEpgId",МУЗ
 http://178.163.13.140:4022/udp/234.0.0.96:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/ТНТ Music.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7978",ТНТ Music
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/tnt-music.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7978",FON music
 http://178.163.13.140:4022/udp/234.0.0.231:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/MTV Dance.png" tvg-id="simpleTVFakeEpgId",MTV Dance
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/КВН ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7831",КВН
 http://178.163.13.140:4022/udp/234.0.0.233:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Vh1 classic.png" tvg-id="simpleTVFakeEpgId",VH1 Classic
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/BRIDGE TV CLASSIC.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11468",Bridge TV Classic
 http://178.163.13.140:4022/udp/234.0.0.223:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/MTV Rocks.png" tvg-id="simpleTVFakeEpgId",MTV Rocks
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11091",Bolt Россия
 http://178.163.13.140:4022/udp/234.0.0.193:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/MTV Hits.png" tvg-id="simpleTVFakeEpgId",MTV Hits
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7934",Ретро
 http://178.163.13.140:4022/udp/234.0.0.194:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Шансон ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12684",Шансон
 http://178.163.13.140:4022/udp/234.0.0.189:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/MTV Russia.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11470",RUSONG TV
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Bridge TV Hits.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11047",Bridge TV Hits
 http://178.163.13.140:4022/udp/234.0.0.179:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/BRIDGE TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11472",Bridge TV
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Поехали!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10068",Поехали
 http://178.163.13.140:4022/udp/234.0.0.180:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Muzic 1
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7885",Музыка Первого
 http://178.163.13.140:4022/udp/234.0.0.182:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Europa Plus TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12722",Europa Plus TV
 http://178.163.13.140:4022/udp/234.0.0.183:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12730",Первый HD
 http://178.163.13.140:4022/udp/234.0.0.172:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Ginger HD
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/start.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7955",Старт HD
 http://178.163.13.140:4022/udp/234.0.0.113:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12644",МИР HD
 http://178.163.13.140:4022/udp/234.0.0.5:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Матч! Игра HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11271",Матч! Игра HD
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/sila.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11337",Сила HD
 http://178.163.13.140:4022/udp/234.0.0.6:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Fashion tv.png" tvg-id="simpleTVFakeEpgId",Fashion One HD
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/ЕГЭ ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7808",ЕГЭ ТВ
 http://178.163.13.140:4022/udp/234.0.0.212:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Наш кинопоказ.png" tvg-id="simpleTVFakeEpgId",Наш Футбол HD
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/blokbaster.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11053",Блокбастер
 http://178.163.13.140:4022/udp/234.0.0.99:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7806",Еврокино
 http://178.163.13.140:4022/udp/234.0.0.176:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9852",Amedia Hit
 http://178.163.13.140:4022/udp/234.0.0.169:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9428",Любимое Кино
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/lavstori.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9712",Лавстори
 http://178.163.13.140:4022/udp/234.0.0.177:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7942",Русский Иллюзион
 http://178.163.13.140:4022/udp/234.0.0.178:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",CTC Love
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Trash.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9046",Trash TV
 http://178.163.13.140:4022/udp/234.0.0.3:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Феникс плюс кино.png" tvg-id="simpleTVFakeEpgId",Феникс + Кино
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/vkus.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11306",Вкус
 http://178.163.13.140:4022/udp/234.0.0.98:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood
-http://178.163.13.140:4022/udp/234.0.0.195:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8425",Иллюзион +
 http://178.163.13.140:4022/udp/234.0.0.175:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",viр-tv.org.uа
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/sportivny.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11343",ТВ Спорт
 http://178.163.13.140:4022/udp/234.0.0.188:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7834",Кинокомедия
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/kamedi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8760",Камеди
 http://178.163.13.140:4022/udp/234.0.0.118:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11099",Киносерия
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/familyjam.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9844",FamilyJam
 http://178.163.13.140:4022/udp/234.0.0.119:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12876",Amedia Premium
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7836",Кинопоказ
 http://178.163.13.140:4022/udp/234.0.0.209:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11507",Мужское кино
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://static.kion.ru/tv/channels/images/formats/CHANNEL_PICTURE_ecb17982ff19e7dfea4049ad35b61306.png" tvg-id="simpleTVFakeEpgId",Кионхит
 http://178.163.13.140:4022/udp/234.0.0.213:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Кино ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8124",Кино ТВ
 http://178.163.13.140:4022/udp/234.0.0.154:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11287",Amedia 1
 http://178.163.13.140:4022/udp/234.0.0.155:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/TV XXI.png" tvg-id="simpleTVFakeEpgId",XXI
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/tv21m.png" tvg-id="simpleTVFakeEpgId",ТВ-21M
 http://178.163.13.140:4022/udp/234.0.0.187:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Русский бестселлер.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11111",Русский Бестселлер
 http://178.163.13.140:4022/udp/234.0.0.250:2000
@@ -1805,29 +1789,25 @@ http://178.163.13.140:4022/udp/234.0.0.224:2000
 http://178.163.13.140:4022/udp/234.0.0.219:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12746",Россия 24
 http://178.163.13.140:4022/udp/234.0.0.207:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",CH_49447
-http://178.163.13.140:4022/udp/234.0.0.151:2000
-#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="simpleTVFakeEpgId",Eurunews
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/v-gostiax-u-skazki.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7788",В гостях у сказки
 http://178.163.13.140:4022/udp/234.0.0.248:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Medialogistika:-http://178.163.13.140:4022/udp/234.0.0.116:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/izvestia.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8957",Известия
 http://178.163.13.140:4022/udp/234.0.0.116:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Zagorod HD:Zagorod HD-http://178.163.13.140:4022/udp/234.0.0.115:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Загородная жизнь.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7816",Загородная жизнь
 http://178.163.13.140:4022/udp/234.0.0.115:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",lik:Kinoujas-http://178.163.13.140:4022/udp/234.0.0.114:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/nashe-muzhskoe.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11105",Наше Мужское
 http://178.163.13.140:4022/udp/234.0.0.114:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Бобёр-http://178.163.13.140:4022/udp/234.0.0.103:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Бобёр.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7785",Бобёр
 http://178.163.13.140:4022/udp/234.0.0.103:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Любимое кино-http://178.163.13.140:4022/udp/234.0.0.102:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9428",Любимое кино
 http://178.163.13.140:4022/udp/234.0.0.102:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",RSCC:Mult HD-http://178.163.13.140:4022/udp/234.0.0.15:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Рыжий.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9082",Рыжий
 http://178.163.13.140:4022/udp/234.0.0.15:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",канал-http://178.163.13.140:4022/udp/234.0.0.14:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/start-triumf.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9292",Старт Триумф
 http://178.163.13.140:4022/udp/234.0.0.14:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Bridge Tv Hits-http://178.163.13.140:4022/udp/234.0.0.13:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/sony-scifi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720",.sci-fi HD
 http://178.163.13.140:4022/udp/234.0.0.13:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",lik:Math Arena-http://178.163.13.140:4022/udp/234.0.0.12:2000
-http://178.163.13.140:4022/udp/234.0.0.12:2000
-#EXTINF:-1 group-title="InfoLine" tvg-id="simpleTVFakeEpgId",Дикая охота-http://178.163.13.140:4022/udp/234.0.0.11:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Дикая охота HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7796",Дикая охота HD
 http://178.163.13.140:4022/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="simpleTVFakeEpgId",Первый канал. Всемирная сеть HD
 http://87.246.54.249:8080/Pervii/index.m3u8
@@ -2573,4 +2553,9 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/mono.m3u8
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://epg.iptvx.one/picons/vip-comedy-cee.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12667",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
-
+#EXTINF:-1 group-title="InfoLine" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444",Карусель
+http://178.163.13.140:4022/udp/234.0.0.203:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/russky-ekstrim.png" tvg-id="simpleTVFakeEpgId",Русский экстрим
+http://178.163.13.140:4022/udp/234.0.0.173:2000
+#EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/tonus-tv.png" tvg-id="simpleTVFakeEpgId",Тонус ТВ
+http://178.163.13.140:4022/udp/234.0.0.12:2000
