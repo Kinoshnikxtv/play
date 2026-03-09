@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG" url-tvg="http://epg.one/epg.xml"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/66.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12681",Уникум
 http://minsk-cache07t.voka.tv/live/5512-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/tv3-by.png",ТВ-3 Беларусь
@@ -2559,3 +2559,4 @@ http://178.163.13.140:4022/udp/234.0.0.203:2000
 http://178.163.13.140:4022/udp/234.0.0.173:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/tonus-tv.png",Тонус ТВ
 http://178.163.13.140:4022/udp/234.0.0.12:2000
+
