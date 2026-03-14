@@ -21,7 +21,7 @@ http://minsk-cache07t.voka.tv/live/5106-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/5105-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://veranzo.ru/other/icons/Поехали!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10068",Поехали
 http://minsk-cache07t.voka.tv/live/5028-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/candyman.png",CandyMan HD
+#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/candyman.png",Candy Man
 http://minsk-cache07t.voka.tv/live/5026-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/muvitv.png",Муви ТВ
 http://minsk-cache07t.voka.tv/live/5007-req_5k_v5.m3u8
@@ -47,7 +47,7 @@ http://minsk-cache07t.voka.tv/live/3012-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/3009-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/1111.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12679",Советские мультфильмы
 http://minsk-cache07t.voka.tv/live/3007-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka",Movie Classic
+#EXTINF:-1 group-title="Voka",Классика Кино
 http://minsk-cache07t.voka.tv/live/3006-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/neizvestnaya-planeta.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10953",Неизвестная планета
 http://minsk-cache07t.voka.tv/live/3005-req_5k_v5.m3u8
@@ -121,7 +121,7 @@ http://minsk-cache07t.voka.tv/live/1124-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/1123-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Russian Extreme Ultra.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12870",Russian Extreme Ultra HD
 http://minsk-cache07t.voka.tv/live/1042-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/2-kanal-mogilev.png",ТВ2 Могилёв
+#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/2-kanal-mogilev.png",ТВ2 Могилев
 http://minsk-cache07t.voka.tv/live/1013-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/zoopark.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11295",ZooПарк HD
 http://minsk-cache07t.voka.tv/live/996-req_5k_v5.m3u8
@@ -131,7 +131,7 @@ http://minsk-cache07t.voka.tv/live/994-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/992-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/belviasat-plustv.png",+TV HD
 http://minsk-cache07t.voka.tv/live/977-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10959",Светлое ТВ HD
+#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10959",Светлое ТВ
 http://minsk-cache07t.voka.tv/live/973-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/ru-tv-by.png",RU.TV Беларусь
 http://minsk-cache07t.voka.tv/live/972-req_5k_v5.m3u8
@@ -143,7 +143,7 @@ http://minsk-cache07t.voka.tv/live/966-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/964-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/681.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12722",Europa Plus TV
 http://minsk-cache07t.voka.tv/live/963-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/8by.png",8 канал Беларусь HD
+#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/8by.png",8 канал HD Беларусь
 http://minsk-cache07t.voka.tv/live/962-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/304.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний
 http://minsk-cache07t.voka.tv/live/961-req_5k_v5.m3u8
@@ -153,7 +153,7 @@ http://minsk-cache07t.voka.tv/live/907-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/903-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/53.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7942",Русский иллюзион HD
 http://minsk-cache07t.voka.tv/live/869-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/ont-by.png",ОНТ Беларусь HD
+#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/ont-by.png",ОНТ HD Беларусь
 http://minsk-cache07t.voka.tv/live/849-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/726.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12644",Мир HD
 http://minsk-cache07t.voka.tv/live/754-req_5k_v5.m3u8
@@ -253,13 +253,13 @@ http://minsk-cache07t.voka.tv/live/6003-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/6002-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/1013.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9386",Viju+ Premiere HD
 http://minsk-cache07t.voka.tv/live/6001-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka",Бобруйск 360 HD
+#EXTINF:-1 group-title="Voka",Бобруйск 360
 http://minsk-cache07t.voka.tv/live/6239-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/zvyazda-by.png",Звязда
 http://minsk-cache07t.voka.tv/live/6238-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka",Лагуна ТВ HD Брест
 http://minsk-cache07t.voka.tv/live/7002-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/bug-tv.png",Буг ТВ
+#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/bug-tv.png",Буг-ТВ
 http://minsk-cache07t.voka.tv/live/7001-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/2539.png",Беларусь 2 HD
 http://minsk-cache07t.voka.tv/live/8008-req_5k_v5.m3u8
@@ -275,7 +275,7 @@ http://minsk-cache07t.voka.tv/live/8004-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/8003-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/stv-by.png",СТВ Беларусь HD
 http://minsk-cache07t.voka.tv/live/8002-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/ont-by.png",ОНТ Беларусь HD
+#EXTINF:-1 group-title="Voka" tvg-logo="https://iptvx.one/picons/ont-by.png",ОНТ HD Беларусь
 http://minsk-cache07t.voka.tv/live/8001-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="http://epg.one/img2/2538.png",Беларусь 1 HD
 http://minsk-cache07t.voka.tv/live/8000-req_5k_v5.m3u8
@@ -869,7 +869,7 @@ http://194.158.222.36:6105
 http://194.158.222.36:6104
 #EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/СТВ РЕН ТВ (Беларусь).png",СТВ by
 http://194.158.222.36:6103
-#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/ОНТ.png",ОНТ by
+#EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/ОНТ.png",ОНТ Беларусь
 http://194.158.222.36:6102
 #EXTINF:-1 group-title="minsktelecom.by" tvg-logo="../Channel/Logo/Беларусь 1.png",Беларусь 1
 http://194.158.222.36:6101
