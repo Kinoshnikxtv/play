@@ -309,6 +309,20 @@ http://minsk-cache07t.voka.tv/live/1325-req_5k_v5.m3u8
 http://minsk-cache07t.voka.tv/live/212-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka" tvg-logo="../Channel/Logo/Зал суда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7818",Зал суда HD
 http://minsk-cache07t.voka.tv/live/15082-req_5k_v5.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",Gulli Girl
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bollywood-hd",Bollywood
+https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/365 Дней.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_365-dnej",365 дней
+https://stream8.cinerama.uz/1242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Кухня ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_614",Кухня
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Киносерия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_799",Киносерия
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_987",Киносемья
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Точка ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_hd-life",Точка РФ
+https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/NickToons.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12711",Nicktoons
 https://stream8.cinerama.uz/1502/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Nick jr.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_12709",Nick Jr
