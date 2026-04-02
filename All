@@ -1,4 +1,320 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/66.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_66",Уникум
+http://46.53.208.4:80/live/5512-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/tv3-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv3-by",ТВ-3 Беларусь
+http://46.53.208.4:80/live/5127-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
+http://46.53.208.4:80/live/5123-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/427.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piaty-int",5 канал (Россия) International
+http://46.53.208.4:80/live/5121-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/amedia1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_amedia1",А1 HD
+http://46.53.208.4:80/live/5120-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/domkino-premium.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_domkino-premium",Дом кино премиум
+http://46.53.208.4:80/live/5111-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/267.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_267",viju TV1000 Русское
+http://46.53.208.4:80/live/5109-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2757.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2757",МультиЛандия
+http://46.53.208.4:80/live/5108-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/127.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_127",viju TV1000
+http://46.53.208.4:80/live/5107-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/125.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_125",viju TV1000 Action
+http://46.53.208.4:80/live/5106-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/834.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_834",Дом кино
+http://46.53.208.4:80/live/5105-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://veranzo.ru/other/icons/Поехали!.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10068",Поехали
+http://46.53.208.4:80/live/5028-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/candyman.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_candyman",CandyMan HD
+http://46.53.208.4:80/live/5026-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/muvitv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_muvitv",Муви ТВ
+http://46.53.208.4:80/live/5007-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/7315.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7315",Сапфир HD
+http://46.53.208.4:80/live/3978-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/cinema.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_cinema",Cinema Космос ТВ
+http://46.53.208.4:80/live/3870-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/funbox-uhd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_funbox-uhd",FunBox UHD
+http://46.53.208.4:80/live/3437-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/4629.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4629",Мир баскетбола
+http://46.53.208.4:80/live/3434-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/127.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_127",viju TV1000 romantica
+http://46.53.208.4:80/live/3111-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belros.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tro",БелРос
+http://46.53.208.4:80/live/3106-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/skif.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_skif-vitebsk",СкиФ Витебск
+http://46.53.208.4:80/live/3101-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/sovkino.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sovkino",Советское кино
+http://46.53.208.4:80/live/3018-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://veranzo.ru/other/icons/Терра Инкогнита.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10955",Терра Инкогнита
+http://46.53.208.4:80/live/3017-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/1757.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1757",о!
+http://46.53.208.4:80/live/3013-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2026.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2026",Бобёр
+http://46.53.208.4:80/live/3012-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://veranzo.ru/other/icons/Extreme sports.png" tvg-id="d09336db60acee31f19aef3ee307fef6_9491",Extreme sports HD
+http://46.53.208.4:80/live/3009-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/1111.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1111",Советские мультфильмы
+http://46.53.208.4:80/live/3007-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-id="simpleTVFakeEpgId",Movie Classic
+http://46.53.208.4:80/live/3006-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/neizvestnaya-planeta.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_neizvestnaya-planeta",Неизвестная планета
+http://46.53.208.4:80/live/3005-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/935.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_935",.black
+http://46.53.208.4:80/live/3001-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2304",ТелеКафе
+http://46.53.208.4:80/live/2812-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/7990.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7990",Лёва HD
+http://46.53.208.4:80/live/2424-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2483.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2483",Дикая охота HD
+http://46.53.208.4:80/live/2325-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2484.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2484",Дикая рыбалка HD
+http://46.53.208.4:80/live/2324-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2540.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2540",Беларусь 3 HD
+http://46.53.208.4:80/live/2139-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2540.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2540",Беларусь 3 HD
+http://46.53.208.4:80/live/2138-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2540.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2540",Беларусь 3 HD
+http://46.53.208.4:80/live/2137-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2540.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2540",Беларусь 3 HD
+http://46.53.208.4:80/live/2136-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2540.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2540",Беларусь 3 HD
+http://46.53.208.4:80/live/2135-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/520.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_520",Домашние животные
+http://46.53.208.4:80/live/2112-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/m1global.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_m1global",MMA-TV
+http://46.53.208.4:80/live/2100-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus4-mogilev.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus4-mogilev",Беларусь 4 Могилев
+http://46.53.208.4:80/live/2097-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2754.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",Cinema
+http://46.53.208.4:80/live/2092-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/1754.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1754",НТВ Сериал
+http://46.53.208.4:80/live/2065-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/vitebsk.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_vitebsk",Витебск
+http://46.53.208.4:80/live/2023-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/309.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_309",ТВ 21
+http://46.53.208.4:80/live/2018-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus4-brest.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus4-brest",Беларусь 4 Брест HD
+http://46.53.208.4:80/live/2013-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus4-vitebsk.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus4-vitebsk",Беларусь 4 Витебск HD
+http://46.53.208.4:80/live/2012-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus4-gomel.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus4-gomel",Беларусь 4 Гомель
+http://46.53.208.4:80/live/2011-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2078.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2078",Мир 24 HD
+http://46.53.208.4:80/live/1908-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/7314.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7314",Кинеко HD
+http://46.53.208.4:80/live/1812-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/6241.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_6241",START Air HD
+http://46.53.208.4:80/live/1804-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_voprosy-i-otvety",Вопросы и ответы
+http://46.53.208.4:80/live/1515-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/7632.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7632",Terra HD
+http://46.53.208.4:80/live/1500-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2156.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2156",duck TV HD
+http://46.53.208.4:80/live/1492-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/sts-kids-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sts-kids-hd",СТС Kids
+http://46.53.208.4:80/live/1448-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/rtg-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtg-hd",RTG HD
+http://46.53.208.4:80/live/1406-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/vremia.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_vremia",Время
+http://46.53.208.4:80/live/1405-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/sony.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-tv",.red HD
+http://46.53.208.4:80/live/1400-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/9183.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9183",Cartoon Classics
+http://46.53.208.4:80/live/1303-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/6669.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_6669",Звезда плюс HD
+http://46.53.208.4:80/live/1247-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/novellatv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_novellatv",Novella TV
+http://46.53.208.4:80/live/1205-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/mosfilm.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_3357",Мосфильм. Золотая коллекция
+http://46.53.208.4:80/live/1124-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/vhs-ka.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_vhs-ka",VHS-ка
+http://46.53.208.4:80/live/1123-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/lapki-live.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_lapki-live",Лапки LIVE
+http://46.53.208.4:80/live/1092-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="../Channel/Logo/Ultra HD Cinema.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ultratv4k-pl",Russian Extreme Ultra HD
+http://46.53.208.4:80/live/1042-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/2-kanal-mogilev.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_2-kanal-mogilev",ТВ2 Могилёв
+http://46.53.208.4:80/live/1013-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/zoopark.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_367",ZooПарк HD
+http://46.53.208.4:80/live/996-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/7266.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7266",Curiosity Stream HD
+http://46.53.208.4:80/live/994-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/1753.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1753",НТВ Право
+http://46.53.208.4:80/live/992-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belviasat-plustv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belviasat-plustv",+TV HD
+http://46.53.208.4:80/live/977-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_svetloe-tv",Светлое ТВ HD
+http://46.53.208.4:80/live/973-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/ru-tv-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ru-tv-by",RU.TV Беларусь
+http://46.53.208.4:80/live/972-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/5651.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_5651",Перец
+http://46.53.208.4:80/live/971-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belmuztv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belmuztv",БелМуз ТВ
+http://46.53.208.4:80/live/966-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/1035.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1035",Travel+Adventure
+http://46.53.208.4:80/live/964-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/681.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_681",Europa Plus TV
+http://46.53.208.4:80/live/963-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/8by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_8kanal-by",8 канал Беларусь HD
+http://46.53.208.4:80/live/962-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний
+http://46.53.208.4:80/live/961-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/redlips.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_redlips",Red Lips HD
+http://46.53.208.4:80/live/907-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="simpleTVFakeEpgId",Еврокино HD
+http://46.53.208.4:80/live/903-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/801.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_801",Mezzo Live HD
+http://46.53.208.4:80/live/871-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/53.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_53",Русский иллюзион HD
+http://46.53.208.4:80/live/869-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/ont-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ont-by",ОНТ Беларусь HD
+http://46.53.208.4:80/live/849-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/726.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир HD
+http://46.53.208.4:80/live/754-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2543.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2543",СТВ Беларусь HD
+http://46.53.208.4:80/live/753-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2539.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2539",Беларусь 2 HD
+http://46.53.208.4:80/live/693-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/53.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_53",Русский иллюзион HD
+http://46.53.208.4:80/live/616-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/illuzion-plus.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_illuzion-plus",Иллюзион + HD
+http://46.53.208.4:80/live/603-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/617.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_617",Точка отрыва HD
+http://46.53.208.4:80/live/602-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2008.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2008",Авто 24
+http://46.53.208.4:80/live/588-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2448.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2448",Союз
+http://46.53.208.4:80/live/583-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/9057.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9057",viju TV1000 Новелла
+http://46.53.208.4:80/live/545-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_765",Viju Nature
+http://46.53.208.4:80/live/542-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/277.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_277",Viju History
+http://46.53.208.4:80/live/541-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/521.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_521",Viju Explore
+http://46.53.208.4:80/live/540-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2449.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2449",Здоровое ТВ
+http://46.53.208.4:80/live/342-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/434.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_434",Усадьба
+http://46.53.208.4:80/live/341-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2443.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2443",Драйв
+http://46.53.208.4:80/live/336-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2402.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2402",Ретро
+http://46.53.208.4:80/live/335-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2404.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2404",Феникс плюс кино
+http://46.53.208.4:80/live/332-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2831.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2831",Наш Кинопоказ
+http://46.53.208.4:80/live/285-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/rybalka-i-oxota.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rybalka-i-oxota",Рыбалка и охота HD
+http://46.53.208.4:80/live/244-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/575.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_575",Mezzo
+http://46.53.208.4:80/live/240-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2278.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2278",Шансон ТВ
+http://46.53.208.4:80/live/235-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="../Channel/Logo/Наше ТВ.png" tvg-id="simpleTVFakeEpgId",Наше ТВ Витебск
+http://46.53.208.4:80/live/218-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/187.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_187",Россия К
+http://46.53.208.4:80/live/214-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/nano-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nano-hd",Nano HD
+http://46.53.208.4:80/live/211-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/516.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_516",.sci-fi
+http://46.53.208.4:80/live/207-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/ntv-style.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-style",НТВ Стиль
+http://46.53.208.4:80/live/175-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/9054.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9054",Epic HD
+http://46.53.208.4:80/live/171-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/oruzhie.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_oruzhie",Оружие
+http://46.53.208.4:80/live/168-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/723.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_723",Наука 2.0 HD
+http://46.53.208.4:80/live/167-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/kinomult.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinomult",КиноМульт
+http://46.53.208.4:80/live/157-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/rtg-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtg-tv",RTG TV
+http://46.53.208.4:80/live/131-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://veranzo.ru/other/icons/BRIDGE Deluxe.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11469",Bridge Deluxe HD
+http://46.53.208.4:80/live/110-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/psixologia-21.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_psixologia-21",Психология
+http://46.53.208.4:80/live/109-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/663.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_663",Сарафан
+http://46.53.208.4:80/live/84-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2407.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2407",Киноман
+http://46.53.208.4:80/live/59-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy-info-by",Первый информационный HD
+http://46.53.208.4:80/live/10-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2541.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2541",Беларусь 5 HD
+http://46.53.208.4:80/live/9-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2540.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2540",Беларусь 3 HD
+http://46.53.208.4:80/live/8-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/6773.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_6773",НТВ Беларусь
+http://46.53.208.4:80/live/6-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/rtr-belarus.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtr-belarus",РТР Беларусь HD
+http://46.53.208.4:80/live/5-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/pervy-gorodskoy-gom.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy-gorodskoy-gom",Первый городской (Гомель)
+http://46.53.208.4:80/live/6036-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/live-music-channel.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_live-music-channel",Live music channel HD
+http://46.53.208.4:80/live/6028-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belviasat-plustv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belviasat-plustv",+TV HD
+http://46.53.208.4:80/live/6009-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/518.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_518",Настоящее страшное ТВ
+http://46.53.208.4:80/live/6008-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/1332.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт HD
+http://46.53.208.4:80/live/6007-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2012.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2012",Viju+ Planet HD
+http://46.53.208.4:80/live/6006-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2055.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2055",Viju+ Sport
+http://46.53.208.4:80/live/6005-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2838.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2838",Viju+ Serial HD
+http://46.53.208.4:80/live/6004-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/1011.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1011",Viju+ Comedy HD
+http://46.53.208.4:80/live/6003-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/1012.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1012",Viju+ Megahit HD
+http://46.53.208.4:80/live/6002-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/1013.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1013",Viju+ Premiere HD
+http://46.53.208.4:80/live/6001-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-id="simpleTVFakeEpgId",Бобруйск 360 HD
+http://46.53.208.4:80/live/6239-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/zvyazda-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zvyazda-by",Звязда
+http://46.53.208.4:80/live/6238-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-id="simpleTVFakeEpgId",Лагуна ТВ HD Брест
+http://46.53.208.4:80/live/7002-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/bug-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bug-tv",Буг ТВ
+http://46.53.208.4:80/live/7001-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/pervy-info-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy-info-by",Первый информационный HD
+http://46.53.208.4:80/live/8009-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2539.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2539",Беларусь 2 HD
+http://46.53.208.4:80/live/8008-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2541.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2541",Беларусь 5 HD
+http://46.53.208.4:80/live/8007-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2540.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2540",Беларусь 3 HD
+http://46.53.208.4:80/live/8006-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-belarus",НТВ Беларусь HD
+http://46.53.208.4:80/live/8005-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/726.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир HD
+http://46.53.208.4:80/live/8004-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/rtr-belarus.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtr-belarus",РТР-Беларусь HD
+http://46.53.208.4:80/live/8003-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/stv-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_stv-by",СТВ Беларусь HD
+http://46.53.208.4:80/live/8002-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/ont-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ont-by",ОНТ Беларусь HD
+http://46.53.208.4:80/live/8001-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/2538.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2538",Беларусь 1 HD
+http://46.53.208.4:80/live/8000-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/sport-tv-by.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sport-tv-by",Спорт ТВ [BY]
+http://46.53.208.4:80/live/8112-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="http://epg.one/img2/6240.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_6240",START World HD
+http://46.53.208.4:80/live/9011-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="../Channel/Logo/Техно 24.png" tvg-id="simpleTVFakeEpgId",Тех Лет ТВ
+http://46.53.208.4:80/live/9489-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/umka.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_umka",Умка HD
+http://46.53.208.4:80/live/9488-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus1",Беларусь 1 HD
+http://46.53.208.4:80/live/10005-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus1",Беларусь 1 HD
+http://46.53.208.4:80/live/10004-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus1",Беларусь 1 HD
+http://46.53.208.4:80/live/10003-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus1",Беларусь 1 HD
+http://46.53.208.4:80/live/10002-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus1",Беларусь 1 HD
+http://46.53.208.4:80/live/10001-req_5k_v5.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bollywood-hd",Bollywood
