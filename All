@@ -2152,7 +2152,7 @@ http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IPTVPLAY (Кинозал)" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png",Ералаш 2
 https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" ,НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" ,НТВ Право
 https://cdn.ntv.ru/th_pravo/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" ,НТВ Стиль
@@ -2185,6 +2185,3 @@ http://178.163.13.140:4022/udp/234.0.0.203:2000
 http://178.163.13.140:4022/udp/234.0.0.173:2000
 #EXTINF:-1 group-title="InfoLine" tvg-logo="https://epg.iptvx.one/picons/tonus-tv.png",Тонус ТВ
 http://178.163.13.140:4022/udp/234.0.0.12:2000
-
-
-
