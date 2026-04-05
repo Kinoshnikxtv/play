@@ -315,6 +315,10 @@ http://46.53.208.4:80/live/10003-req_5k_v5.m3u8
 http://46.53.208.4:80/live/10002-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Voka TV" tvg-logo="https://iptvx.one/picons/belarus1hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_belarus1",Беларусь 1 HD
 http://46.53.208.4:80/live/10001-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="https://epg.iptvx.one/picons/voentv-by.png" tvg-id="simpleTVFakeEpgId",ВоенТВ [BY]
+http://46.53.208.4:80/live/101-req_5k_v5.m3u8
+#EXTINF:-1 group-title="Voka TV" tvg-logo="../Channel/Logo/Наша тема.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2433",Наша тема
+http://46.53.208.4:80/live/2103-req_5k_v5.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",Gulli Girl
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="cinerama.uz" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bollywood-hd",Bollywood
