@@ -2151,6 +2151,16 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IPTVPLAY (Кинозал)" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png",Ералаш 2
 https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Сериалы НТВ" tvg-id="simpleTVFakeEpgId" $ExtFilter="MediaTV Playlist",НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Сериалы НТВ" tvg-id="simpleTVFakeEpgId" $ExtFilter="MediaTV Playlist",НТВ Право
+https://cdn.ntv.ru/th_pravo/index.m3u8
+#EXTINF:-1 group-title="Сериалы НТВ" tvg-id="simpleTVFakeEpgId" $ExtFilter="MediaTV Playlist",НТВ Стиль
+https://cdn.ntv.ru/th_style/index.m3u8
+#EXTINF:-1 group-title="Сериалы НТВ" tvg-id="simpleTVFakeEpgId" $ExtFilter="MediaTV Playlist",НТВ Хит
+https://cdn.ntv.ru/th_hit/index.m3u8
+#EXTINF:-1 group-title="Сериалы НТВ" tvg-id="simpleTVFakeEpgId" $ExtFilter="MediaTV Playlist",НТВ Сериал
+https://cdn.ntv.ru/th_serial/index.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg",НТВ Невский
 https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg",НТВ Первый Отдел
