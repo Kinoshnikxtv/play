@@ -2153,6 +2153,8 @@ http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IPTVPLAY (Кинозал)" tvg-logo="http://msx.nnmtv.pw/msx/img/iptv.png",Ералаш 2
 https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Сериалы НТВ" ,НТВ HD
+https://cdn.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" ,НТВ Право
 https://cdn.ntv.ru/th_pravo/mono.m3u8
 #EXTINF:-1 group-title="Сериалы НТВ" ,НТВ Стиль
