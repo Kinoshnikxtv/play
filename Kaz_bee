@@ -77,8 +77,6 @@ http://188.225.31.197/bpk-tv/000000247/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000239/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/zoopark.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zoopark",ZOOпарк
 http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/491.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_491",MTV 00s
-http://188.225.31.197/bpk-tv/000000264/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/810.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",Gulli Girl
 http://188.225.31.197/bpk-tv/000000284/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/477.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_477",Любимое кино
@@ -107,10 +105,6 @@ http://188.225.31.197/bpk-tv/000000428/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000439/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/917.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_917",Nick Jr
 http://188.225.31.197/bpk-tv/000000449/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/382.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_382",MTV Live HD
-http://188.225.31.197/bpk-tv/000000447/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/920.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_920",Comedy Central
-http://188.225.31.197/bpk-tv/000000452/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/423.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_423",Nickelodeon HD
 http://188.225.31.197/bpk-tv/000000499/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/935.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_935",.black
@@ -201,7 +195,7 @@ http://188.225.31.197/bpk-tv/000001510/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001513/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/rika.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rika",Рика ТВ
 http://188.225.31.197/bpk-tv/000001514/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="simpleTVFakeEpgId",ТВК 6
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" ,ТВК 6
 http://188.225.31.197/bpk-tv/000001516/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/2569.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2569",Qostanai
 http://188.225.31.197/bpk-tv/000001521/tve/index.m3u8
@@ -445,13 +439,19 @@ http://188.225.31.197/bpk-tv/000002455/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000002348/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/History HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1394",History HD
 http://188.225.31.197/bpk-tv/000001000/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://epg.one/img2/7509.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7509",Qazsport HD
-http://188.225.31.197/bpk-tv/100006969/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="../Channel/logo/info-kanal.png" tvg-id="simpleTVFakeEpgId",Инфоканал
+#EXTINF:-1 group-title="" tvg-logo="../Channel/logo/info-kanal.png" ,Инфоканал
 http://188.225.31.197/bpk-tv/100006592/tve/index.m3u8
-#EXTINF:-1 group-title="" tvg-id="simpleTVFakeEpgId",VOD Star Trek HD
+#EXTINF:-1 group-title="" ,VOD Star Trek HD
 http://188.225.31.197/bpk-tv/100001689/tve/index.m3u8
+#EXTINF:-1 group-title="",Тест
+http://188.225.31.197/bpk-tv/000008729/tve/index.m3u8
+#EXTINF:-1 group-title="" ,С ???
+http://188.225.31.197/bpk-tv/000008039/tve/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="../Channel/Logo/HISTORY2 HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_h2",History2 HD
+http://188.225.31.197/bpk-tv/000002722/tve/index.m3u8
+#EXTINF:-1 group-title="" tvg-logo="https://epg.iptvx.one/picons/aqtobe.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_aqtobe",AQTOBE
+http://188.225.31.197/bpk-tv/000001571/tve/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://iptvx.one/picons/9kanal-israel.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль) HD
 http://4.59.210.197:8815/udp/127.0.0.1:6013
-#EXTINF:-1 group-title="" tvg-logo="../Channel/logo/i.webp" tvg-id="simpleTVFakeEpgId",RTN-USA (rus)
+#EXTINF:-1 group-title="" tvg-logo="../Channel/logo/i.webp" ,RTN-USA (rus)
 http://4.59.210.197:8815/udp/127.0.0.1:6002
