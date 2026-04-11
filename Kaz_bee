@@ -1,4 +1,4 @@
-#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="http://epg.one/img2/309.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_309",ТВ 21
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="https://iptvx.one/picons/texno-24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_texno-24",24 техно
