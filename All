@@ -1203,7 +1203,7 @@ http://188.225.31.197/bpk-tv/100006592/tve/index.m3u8
 http://188.225.31.197/bpk-tv/100001689/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан",Тест
 http://188.225.31.197/bpk-tv/000008729/tve/index.m3u8
-#EXTINF:-1 group-title="BeeTV   Казахстан" ,С ???
+#EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="https://epg.iptvx.one/picons/sreda.png",Среда
 http://188.225.31.197/bpk-tv/000008039/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="../Channel/Logo/HISTORY2 HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_h2",History2 HD
 http://188.225.31.197/bpk-tv/000002722/tve/index.m3u8
