@@ -1,571 +1,571 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (-1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R03_1TV_KLNG/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="3" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="3" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_3/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="5" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="5" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_5/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="6" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="6" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_6/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="8" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+8)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="8" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+8)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_8/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" tvg-shift="9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+9)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="pervy" tvg-shift="9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (+9)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (-1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="3" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="3" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="5" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="5" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_IRKUTSK/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="6" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="6" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="7", Россия 1 (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="7", Россия 1 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="8", Россия 1 (+8)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="8", Россия 1 (+8)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="rossia1" tvg-shift="9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+9)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia1" tvg-shift="9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (+9)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (-1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tvcentr" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tvcentr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="1", ТВ Центр (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tvcentr" tvg-shift="1", ТВ Центр (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tvcentr" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="3", ТВ Центр (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tvcentr" tvg-shift="3", ТВ Центр (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tvcentr" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="5", ТВ Центр (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tvcentr" tvg-shift="5", ТВ Центр (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="6", ТВ Центр (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tvcentr" tvg-shift="6", ТВ Центр (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tvcentr" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="ntv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="1", НТВ (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="ntv" tvg-shift="1", НТВ (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="ntv" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="3", НТВ (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="ntv" tvg-shift="3", НТВ (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="ntv" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="5", НТВ (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="ntv" tvg-shift="5", НТВ (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="6", НТВ (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="ntv" tvg-shift="6", НТВ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="ntv" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="ntv" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (-1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="5kanal-ru" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_OTT_NW_KLGR_5TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="5kanal-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="1", Пятый канал (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="5kanal-ru" tvg-shift="1", Пятый канал (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="5kanal-ru" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="3", Пятый канал (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="5kanal-ru" tvg-shift="3", Пятый канал (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="5kanal-ru" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="5", Пятый канал (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="5kanal-ru" tvg-shift="5", Пятый канал (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="6", Пятый канал (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="5kanal-ru" tvg-shift="6", Пятый канал (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="5kanal-ru" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (-1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tv3-ru" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tv3-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="1", ТВ-3 (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tv3-ru" tvg-shift="1", ТВ-3 (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tv3-ru" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="3", ТВ-3 (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tv3-ru" tvg-shift="3", ТВ-3 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tv3-ru" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="5", ТВ-3 (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tv3-ru" tvg-shift="5", ТВ-3 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="6", ТВ-3 (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tv3-ru" tvg-shift="6", ТВ-3 (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tv3-ru" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tv3-ru" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ-3 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="1", СТС (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts" tvg-shift="1", СТС (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="3", СТС (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts" tvg-shift="3", СТС (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="5", СТС (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts" tvg-shift="5", СТС (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="6", СТС (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts" tvg-shift="6", СТС (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts-love" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="1", СТС Love (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts-love" tvg-shift="1", СТС Love (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts-love" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="3", СТС Love (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts-love" tvg-shift="3", СТС Love (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts-love" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="5", СТС Love (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts-love" tvg-shift="5", СТС Love (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="6", СТС Love (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts-love" tvg-shift="6", СТС Love (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="sts-love" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="sts-love" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="domashny" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="1", Домашний (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="domashny" tvg-shift="1", Домашний (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="domashny" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="3", Домашний (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="domashny" tvg-shift="3", Домашний (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="domashny" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="5", Домашний (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="domashny" tvg-shift="5", Домашний (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="6", Домашний (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="domashny" tvg-shift="6", Домашний (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="domashny" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="domashny" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="1", ТНТ (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt" tvg-shift="1", ТНТ (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="3", ТНТ (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt" tvg-shift="3", ТНТ (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="5", ТНТ (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt" tvg-shift="5", ТНТ (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="6", ТНТ (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt" tvg-shift="6", ТНТ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="1", ТНТ4 (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt4" tvg-shift="1", ТНТ4 (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt4" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="3", ТНТ4 (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt4" tvg-shift="3", ТНТ4 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt4" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="5", ТНТ4 (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt4" tvg-shift="5", ТНТ4 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="6", ТНТ4 (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt4" tvg-shift="6", ТНТ4 (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="tnt4" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="tnt4" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (-1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rentv" tvg-shift="-1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (-1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R02_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rentv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="1", РЕН ТВ (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rentv" tvg-shift="1", РЕН ТВ (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rentv" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="3", РЕН ТВ (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rentv" tvg-shift="3", РЕН ТВ (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rentv" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="5", РЕН ТВ (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rentv" tvg-shift="5", РЕН ТВ (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="6", РЕН ТВ (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rentv" tvg-shift="6", РЕН ТВ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="rentv" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rentv" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", РЕН ТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="mir" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="1", Мир (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="mir" tvg-shift="1", Мир (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="mir" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="3", Мир (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="mir" tvg-shift="3", Мир (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="mir" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="5", Мир (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="mir" tvg-shift="5", Мир (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="6", Мир (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="mir" tvg-shift="6", Мир (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="mir" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="mir" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="otr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ОТР
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="otr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ОТР
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="otr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Всё ТВ HD
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="otr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Всё ТВ HD
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="kultura" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="1", Россия Культура (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="kultura" tvg-shift="1", Россия Культура (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="kultura" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="3", Россия Культура (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="kultura" tvg-shift="3", Россия Культура (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="kultura" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="5", Россия Культура (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="kultura" tvg-shift="5", Россия Культура (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="6", Россия Культура (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="kultura" tvg-shift="6", Россия Культура (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="kultura" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="kultura" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="zvezda" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="1", Звезда (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="zvezda" tvg-shift="1", Звезда (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="zvezda" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="3", Звезда (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="zvezda" tvg-shift="3", Звезда (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="zvezda" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="5", Звезда (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="zvezda" tvg-shift="5", Звезда (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="6", Звезда (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="zvezda" tvg-shift="6", Звезда (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="zvezda" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="zvezda" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="che" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че!
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="che" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че!
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="1", Че! (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="che" tvg-shift="1", Че! (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="che" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="3", Че! (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="che" tvg-shift="3", Че! (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="che" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="5", Че! (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="che" tvg-shift="5", Че! (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="6", Че! (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="che" tvg-shift="6", Че! (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="che" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="che" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница!
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="piatnica" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница!
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="1", Пятница! (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="piatnica" tvg-shift="1", Пятница! (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="piatnica" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="3", Пятница! (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="piatnica" tvg-shift="3", Пятница! (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="piatnica" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="5", Пятница! (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="piatnica" tvg-shift="5", Пятница! (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="6", Пятница! (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="piatnica" tvg-shift="6", Пятница! (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="piatnica" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="piatnica" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="super" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота!
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="super" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота!
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="1", Суббота! (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="super" tvg-shift="1", Суббота! (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="super" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="3", Суббота! (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="super" tvg-shift="3", Суббота! (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="super" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="5", Суббота! (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="super" tvg-shift="5", Суббота! (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="6", Суббота! (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="super" tvg-shift="6", Суббота! (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="super" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="super" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="solnce" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="1", Солнце (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="solnce" tvg-shift="1", Солнце (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="solnce" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="3", Солнце (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="solnce" tvg-shift="3", Солнце (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="solnce" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="5", Солнце (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="solnce" tvg-shift="5", Солнце (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="6", Солнце (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="solnce" tvg-shift="6", Солнце (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="solnce" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="solnce" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Солнце (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="yu" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="yu" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="1", Ю-ТВ (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="yu" tvg-shift="1", Ю-ТВ (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="yu" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="3", Ю-ТВ (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="yu" tvg-shift="3", Ю-ТВ (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="yu" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="5", Ю-ТВ (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="yu" tvg-shift="5", Ю-ТВ (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="6", Ю-ТВ (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="yu" tvg-shift="6", Ю-ТВ (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="yu" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="yu" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю-ТВ (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="2x2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="1", 2x2 (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="2x2" tvg-shift="1", 2x2 (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="2x2" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="3", 2x2 (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="2x2" tvg-shift="3", 2x2 (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="2x2" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="5", 2x2 (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="2x2" tvg-shift="5", 2x2 (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="6", 2x2 (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="2x2" tvg-shift="6", 2x2 (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="2x2" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="2x2" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="karusel" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="1", Карусель (+1)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="karusel" tvg-shift="1", Карусель (+1)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+2)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="karusel" tvg-shift="2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+2)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="3", Карусель (+3)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="karusel" tvg-shift="3", Карусель (+3)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+4)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="karusel" tvg-shift="4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+4)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="5", Карусель (+5)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="karusel" tvg-shift="5", Карусель (+5)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?offset=-7200
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="6", Карусель (+6)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="karusel" tvg-shift="6", Карусель (+6)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8?offset=-3600
-#EXTINF:-1 group-title="Общие" tvg-id="karusel" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+7)
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="karusel" tvg-shift="7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (+7)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч!
+#EXTINF:-1 group-title="Wink Moya sborka" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч!
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
