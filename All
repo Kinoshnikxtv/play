@@ -1209,6 +1209,8 @@ http://188.225.31.197/bpk-tv/000008039/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000002722/tve/index.m3u8
 #EXTINF:-1 group-title="BeeTV   Казахстан" tvg-logo="https://epg.iptvx.one/picons/aqtobe.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_aqtobe",AQTOBE
 http://188.225.31.197/bpk-tv/000001571/tve/index.m3u8
+#EXTINF:-1 group-title="Разное",Патриот
+http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="../Channel/Logo/Первый канал HD2.png",Первый канал Европа
 http://87.246.54.249:8080/Pervii/index.m3u8
 #EXTINF:-1 group-title="Разное" tvg-logo="https://veranzo.ru/other/icons/viju+ Comedy.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9384",viju+ Comedy HD
