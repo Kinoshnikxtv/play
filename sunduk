@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml"
+#EXTM3U
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH999/index.m3u8
 http://tmptv.sunduk.tv/CH999/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH997/index.m3u8
@@ -897,7 +897,7 @@ http://tmptv.sunduk.tv/CH5513/index.m3u8
 http://tmptv.sunduk.tv/CH5511/index.m3u8
 #EXTINF:-1 ,VHS-ка HD
 http://tmptv.sunduk.tv/CH5505/index.m3u8
-#EXTINF:-1 ,Duo 6 HD LV
+#EXTINF:-1 ,Duo 6 Baltic
 http://tmptv.sunduk.tv/CH5399/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH5337/index.m3u8
 http://tmptv.sunduk.tv/CH5337/index.m3u8
