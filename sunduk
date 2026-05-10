@@ -191,6 +191,8 @@ http://tmptv.sunduk.tv/CH267/index.m3u8
 http://tmptv.sunduk.tv/CH259/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2022",Bridge HD
 http://tmptv.sunduk.tv/CH257/index.m3u8
+#EXTINF:-1 ,Дождь HD
+http://tmptv.sunduk.tv/CH251/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Shot TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_431",Shot TV
 http://tmptv.sunduk.tv/CH249/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1584",Мужское кино HD
@@ -291,6 +293,8 @@ http://tmptv.sunduk.tv/CH97/index.m3u8
 http://tmptv.sunduk.tv/CH95/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Extreme sports.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_extreme-sports-ru",Extreme Sports [RU]
 http://tmptv.sunduk.tv/CH93/index.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://tmptv.sunduk.tv/CH91/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1683",Россия 24
 http://tmptv.sunduk.tv/CH85/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_223",Nat Geo Wild
@@ -379,6 +383,10 @@ http://tmptv.sunduk.tv/CH5505/index.m3u8
 http://tmptv.sunduk.tv/CH5399/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ-Хит.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-serial",НТВ-Сериал
 http://tmptv.sunduk.tv/CH5223/index.m3u8
+#EXTINF:-1 ,RTVI Retro
+http://tmptv.sunduk.tv/CH4765/index.m3u8
+#EXTINF:-1 ,Discovery channel HD
+http://tmptv.sunduk.tv/CH4701/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Мир Баскетбола.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4629",Мир баскетбола
 http://tmptv.sunduk.tv/CH4619/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/В гостях у сказки.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2027",В гостях у сказки
