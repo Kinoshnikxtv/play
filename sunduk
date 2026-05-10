@@ -585,7 +585,7 @@ http://tmptv.sunduk.tv/CH8473/index.m3u8
 http://tmptv.sunduk.tv/CH8471/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH8405/index.m3u8
 http://tmptv.sunduk.tv/CH8405/index.m3u8
-#EXTINF:-1 group-title="РќР°Р№РґРµРЅРЅС‹Рµ РєР°РЅР°Р»С‹",CDN:2507-http://tmptv.sunduk.tv/CH8401/index.m3u8
+#EXTINF:-1 ,http://tmptv.sunduk.tv/CH8401/index.m3u8
 http://tmptv.sunduk.tv/CH8401/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH8399/index.m3u8
 http://tmptv.sunduk.tv/CH8399/index.m3u8
@@ -595,7 +595,7 @@ http://tmptv.sunduk.tv/CH8305/index.m3u8
 http://tmptv.sunduk.tv/CH8037/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH8035/index.m3u8
 http://tmptv.sunduk.tv/CH8035/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH7951/index.m3u8
+#EXTINF:-1 ,Cartoonito
 http://tmptv.sunduk.tv/CH7951/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH7943/index.m3u8
 http://tmptv.sunduk.tv/CH7943/index.m3u8
@@ -649,11 +649,11 @@ http://tmptv.sunduk.tv/CH7869/index.m3u8
 http://tmptv.sunduk.tv/CH7867/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH7825/index.m3u8
 http://tmptv.sunduk.tv/CH7825/index.m3u8
-#EXTINF:-1 group-title="РќР°Р№РґРµРЅРЅС‹Рµ РєР°РЅР°Р»С‹",BSkyB:Crime+Inv-http://tmptv.sunduk.tv/CH7821/index.m3u8
+#EXTINF:-1 ,http://tmptv.sunduk.tv/CH7821/index.m3u8
 http://tmptv.sunduk.tv/CH7821/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH7817/index.m3u8
 http://tmptv.sunduk.tv/CH7817/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH7815/index.m3u8
+#EXTINF:-1 ,HGTV HD
 http://tmptv.sunduk.tv/CH7815/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH7811/index.m3u8
 http://tmptv.sunduk.tv/CH7811/index.m3u8
@@ -679,7 +679,7 @@ http://tmptv.sunduk.tv/CH7613/index.m3u8
 http://tmptv.sunduk.tv/CH7611/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH7609/index.m3u8
 http://tmptv.sunduk.tv/CH7609/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH7605/index.m3u8
+#EXTINF:-1 ,Трофей
 http://tmptv.sunduk.tv/CH7605/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH7603/index.m3u8
 http://tmptv.sunduk.tv/CH7603/index.m3u8
