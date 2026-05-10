@@ -385,6 +385,8 @@ http://tmptv.sunduk.tv/CH5399/index.m3u8
 http://tmptv.sunduk.tv/CH5223/index.m3u8
 #EXTINF:-1 ,RTVI Retro
 http://tmptv.sunduk.tv/CH4765/index.m3u8
+#EXTINF:-1 ,RTVI USA
+http://tmptv.sunduk.tv/CH4763/index.m3u8
 #EXTINF:-1 ,Discovery channel HD
 http://tmptv.sunduk.tv/CH4701/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Мир Баскетбола.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4629",Мир баскетбола
