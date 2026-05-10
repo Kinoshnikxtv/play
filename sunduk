@@ -73,8 +73,6 @@ http://tmptv.sunduk.tv/CH547/index.m3u8
 http://tmptv.sunduk.tv/CH545/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Оружие.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2430",Оружие
 http://tmptv.sunduk.tv/CH543/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/RTVi.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2401",RTVI
-http://tmptv.sunduk.tv/CH541/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4313",Eurosport 2 HD
 http://tmptv.sunduk.tv/CH539/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Exxxotica HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2632",Exxxotica HD
