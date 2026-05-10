@@ -911,15 +911,15 @@ http://tmptv.sunduk.tv/CH5331/index.m3u8
 http://tmptv.sunduk.tv/CH5329/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH5327/index.m3u8
 http://tmptv.sunduk.tv/CH5327/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH5223/index.m3u8
+#EXTINF:-1 ,НТВ-Сериал
 http://tmptv.sunduk.tv/CH5223/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH5219/index.m3u8
 http://tmptv.sunduk.tv/CH5219/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4881/index.m3u8
 http://tmptv.sunduk.tv/CH4881/index.m3u8
-#EXTINF:-1 group-title="РќР°Р№РґРµРЅРЅС‹Рµ РєР°РЅР°Р»С‹",RTVI RETRO:RTVI RETRO-http://tmptv.sunduk.tv/CH4765/index.m3u8
+#EXTINF:-1 RTVI Retro
 http://tmptv.sunduk.tv/CH4765/index.m3u8
-#EXTINF:-1 group-title="РќР°Р№РґРµРЅРЅС‹Рµ РєР°РЅР°Р»С‹",RTVI US HD:RTVI US HD-http://tmptv.sunduk.tv/CH4763/index.m3u8
+#EXTINF:-1 RTVI USA
 http://tmptv.sunduk.tv/CH4763/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4723/index.m3u8
 http://tmptv.sunduk.tv/CH4723/index.m3u8
@@ -949,47 +949,47 @@ http://tmptv.sunduk.tv/CH4647/index.m3u8
 http://tmptv.sunduk.tv/CH4641/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4639/index.m3u8
 http://tmptv.sunduk.tv/CH4639/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4619/index.m3u8
+#EXTINF:-1 ,Мир баскетбола
 http://tmptv.sunduk.tv/CH4619/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4617/index.m3u8
+#EXTINF:-1 ,В гостях у сказки
 http://tmptv.sunduk.tv/CH4617/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4615/index.m3u8
+#EXTINF:-1 ,.black HD
 http://tmptv.sunduk.tv/CH4615/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4613/index.m3u8
+#EXTINF:-1 ,.sci-fi HD
 http://tmptv.sunduk.tv/CH4613/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4607/index.m3u8
+#EXTINF:-1 ,Мужской
 http://tmptv.sunduk.tv/CH4607/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4603/index.m3u8
+#EXTINF:-1 ,ТВ Центр
 http://tmptv.sunduk.tv/CH4603/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4591/index.m3u8
+#EXTINF:-1 ,Матч! Страна HD
 http://tmptv.sunduk.tv/CH4591/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4589/index.m3u8
+#EXTINF:-1 ,РБК
 http://tmptv.sunduk.tv/CH4589/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4587/index.m3u8
+#EXTINF:-1 ,Ключ HD
 http://tmptv.sunduk.tv/CH4587/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4585/index.m3u8
+#EXTINF:-1 ,Тайны Галактики
 http://tmptv.sunduk.tv/CH4585/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4583/index.m3u8
+#EXTINF:-1 ,Диалоги о рыбалке
 http://tmptv.sunduk.tv/CH4583/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4579/index.m3u8
+#EXTINF:-1 ,360° Новости
 http://tmptv.sunduk.tv/CH4579/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4551/index.m3u8
 http://tmptv.sunduk.tv/CH4551/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4549/index.m3u8
+#EXTINF:-1 ,Живи активно HD
 http://tmptv.sunduk.tv/CH4549/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4547/index.m3u8
+#EXTINF:-1 ,Домашний HD
 http://tmptv.sunduk.tv/CH4547/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4545/index.m3u8
+#EXTINF:-1 ,Мир-24
 http://tmptv.sunduk.tv/CH4545/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4543/index.m3u8
+#EXTINF:-1 ,Мир HD
 http://tmptv.sunduk.tv/CH4543/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4541/index.m3u8
+#EXTINF:-1 ,Глазами туриста 4K
 http://tmptv.sunduk.tv/CH4541/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4527/index.m3u8
+#EXTINF:-1 ,Известия HD
 http://tmptv.sunduk.tv/CH4527/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4523/index.m3u8
+#EXTINF:-1 ,РенТВ HD
 http://tmptv.sunduk.tv/CH4523/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4521/index.m3u8
+#EXTINF:-1 ,Кинопоказ HD
 http://tmptv.sunduk.tv/CH4521/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4501/index.m3u8
 http://tmptv.sunduk.tv/CH4501/index.m3u8
@@ -997,19 +997,19 @@ http://tmptv.sunduk.tv/CH4501/index.m3u8
 http://tmptv.sunduk.tv/CH4499/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4497/index.m3u8
 http://tmptv.sunduk.tv/CH4497/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4489/index.m3u8
+#EXTINF:-1 ,Наука 2.0 HD
 http://tmptv.sunduk.tv/CH4489/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4487/index.m3u8
 http://tmptv.sunduk.tv/CH4487/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4469/index.m3u8
+#EXTINF:-1 ,viju Nature HD
 http://tmptv.sunduk.tv/CH4469/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4465/index.m3u8
+#EXTINF:-1 ,Наша Сибирь 4K
 http://tmptv.sunduk.tv/CH4465/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4463/index.m3u8
+#EXTINF:-1 ,Футбол HD
 http://tmptv.sunduk.tv/CH4463/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4439/index.m3u8
+#EXTINF:-1 ,Nano HD
 http://tmptv.sunduk.tv/CH4439/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4435/index.m3u8
+#EXTINF:-1 ,Кинокомедия HD
 http://tmptv.sunduk.tv/CH4435/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4425/index.m3u8
 http://tmptv.sunduk.tv/CH4425/index.m3u8
@@ -1017,9 +1017,9 @@ http://tmptv.sunduk.tv/CH4425/index.m3u8
 http://tmptv.sunduk.tv/CH4423/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4421/index.m3u8
 http://tmptv.sunduk.tv/CH4421/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4419/index.m3u8
+#EXTINF:-1 ,Пятница! HD
 http://tmptv.sunduk.tv/CH4419/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4407/index.m3u8
+#EXTINF:-1 ,Русский иллюзион HD
 http://tmptv.sunduk.tv/CH4407/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4397/index.m3u8
 http://tmptv.sunduk.tv/CH4397/index.m3u8
@@ -1027,11 +1027,11 @@ http://tmptv.sunduk.tv/CH4397/index.m3u8
 http://tmptv.sunduk.tv/CH4393/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4281/index.m3u8
 http://tmptv.sunduk.tv/CH4281/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4259/index.m3u8
+#EXTINF:-1 ,Наука
 http://tmptv.sunduk.tv/CH4259/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4257/index.m3u8
+#EXTINF:-1 ,Bolt Россия
 http://tmptv.sunduk.tv/CH4257/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4173/index.m3u8
+#EXTINF:-1 ,National Geographic HD
 http://tmptv.sunduk.tv/CH4173/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4141/index.m3u8
 http://tmptv.sunduk.tv/CH4141/index.m3u8
@@ -1039,15 +1039,15 @@ http://tmptv.sunduk.tv/CH4141/index.m3u8
 http://tmptv.sunduk.tv/CH4103/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4085/index.m3u8
 http://tmptv.sunduk.tv/CH4085/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4071/index.m3u8
+#EXTINF:-1 ,9 канал (Израиль)
 http://tmptv.sunduk.tv/CH4071/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4047/index.m3u8
 http://tmptv.sunduk.tv/CH4047/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4045/index.m3u8
+#EXTINF:-1 ,Curiosity Stream HD
 http://tmptv.sunduk.tv/CH4045/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4039/index.m3u8
 http://tmptv.sunduk.tv/CH4039/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH4035/index.m3u8
+#EXTINF:-1 ,Авто24 HD
 http://tmptv.sunduk.tv/CH4035/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4025/index.m3u8
 http://tmptv.sunduk.tv/CH4025/index.m3u8
@@ -1055,89 +1055,89 @@ http://tmptv.sunduk.tv/CH4025/index.m3u8
 http://tmptv.sunduk.tv/CH4019/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH4017/index.m3u8
 http://tmptv.sunduk.tv/CH4017/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3887/index.m3u8
+#EXTINF:-1 ,Amedia Hit HD
 http://tmptv.sunduk.tv/CH3887/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3885/index.m3u8
+#EXTINF:-1 ,Amedia Premium
 http://tmptv.sunduk.tv/CH3885/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3883/index.m3u8
+#EXTINF:-1 ,Amedia 1 HD
 http://tmptv.sunduk.tv/CH3883/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3881/index.m3u8
+#EXTINF:-1 ,Кинохит HD
 http://tmptv.sunduk.tv/CH3881/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH3879/index.m3u8
 http://tmptv.sunduk.tv/CH3879/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3877/index.m3u8
+#EXTINF:-1 ,Киносемья HD
 http://tmptv.sunduk.tv/CH3877/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3875/index.m3u8
+#EXTINF:-1 ,Киносвидание HD
 http://tmptv.sunduk.tv/CH3875/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3873/index.m3u8
+#EXTINF:-1 ,Киномикс HD
 http://tmptv.sunduk.tv/CH3873/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3871/index.m3u8
+#EXTINF:-1 ,viju History HD
 http://tmptv.sunduk.tv/CH3871/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3869/index.m3u8
+#EXTINF:-1 ,viju TV1000 HD
 http://tmptv.sunduk.tv/CH3869/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3867/index.m3u8
+#EXTINF:-1 ,viju TV1000 Action HD
 http://tmptv.sunduk.tv/CH3867/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3865/index.m3u8
+#EXTINF:-1 ,Хабар 24
 http://tmptv.sunduk.tv/CH3865/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH3861/index.m3u8
 http://tmptv.sunduk.tv/CH3861/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3859/index.m3u8
+#EXTINF:-1 ,Матч! HD
 http://tmptv.sunduk.tv/CH3859/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3851/index.m3u8
+#EXTINF:-1 ,Охотник и рыболов HD
 http://tmptv.sunduk.tv/CH3851/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3849/index.m3u8
+#EXTINF:-1 ,Russian Extreme HD
 http://tmptv.sunduk.tv/CH3849/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3847/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 3 HD
 http://tmptv.sunduk.tv/CH3847/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3845/index.m3u8
+#EXTINF:-1 ,Русский роман HD
 http://tmptv.sunduk.tv/CH3845/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3843/index.m3u8
+#EXTINF:-1 ,Мульт HD
 http://tmptv.sunduk.tv/CH3843/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3841/index.m3u8
+#EXTINF:-1 ,360° Подмосковье HD
 http://tmptv.sunduk.tv/CH3841/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3839/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 2 HD
 http://tmptv.sunduk.tv/CH3839/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH3837/index.m3u8
 http://tmptv.sunduk.tv/CH3837/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH3835/index.m3u8
 http://tmptv.sunduk.tv/CH3835/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3833/index.m3u8
+#EXTINF:-1 ,Матч! Игра HD
 http://tmptv.sunduk.tv/CH3833/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3831/index.m3u8
+#EXTINF:-1 ,Extreme sports HD
 http://tmptv.sunduk.tv/CH3831/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3829/index.m3u8
+#EXTINF:-1 ,Матч! Футбол 1 HD
 http://tmptv.sunduk.tv/CH3829/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3827/index.m3u8
+#EXTINF:-1 ,Матч! Премьер HD
 http://tmptv.sunduk.tv/CH3827/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3825/index.m3u8
+#EXTINF:-1 ,Мир-24
 http://tmptv.sunduk.tv/CH3825/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3821/index.m3u8
+#EXTINF:-1 ,НТВ HD
 http://tmptv.sunduk.tv/CH3821/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3817/index.m3u8
+#EXTINF:-1 ,Мужское кино
 http://tmptv.sunduk.tv/CH3817/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3815/index.m3u8
+#EXTINF:-1 ,viju+ Sport HD
 http://tmptv.sunduk.tv/CH3815/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3809/index.m3u8
+#EXTINF:-1 ,RTG HD
 http://tmptv.sunduk.tv/CH3809/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3805/index.m3u8
+#EXTINF:-1 ,FoxLife HD
 http://tmptv.sunduk.tv/CH3805/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3803/index.m3u8
+#EXTINF:-1 ,Fox HD
 http://tmptv.sunduk.tv/CH3803/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3801/index.m3u8
+#EXTINF:-1 ,Animal Planet HD
 http://tmptv.sunduk.tv/CH3801/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3799/index.m3u8
+#EXTINF:-1 ,Россия 1 HD
 http://tmptv.sunduk.tv/CH3799/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3797/index.m3u8
+#EXTINF:-1 ,Nat Geo Wild HD
 http://tmptv.sunduk.tv/CH3797/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3795/index.m3u8
+#EXTINF:-1 ,Discovery Channel HD
 http://tmptv.sunduk.tv/CH3795/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3793/index.m3u8
+#EXTINF:-1 ,Матч! Арена HD
 http://tmptv.sunduk.tv/CH3793/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3791/index.m3u8
+#EXTINF:-1 ,ТНТ HD
 http://tmptv.sunduk.tv/CH3791/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3789/index.m3u8
+#EXTINF:-1 ,СТС HD
 http://tmptv.sunduk.tv/CH3789/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3769/index.m3u8
+#EXTINF:-1 ,RTVi
 http://tmptv.sunduk.tv/CH3769/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH3709/index.m3u8
 http://tmptv.sunduk.tv/CH3709/index.m3u8
@@ -1157,9 +1157,9 @@ http://tmptv.sunduk.tv/CH3609/index.m3u8
 http://tmptv.sunduk.tv/CH3607/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH3541/index.m3u8
 http://tmptv.sunduk.tv/CH3541/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3517/index.m3u8
+#EXTINF:-1 ,Penthouse HD
 http://tmptv.sunduk.tv/CH3517/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3479/index.m3u8
+#EXTINF:-1 ,Penthouse Gold HD
 http://tmptv.sunduk.tv/CH3479/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH3457/index.m3u8
 http://tmptv.sunduk.tv/CH3457/index.m3u8
@@ -1219,7 +1219,7 @@ http://tmptv.sunduk.tv/CH3225/index.m3u8
 http://tmptv.sunduk.tv/CH3223/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH3171/index.m3u8
 http://tmptv.sunduk.tv/CH3171/index.m3u8
-#EXTINF:-1 ,http://tmptv.sunduk.tv/CH3165/index.m3u8
+#EXTINF:-1 ,Start World
 http://tmptv.sunduk.tv/CH3165/index.m3u8
 #EXTINF:-1 ,http://tmptv.sunduk.tv/CH3163/index.m3u8
 http://tmptv.sunduk.tv/CH3163/index.m3u8
