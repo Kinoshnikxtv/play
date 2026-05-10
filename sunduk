@@ -1,23 +1,11 @@
-#EXTM3U
-#EXTINF:-1 ,3 Plus
-http://tmptv.sunduk.tv/CH969/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Канал Disney.png" ,Канал Малыш
-http://tmptv.sunduk.tv/CH877/index.m3u8
-#EXTINF:-1 ,Kinoteatr [UZ]
-http://tmptv.sunduk.tv/CH843/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/navo-uz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_navo-uz",Navo Telekanali [UZ]
-http://tmptv.sunduk.tv/CH841/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bolajon-uz.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bolajon-uz",Bolajon Telekanali [UZ]
-http://tmptv.sunduk.tv/CH839/index.m3u8
-#EXTINF:-1 ,Dunyo bo'ylab [UZ]
-http://tmptv.sunduk.tv/CH837/index.m3u8
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/1plus1-int.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_1plus1-int",1+1 International
 http://tmptv.sunduk.tv/CH797/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit
 http://tmptv.sunduk.tv/CH763/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7258",НТВ Мир
 http://tmptv.sunduk.tv/CH761/index.m3u8
-#EXTINF:-1 ,Дикий Охота и рыбалка
+#EXTINF:-1 ,Дикий
 http://tmptv.sunduk.tv/CH751/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/2320.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2320",RedLight HD
 http://tmptv.sunduk.tv/CH745/index.m3u8
@@ -105,7 +93,7 @@ http://tmptv.sunduk.tv/CH451/index.m3u8
 http://tmptv.sunduk.tv/CH445/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1322",СТС Love
 http://tmptv.sunduk.tv/CH441/index.m3u8
-#EXTINF:-1 ,Руссий детектив
+#EXTINF:-1 ,Русский детектив
 http://tmptv.sunduk.tv/CH437/index.m3u8
 #EXTINF:-1 tvg-logo="../Channel/Logo/История.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1036",История
 http://tmptv.sunduk.tv/CH423/index.m3u8
