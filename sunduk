@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 group-title="UKR" tvg-logo="https://iptvx.one/picons/1plus1-int.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_1plus1-int",1+1 International
 http://tmptv.sunduk.tv/CH797/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit
@@ -27,7 +27,7 @@ http://tmptv.sunduk.tv/CH695/index.m3u8
 http://tmptv.sunduk.tv/CH689/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/cbc-az.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_cbc-az",CBC az
 http://tmptv.sunduk.tv/CH633/index.m3u8
-#EXTINF:-1 group-title="RUS" ,Stingrey iConcerts HD
+#EXTINF:-1 group-title="RUS" tvg-id="simpleTVFakeEpgId",Stingrey iConcerts HD
 http://tmptv.sunduk.tv/CH581/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Бобёр.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2026",Бобёр
 http://tmptv.sunduk.tv/CH579/index.m3u8
@@ -67,7 +67,7 @@ http://tmptv.sunduk.tv/CH539/index.m3u8
 http://tmptv.sunduk.tv/CH535/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2547",Россия РТР
 http://tmptv.sunduk.tv/CH531/index.m3u8
-#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Nano HD.png" ,Nano TV
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Nano HD.png" tvg-id="simpleTVFakeEpgId",Nano TV
 http://tmptv.sunduk.tv/CH529/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_477",Любимое кино
 http://tmptv.sunduk.tv/CH521/index.m3u8
@@ -259,7 +259,7 @@ http://tmptv.sunduk.tv/CH131/index.m3u8
 http://tmptv.sunduk.tv/CH129/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_146",Первый канал HD
 http://tmptv.sunduk.tv/CH125/index.m3u8
-#EXTINF:-1 group-title="RUS" ,FON music
+#EXTINF:-1 group-title="RUS" tvg-id="simpleTVFakeEpgId",FON music
 http://tmptv.sunduk.tv/CH121/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Союз.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2448",Союз
 http://tmptv.sunduk.tv/CH119/index.m3u8
@@ -553,7 +553,7 @@ http://tmptv.sunduk.tv/CH2561/index.m3u8
 http://tmptv.sunduk.tv/CH2559/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мир Premium.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-vokrug",Мир вокруг
 http://tmptv.sunduk.tv/CH2557/index.m3u8
-#EXTINF:-1 group-title="RUS" ,Lolo TV Латвия
+#EXTINF:-1 group-title="RUS" tvg-id="simpleTVFakeEpgId",Lolo TV Латвия
 http://tmptv.sunduk.tv/CH2547/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_insight-tv-hd",Insight TV HD
 http://tmptv.sunduk.tv/CH2405/index.m3u8
@@ -591,7 +591,7 @@ http://tmptv.sunduk.tv/CH17078/index.m3u8
 http://tmptv.sunduk.tv/CH17075/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/9325.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9325",Окко Футбол HD
 http://tmptv.sunduk.tv/CH17072/index.m3u8
-#EXTINF:-1 group-title="RUS" ,Dunyo
+#EXTINF:-1 group-title="RUS" tvg-id="simpleTVFakeEpgId",Dunyo
 http://tmptv.sunduk.tv/CH10255/index.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/2777.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2777",Penthouse Gold HD
 http://tmptv.sunduk.tv/CH10177/index.m3u8
