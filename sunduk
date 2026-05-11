@@ -1,597 +1,597 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/1plus1-int.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_1plus1-int",1+1 International
+#EXTINF:-1 group-title="UKR" tvg-logo="https://iptvx.one/picons/1plus1-int.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_1plus1-int",1+1 International
 http://tmptv.sunduk.tv/CH797/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit
 http://tmptv.sunduk.tv/CH763/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7258",НТВ Мир
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/НТВ Хит.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7258",НТВ Мир
 http://tmptv.sunduk.tv/CH761/index.m3u8
-#EXTINF:-1 ,Дикий
+#EXTINF:-1 group-title="RUS" ,Дикий
 http://tmptv.sunduk.tv/CH751/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2320.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2320",RedLight HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/2320.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2320",RedLight HD
 http://tmptv.sunduk.tv/CH745/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Blue Hustler.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2322",Hustler HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Blue Hustler.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2322",Hustler HD
 http://tmptv.sunduk.tv/CH743/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Kids.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2481",СТС Kids HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/СТС Kids.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2481",СТС Kids HD
 http://tmptv.sunduk.tv/CH729/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_477",Любимое кино HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_477",Любимое кино HD
 http://tmptv.sunduk.tv/CH717/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2508",Глазами туриста HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2508",Глазами туриста HD
 http://tmptv.sunduk.tv/CH715/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv1000-russkoe-kino",Viju TV1000 Русское кино HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/tv1000-russkoe-kino.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv1000-russkoe-kino",Viju TV1000 Русское кино HD
 http://tmptv.sunduk.tv/CH713/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Бокс ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2285",Бокс ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Бокс ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2285",Бокс ТВ
 http://tmptv.sunduk.tv/CH707/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/49 канал Новосибирск.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль)
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/49 канал Новосибирск.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль)
 http://tmptv.sunduk.tv/CH695/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kazakh-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kazakh-tv",Jibek Joly
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/kazakh-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kazakh-tv",Jibek Joly
 http://tmptv.sunduk.tv/CH689/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/cbc-az.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_cbc-az",CBC az
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/cbc-az.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_cbc-az",CBC az
 http://tmptv.sunduk.tv/CH633/index.m3u8
-#EXTINF:-1 ,Stingrey iConcerts HD
+#EXTINF:-1 group-title="RUS" ,Stingrey iConcerts HD
 http://tmptv.sunduk.tv/CH581/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Бобёр.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2026",Бобёр
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Бобёр.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2026",Бобёр
 http://tmptv.sunduk.tv/CH579/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/legenda.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_legenda",Легенда
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/legenda.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_legenda",Легенда
 http://tmptv.sunduk.tv/CH577/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ID Investigation Discovery HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_id-xtra-eu",ID Investigation Discovery Европа
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/ID Investigation Discovery HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_id-xtra-eu",ID Investigation Discovery Европа
 http://tmptv.sunduk.tv/CH573/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_520",Домашние животные
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_520",Домашние животные
 http://tmptv.sunduk.tv/CH571/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Арсенал.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2768",Арсенал HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Арсенал.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2768",Арсенал HD
 http://tmptv.sunduk.tv/CH567/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Зоо ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2431",Зоо ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Зоо ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2431",Зоо ТВ
 http://tmptv.sunduk.tv/CH565/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Загородный.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2463",Загородный
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Загородный.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2463",Загородный
 http://tmptv.sunduk.tv/CH563/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Капитан Фантастика.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2438",Капитан фантастика HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Капитан Фантастика.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2438",Капитан фантастика HD
 http://tmptv.sunduk.tv/CH561/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1037",Кино ТВ HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кино ТВ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1037",Кино ТВ HD
 http://tmptv.sunduk.tv/CH559/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2310",Первый космический HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Первый канал HD2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2310",Первый космический HD
 http://tmptv.sunduk.tv/CH557/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2498",В мире животных HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/В мире животных.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2498",В мире животных HD
 http://tmptv.sunduk.tv/CH555/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наше ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2018",Наше HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Наше ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2018",Наше HD
 http://tmptv.sunduk.tv/CH551/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Душевное.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2019",Душевное HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Душевное.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2019",Душевное HD
 http://tmptv.sunduk.tv/CH549/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1588",Остросюжетное HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Остросюжетное.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1588",Остросюжетное HD
 http://tmptv.sunduk.tv/CH547/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Еда Премиум.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2732",Премиальное HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Еда Премиум.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2732",Премиальное HD
 http://tmptv.sunduk.tv/CH545/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Оружие.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2430",Оружие
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Оружие.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2430",Оружие
 http://tmptv.sunduk.tv/CH543/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4313",Eurosport 2 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4313",Eurosport 2 HD
 http://tmptv.sunduk.tv/CH539/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Exxxotica HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2632",Exxxotica HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Exxxotica HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2632",Exxxotica HD
 http://tmptv.sunduk.tv/CH535/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2547",Россия РТР
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2547",Россия РТР
 http://tmptv.sunduk.tv/CH531/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nano HD.png" ,Nano TV
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Nano HD.png" ,Nano TV
 http://tmptv.sunduk.tv/CH529/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_477",Любимое кино
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Наше любимое кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_477",Любимое кино
 http://tmptv.sunduk.tv/CH521/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2170",Беларусь 24
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Беларусь 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2170",Беларусь 24
 http://tmptv.sunduk.tv/CH519/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2292",Первый вегетарианский
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Первый вегетарианский.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2292",Первый вегетарианский
 http://tmptv.sunduk.tv/CH509/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Театр.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2827",Театр
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Театр.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2827",Театр
 http://tmptv.sunduk.tv/CH505/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Живая природа.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2495",Живая природа HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Живая природа.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2495",Живая природа HD
 http://tmptv.sunduk.tv/CH497/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Вместе-РФ.png" tvg-id="d09336db60acee31f19aef3ee307fef6_7790",Вместе РФ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Вместе-РФ.png" tvg-id="d09336db60acee31f19aef3ee307fef6_7790",Вместе РФ
 http://tmptv.sunduk.tv/CH495/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Загородная жизнь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2298",Загородная жизнь
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Загородная жизнь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2298",Загородная жизнь
 http://tmptv.sunduk.tv/CH469/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ю.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yu",Ю
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Ю.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yu",Ю
 http://tmptv.sunduk.tv/CH461/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sony.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-tv",.red HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/sony.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-tv",.red HD
 http://tmptv.sunduk.tv/CH453/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2275",Мир сериала
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мир сериала.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2275",Мир сериала
 http://tmptv.sunduk.tv/CH451/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Тайны Галактики.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_galaxy-tv",Тайны Галактики
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Тайны Галактики.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_galaxy-tv",Тайны Галактики
 http://tmptv.sunduk.tv/CH445/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1322",СТС Love
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/СТС Love.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1322",СТС Love
 http://tmptv.sunduk.tv/CH441/index.m3u8
-#EXTINF:-1 ,Русский детектив
+#EXTINF:-1 group-title="RUS" ,Русский детектив
 http://tmptv.sunduk.tv/CH437/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/История.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1036",История
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/История.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1036",История
 http://tmptv.sunduk.tv/CH423/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1371",Amedia 1
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1371",Amedia 1
 http://tmptv.sunduk.tv/CH421/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2015",Русская ночь
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2015",Русская ночь
 http://tmptv.sunduk.tv/CH419/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2492",Amedia 2
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2492",Amedia 2
 http://tmptv.sunduk.tv/CH411/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2493",Киноужас HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Киноужас.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2493",Киноужас HD
 http://tmptv.sunduk.tv/CH409/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 3.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2005",Матч! Футбол 3
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Футбол 3.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2005",Матч! Футбол 3
 http://tmptv.sunduk.tv/CH407/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Авто 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2008",Авто 24
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Авто 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2008",Авто 24
 http://tmptv.sunduk.tv/CH405/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_oxotnik-i-rybolov",Рыболов
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_oxotnik-i-rybolov",Рыболов
 http://tmptv.sunduk.tv/CH389/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/RTД HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtd-ru",RTД HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/RTД HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rtd-ru",RTД HD
 http://tmptv.sunduk.tv/CH385/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Еда.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_eda",Еда
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Еда.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_eda",Еда
 http://tmptv.sunduk.tv/CH381/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nick jr.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_917",Nick Jr
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Nick jr.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_917",Nick Jr
 http://tmptv.sunduk.tv/CH379/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Совершенно секретно.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_275",Совершенно секретно
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Совершенно секретно.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_275",Совершенно секретно
 http://tmptv.sunduk.tv/CH357/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_la-minor",Музыка Live
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_la-minor",Музыка Live
 http://tmptv.sunduk.tv/CH353/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",Gulli Girl
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Gulli Girl.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",Gulli Girl
 http://tmptv.sunduk.tv/CH347/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кто есть кто.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2456",Кто есть кто
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кто есть кто.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2456",Кто есть кто
 http://tmptv.sunduk.tv/CH343/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Успех.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2455",Успех
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Успех.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2455",Успех
 http://tmptv.sunduk.tv/CH337/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/365 Дней.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_365-dnej",365 дней
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/365 Дней.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_365-dnej",365 дней
 http://tmptv.sunduk.tv/CH333/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ностальгия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_783",Ностальгия
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Ностальгия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_783",Ностальгия
 http://tmptv.sunduk.tv/CH331/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1042",Матч! Футбол 2
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Футбол 2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1042",Матч! Футбол 2
 http://tmptv.sunduk.tv/CH329/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Russia Today.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rt-news",Russia Today
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Russia Today.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rt-news",Russia Today
 http://tmptv.sunduk.tv/CH325/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2403",Иллюзион+
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Иллюзион+.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2403",Иллюзион+
 http://tmptv.sunduk.tv/CH323/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мульт.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мульт.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт
 http://tmptv.sunduk.tv/CH319/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ОТР.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1000",ОТР
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/ОТР.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1000",ОТР
 http://tmptv.sunduk.tv/CH317/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1013.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1013",viju+ Premiere HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/1013.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1013",viju+ Premiere HD
 http://tmptv.sunduk.tv/CH315/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1012.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1012",viju+ Megahit HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/1012.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1012",viju+ Megahit HD
 http://tmptv.sunduk.tv/CH313/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1011.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1011",viju+ Comedy HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/1011.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1011",viju+ Comedy HD
 http://tmptv.sunduk.tv/CH311/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Travel channel HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_613",Travel Channel HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Travel channel HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_613",Travel Channel HD
 http://tmptv.sunduk.tv/CH305/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/History HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1394",History HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/History HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1394",History HD
 http://tmptv.sunduk.tv/CH303/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1372",Amedia Premium HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1372",Amedia Premium HD
 http://tmptv.sunduk.tv/CH301/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_566",Кинопремьера HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кинопремьера.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_566",Кинопремьера HD
 http://tmptv.sunduk.tv/CH299/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/1038.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1038",KHL Prime
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/1038.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1038",KHL Prime
 http://tmptv.sunduk.tv/CH293/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Hollywood HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_934",Hollywood HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Hollywood HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_934",Hollywood HD
 http://tmptv.sunduk.tv/CH291/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский роман
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский роман
 http://tmptv.sunduk.tv/CH289/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Футбол.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2782",Футбол
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Футбол.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2782",Футбол
 http://tmptv.sunduk.tv/CH287/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Звезда.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://tmptv.sunduk.tv/CH285/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Пятый канал.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
 http://tmptv.sunduk.tv/CH283/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс
 http://tmptv.sunduk.tv/CH279/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_moskva-24",Москва-24
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Москва 24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_moskva-24",Москва-24
 http://tmptv.sunduk.tv/CH271/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Europa Plus TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_681",Europa Plus TV
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Europa Plus TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_681",Europa Plus TV
 http://tmptv.sunduk.tv/CH267/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наука.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka-20",Наука 2.0
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Наука.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka-20",Наука 2.0
 http://tmptv.sunduk.tv/CH259/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/BRIDGE TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2022",Bridge HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/BRIDGE TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2022",Bridge HD
 http://tmptv.sunduk.tv/CH257/index.m3u8
-#EXTINF:-1 ,Дождь HD
+#EXTINF:-1 group-title="RUS" ,Дождь HD
 http://tmptv.sunduk.tv/CH251/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Shot TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_431",Shot TV
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Shot TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_431",Shot TV
 http://tmptv.sunduk.tv/CH249/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1584",Мужское кино HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1584",Мужское кино HD
 http://tmptv.sunduk.tv/CH245/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2052",Eurosport 1 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2052",Eurosport 1 HD
 http://tmptv.sunduk.tv/CH243/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_102",National Geographic HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_102",National Geographic HD
 http://tmptv.sunduk.tv/CH239/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Точка ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_hd-life",Точка РФ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Точка ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_hd-life",Точка РФ
 http://tmptv.sunduk.tv/CH237/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Food network HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7635",FoodTime
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Food network HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7635",FoodTime
 http://tmptv.sunduk.tv/CH235/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Приключения HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2311",Приключения HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Приключения HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2311",Приключения HD
 http://tmptv.sunduk.tv/CH233/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_138",Комедийное HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_138",Комедийное HD
 http://tmptv.sunduk.tv/CH231/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2309",Шокирующее HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Шокирующее.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2309",Шокирующее HD
 http://tmptv.sunduk.tv/CH229/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2003",Матч! Арена
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2003",Матч! Арена
 http://tmptv.sunduk.tv/CH227/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_675",Моя Планета
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_675",Моя Планета
 http://tmptv.sunduk.tv/CH225/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_715",Музыка Первого
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Музыка первого.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_715",Музыка Первого
 http://tmptv.sunduk.tv/CH221/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2015",Русская ночь
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Русская ночь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2015",Русская ночь
 http://tmptv.sunduk.tv/CH219/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Время.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_669",Время
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Время.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_669",Время
 http://tmptv.sunduk.tv/CH217/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinopokaz",Кинопоказ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kinopokaz",Кинопоказ
 http://tmptv.sunduk.tv/CH215/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2451.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2451",Вопросы и ответы
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/2451.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2451",Вопросы и ответы
 http://tmptv.sunduk.tv/CH211/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Психология.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2450",Психология 21
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Психология.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2450",Психология 21
 http://tmptv.sunduk.tv/CH209/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_520",Домашние животные
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Домашний-ТВК6.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_520",Домашние животные
 http://tmptv.sunduk.tv/CH207/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_765",viju Nature
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_765",viju Nature
 http://tmptv.sunduk.tv/CH203/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мир.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир
 http://tmptv.sunduk.tv/CH201/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_663",Сарафан
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Сарафан.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_663",Сарафан
 http://tmptv.sunduk.tv/CH199/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мультиландия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2757",Мультиландия
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мультиландия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2757",Мультиландия
 http://tmptv.sunduk.tv/CH197/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний
 http://tmptv.sunduk.tv/CH195/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2304",Телекафе
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Телекафе.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2304",Телекафе
 http://tmptv.sunduk.tv/CH193/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",РенТВ HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",РенТВ HD
 http://tmptv.sunduk.tv/CH189/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Че!.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1598",Че!
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Че!.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1598",Че!
 http://tmptv.sunduk.tv/CH185/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/RTG TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2280",RTG TV
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/RTG TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2280",RTG TV
 http://tmptv.sunduk.tv/CH179/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Здоровое ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2449",Здоровое ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Здоровое ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2449",Здоровое ТВ
 http://tmptv.sunduk.tv/CH169/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Драйв.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2443",Драйв
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Драйв.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2443",Драйв
 http://tmptv.sunduk.tv/CH165/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_352",Еврокино
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Еврокино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_352",Еврокино
 http://tmptv.sunduk.tv/CH163/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/FOX.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1031",Fox
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/FOX.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1031",Fox
 http://tmptv.sunduk.tv/CH161/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Fox Life.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_615",Fox Life
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Fox Life.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_615",Fox Life
 http://tmptv.sunduk.tv/CH159/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nst",Настоящее страшное ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nst",Настоящее страшное ТВ
 http://tmptv.sunduk.tv/CH157/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мама.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_618",Мама
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мама.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_618",Мама
 http://tmptv.sunduk.tv/CH155/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2419",Охота и рыбалка
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Охота и Рыбалка.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2419",Охота и рыбалка
 http://tmptv.sunduk.tv/CH151/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_retro-tv",Ретро ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_retro-tv",Ретро ТВ
 http://tmptv.sunduk.tv/CH149/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Усадьба.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_434",Усадьба
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Усадьба.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_434",Усадьба
 http://tmptv.sunduk.tv/CH137/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2055.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2055",viju+ Sport
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/2055.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2055",viju+ Sport
 http://tmptv.sunduk.tv/CH131/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Brazzers TV Europe.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2021",Brazzers TV
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Brazzers TV Europe.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2021",Brazzers TV
 http://tmptv.sunduk.tv/CH129/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_146",Первый канал HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Первый канал HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_146",Первый канал HD
 http://tmptv.sunduk.tv/CH125/index.m3u8
-#EXTINF:-1 ,FON music
+#EXTINF:-1 group-title="RUS" ,FON music
 http://tmptv.sunduk.tv/CH121/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Союз.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2448",Союз
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Союз.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2448",Союз
 http://tmptv.sunduk.tv/CH119/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Шансон-ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_shanson-tv",Шансон-TB
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Шансон-ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_shanson-tv",Шансон-TB
 http://tmptv.sunduk.tv/CH115/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/ТВ-3.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
 http://tmptv.sunduk.tv/CH113/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Спас.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2141",Спас
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Спас.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2141",Спас
 http://tmptv.sunduk.tv/CH105/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Доктор.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_16",Доктор
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Доктор.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_16",Доктор
 http://tmptv.sunduk.tv/CH101/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/7669.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7669",Солнце
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/7669.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7669",Солнце
 http://tmptv.sunduk.tv/CH99/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Mezzo.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_575",Mezzo
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Mezzo.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_575",Mezzo
 http://tmptv.sunduk.tv/CH97/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2044",Матч! Футбол 1
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Футбол 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2044",Матч! Футбол 1
 http://tmptv.sunduk.tv/CH95/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Extreme sports.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_extreme-sports-ru",Extreme Sports [RU]
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Extreme sports.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_extreme-sports-ru",Extreme Sports [RU]
 http://tmptv.sunduk.tv/CH93/index.m3u8
-#EXTINF:-1 ,Cartoon Network
+#EXTINF:-1 group-title="RUS" ,Cartoon Network
 http://tmptv.sunduk.tv/CH91/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1683",Россия 24
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Россия 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1683",Россия 24
 http://tmptv.sunduk.tv/CH85/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_223",Nat Geo Wild
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Nat Geo Wild.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_223",Nat Geo Wild
 http://tmptv.sunduk.tv/CH83/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_834",Дом кино
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Дом кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_834",Дом кино
 http://tmptv.sunduk.tv/CH73/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1649",ТНТ4
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/ТНТ4.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1649",ТНТ4
 http://tmptv.sunduk.tv/CH71/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Карусель.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Карусель.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
 http://tmptv.sunduk.tv/CH69/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кухня ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_614",Кухня ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кухня ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_614",Кухня ТВ
 http://tmptv.sunduk.tv/CH65/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/РБК.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_743",РБК
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/РБК.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_743",РБК
 http://tmptv.sunduk.tv/CH59/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_542",Кинохит
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_542",Кинохит
 http://tmptv.sunduk.tv/CH57/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/National Geographic.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_102",National Geographic
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/National Geographic.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_102",National Geographic
 http://tmptv.sunduk.tv/CH53/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Авто Плюс.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_153",Авто Плюс
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Авто Плюс.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_153",Авто Плюс
 http://tmptv.sunduk.tv/CH49/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_821",Кинокомедия
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_821",Кинокомедия
 http://tmptv.sunduk.tv/CH47/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/TLC.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2345",TLC
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/TLC.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2345",TLC
 http://tmptv.sunduk.tv/CH41/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nickelodeon.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_423",Nickelodeon
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Nickelodeon.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_423",Nickelodeon
 http://tmptv.sunduk.tv/CH37/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_365",Animal Planet
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Animal Planet.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_365",Animal Planet
 http://tmptv.sunduk.tv/CH33/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Euronews.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_euronews",EuroNews
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_euronews",EuroNews
 http://tmptv.sunduk.tv/CH31/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2052",Eurosport 1
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Eurosport 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2052",Eurosport 1
 http://tmptv.sunduk.tv/CH29/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_987",Киносемья
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_987",Киносемья
 http://tmptv.sunduk.tv/CH25/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_12",Родное кино
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Родное кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_12",Родное кино
 http://tmptv.sunduk.tv/CH23/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание
 http://tmptv.sunduk.tv/CH21/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Муз-ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_897",Муз-ТВ HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Муз-ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_897",Муз-ТВ HD
 http://tmptv.sunduk.tv/CH19/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica",Пятница!
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Пятница!.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica",Пятница!
 http://tmptv.sunduk.tv/CH17/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТС.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/СТС.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС
 http://tmptv.sunduk.tv/CH15/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt",ТНТ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/ТНТ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt",ТНТ
 http://tmptv.sunduk.tv/CH11/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_match-tv",Матч! ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_match-tv",Матч! ТВ
 http://tmptv.sunduk.tv/CH9/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/НТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
 http://tmptv.sunduk.tv/CH7/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvcentr",ТВ Центр
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvcentr",ТВ Центр
 http://tmptv.sunduk.tv/CH5/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Россия 1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
 http://tmptv.sunduk.tv/CH3/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy",Первый канал
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Первый канал.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy",Первый канал
 http://tmptv.sunduk.tv/CH1/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_929",Cartoonito
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Cartoon Network.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_929",Cartoonito
 http://tmptv.sunduk.tv/CH7951/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/HGTV Home & Garden.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2377",HGTV HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/HGTV Home & Garden.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2377",HGTV HD
 http://tmptv.sunduk.tv/CH7815/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4103",Трофей
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Ретро ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4103",Трофей
 http://tmptv.sunduk.tv/CH7605/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yes1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yes1",yes Movies Drama HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/yes1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yes1",yes Movies Drama HD
 http://tmptv.sunduk.tv/CH7287/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yes2.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yes2",yes Movies Action HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/yes2.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yes2",yes Movies Action HD
 http://tmptv.sunduk.tv/CH7285/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yes3.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yes3",yes Movies Comedy HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/yes3.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yes3",yes Movies Comedy HD
 http://tmptv.sunduk.tv/CH7283/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yes-movies-kids.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yes-movies-kids",yes Movies Kids HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/yes-movies-kids.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_yes-movies-kids",yes Movies Kids HD
 http://tmptv.sunduk.tv/CH7281/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/TLC HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_425",TLC HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/TLC HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_425",TLC HD
 http://tmptv.sunduk.tv/CH6203/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2363",Setanta Sports 2 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Setanta Sports 2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2363",Setanta Sports 2 HD
 http://tmptv.sunduk.tv/CH6187/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7517",Setanta Sports 1 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7517",Setanta Sports 1 HD
 http://tmptv.sunduk.tv/CH6185/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Euronews.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_euronews",EuroNews
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Euronews.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_euronews",EuroNews
 http://tmptv.sunduk.tv/CH6179/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/tv1000-premium.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv1000-premium",Go3 Films
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/tv1000-premium.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv1000-premium",Go3 Films
 http://tmptv.sunduk.tv/CH5665/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sky-sport-f1-de.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sky-sport-f1-de",Sky Sport F1 [DE]
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/sky-sport-f1-de.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sky-sport-f1-de",Sky Sport F1 [DE]
 http://tmptv.sunduk.tv/CH5539/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/VHS TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9065",VHS-ка HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/VHS TV.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9065",VHS-ка HD
 http://tmptv.sunduk.tv/CH5505/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/duo6tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-turbo-baltic",Duo 6 Baltic
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/duo6tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-turbo-baltic",Duo 6 Baltic
 http://tmptv.sunduk.tv/CH5399/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ-Хит.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-serial",НТВ-Сериал
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/НТВ-Хит.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-serial",НТВ-Сериал
 http://tmptv.sunduk.tv/CH5223/index.m3u8
-#EXTINF:-1 ,RTVI Retro
+#EXTINF:-1 group-title="RUS" ,RTVI Retro
 http://tmptv.sunduk.tv/CH4765/index.m3u8
-#EXTINF:-1 ,RTVI USA
+#EXTINF:-1 group-title="RUS" ,RTVI USA
 http://tmptv.sunduk.tv/CH4763/index.m3u8
-#EXTINF:-1 ,Discovery channel HD
+#EXTINF:-1 group-title="RUS" ,Discovery channel HD
 http://tmptv.sunduk.tv/CH4701/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир Баскетбола.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4629",Мир баскетбола
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мир Баскетбола.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4629",Мир баскетбола
 http://tmptv.sunduk.tv/CH4619/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/В гостях у сказки.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2027",В гостях у сказки
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/В гостях у сказки.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2027",В гостях у сказки
 http://tmptv.sunduk.tv/CH4617/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/935.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_935",.black HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/935.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_935",.black HD
 http://tmptv.sunduk.tv/CH4615/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/516.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_516",.sci-fi HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/516.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_516",.sci-fi HD
 http://tmptv.sunduk.tv/CH4613/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мужской.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2444",Мужской
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мужской.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2444",Мужской
 http://tmptv.sunduk.tv/CH4607/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvcentr",ТВ Центр
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/ТВ Центр.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tvcentr",ТВ Центр
 http://tmptv.sunduk.tv/CH4603/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2042",Матч! Страна HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Страна.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2042",Матч! Страна HD
 http://tmptv.sunduk.tv/CH4591/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/РБК.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_743",РБК
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/РБК.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_743",РБК
 http://tmptv.sunduk.tv/CH4589/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Ключ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9156",Ключ HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Ключ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9156",Ключ HD
 http://tmptv.sunduk.tv/CH4587/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Тайны Галактики.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_galaxy-tv",Тайны Галактики
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Тайны Галактики.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_galaxy-tv",Тайны Галактики
 http://tmptv.sunduk.tv/CH4585/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Диалоги о рыбалке.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2627",Диалоги о рыбалке
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Диалоги о рыбалке.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2627",Диалоги о рыбалке
 http://tmptv.sunduk.tv/CH4583/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/360° Новости.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_360-news",360° Новости
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/360° Новости.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_360-news",360° Новости
 http://tmptv.sunduk.tv/CH4579/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zhivi-aktivno",Живи активно HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/zhivi-aktivno.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zhivi-aktivno",Живи активно HD
 http://tmptv.sunduk.tv/CH4549/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Домашний.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Домашний.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний HD
 http://tmptv.sunduk.tv/CH4547/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-24",Мир-24
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-24",Мир-24
 http://tmptv.sunduk.tv/CH4545/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мир.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир HD
 http://tmptv.sunduk.tv/CH4543/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_5979",Глазами туриста 4K
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Глазами туриста.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_5979",Глазами туриста 4K
 http://tmptv.sunduk.tv/CH4541/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Известия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2271",Известия HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Известия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2271",Известия HD
 http://tmptv.sunduk.tv/CH4527/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",РенТВ HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/РЕН ТВ HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",РенТВ HD
 http://tmptv.sunduk.tv/CH4523/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2834",Кинопоказ HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кинопоказ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2834",Кинопоказ HD
 http://tmptv.sunduk.tv/CH4521/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наука.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka-20",Наука 2.0 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Наука.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka-20",Наука 2.0 HD
 http://tmptv.sunduk.tv/CH4489/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_765",viju Nature HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_765",viju Nature HD
 http://tmptv.sunduk.tv/CH4469/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2746",Наша Сибирь 4K
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Наша сибирь.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2746",Наша Сибирь 4K
 http://tmptv.sunduk.tv/CH4465/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Футбол HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2782",Футбол HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Футбол HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2782",Футбол HD
 http://tmptv.sunduk.tv/CH4463/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nano HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nano-hd",Nano HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Nano HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nano-hd",Nano HD
 http://tmptv.sunduk.tv/CH4439/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_821",Кинокомедия HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кинокомедия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_821",Кинокомедия HD
 http://tmptv.sunduk.tv/CH4435/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1003",Пятница! HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Пятница! HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1003",Пятница! HD
 http://tmptv.sunduk.tv/CH4419/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_53",Русский иллюзион HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Русский иллюзион.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_53",Русский иллюзион HD
 http://tmptv.sunduk.tv/CH4407/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Наука.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka",Наука
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Наука.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka",Наука
 http://tmptv.sunduk.tv/CH4259/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bolt-ru",Bolt Россия
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bolt-ru",Bolt Россия
 http://tmptv.sunduk.tv/CH4257/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_102",National Geographic HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/National Geographic HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_102",National Geographic HD
 http://tmptv.sunduk.tv/CH4173/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/49 канал Новосибирск.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль)
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/49 канал Новосибирск.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_9kanal-israel",9 канал (Израиль)
 http://tmptv.sunduk.tv/CH4071/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/curiosity-stream.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_curiosity-stream",Curiosity Stream HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/curiosity-stream.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_curiosity-stream",Curiosity Stream HD
 http://tmptv.sunduk.tv/CH4045/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Авто24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_avto24",Авто24 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Авто24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_avto24",Авто24 HD
 http://tmptv.sunduk.tv/CH4035/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit HD
 http://tmptv.sunduk.tv/CH3887/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1372",Amedia Premium
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Amedia Premium HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1372",Amedia Premium
 http://tmptv.sunduk.tv/CH3885/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_amedia1",Amedia 1 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Amedia Hit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_amedia1",Amedia 1 HD
 http://tmptv.sunduk.tv/CH3883/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_542",Кинохит HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Кинохит.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_542",Кинохит HD
 http://tmptv.sunduk.tv/CH3881/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_987",Киносемья HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Киносемья.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_987",Киносемья HD
 http://tmptv.sunduk.tv/CH3877/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Киносвидание.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_462",Киносвидание HD
 http://tmptv.sunduk.tv/CH3875/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Киномикс.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс HD
 http://tmptv.sunduk.tv/CH3873/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/277.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_277",viju History HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/277.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_277",viju History HD
 http://tmptv.sunduk.tv/CH3871/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/127.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_127",viju TV1000 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/127.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_127",viju TV1000 HD
 http://tmptv.sunduk.tv/CH3869/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/125.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_125",viju TV1000 Action HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/125.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_125",viju TV1000 Action HD
 http://tmptv.sunduk.tv/CH3867/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Хабар 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2578",Хабар 24
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Хабар 24.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2578",Хабар 24
 http://tmptv.sunduk.tv/CH3865/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2051",Матч! HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2051",Матч! HD
 http://tmptv.sunduk.tv/CH3859/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1681",Охотник и рыболов HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Охотник и рыболов HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1681",Охотник и рыболов HD
 http://tmptv.sunduk.tv/CH3851/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Russian Extreme.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2497",Russian Extreme HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Russian Extreme.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2497",Russian Extreme HD
 http://tmptv.sunduk.tv/CH3849/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 3 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2005",Матч! Футбол 3 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Футбол 3 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2005",Матч! Футбол 3 HD
 http://tmptv.sunduk.tv/CH3847/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский роман HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Русский роман.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский роман HD
 http://tmptv.sunduk.tv/CH3845/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мульт HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мульт HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1332",Мульт HD
 http://tmptv.sunduk.tv/CH3843/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_360-podmoskovie",360° Подмосковье HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_360-podmoskovie",360° Подмосковье HD
 http://tmptv.sunduk.tv/CH3841/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1042",Матч! Футбол 2 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Футбол 2 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1042",Матч! Футбол 2 HD
 http://tmptv.sunduk.tv/CH3839/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Игра HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2050",Матч! Игра HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Игра HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2050",Матч! Игра HD
 http://tmptv.sunduk.tv/CH3833/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Extreme sports.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2053",Extreme sports HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Extreme sports.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2053",Extreme sports HD
 http://tmptv.sunduk.tv/CH3831/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2044",Матч! Футбол 1 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Футбол 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2044",Матч! Футбол 1 HD
 http://tmptv.sunduk.tv/CH3829/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Премьер HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2250",Матч! Премьер HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Премьер HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2250",Матч! Премьер HD
 http://tmptv.sunduk.tv/CH3827/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-24",Мир-24
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мир 24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-24",Мир-24
 http://tmptv.sunduk.tv/CH3825/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_162",НТВ HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/НТВ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_162",НТВ HD
 http://tmptv.sunduk.tv/CH3821/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1584",Мужское кино
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мужское кино.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1584",Мужское кино
 http://tmptv.sunduk.tv/CH3817/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2055.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2055",viju+ Sport HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/2055.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2055",viju+ Sport HD
 http://tmptv.sunduk.tv/CH3815/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/RTG HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_648",RTG HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/RTG HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_648",RTG HD
 http://tmptv.sunduk.tv/CH3809/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/FoxLife HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_foxlife",FoxLife HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/FoxLife HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_foxlife",FoxLife HD
 http://tmptv.sunduk.tv/CH3805/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/FOX HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1031",Fox HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/FOX HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1031",Fox HD
 http://tmptv.sunduk.tv/CH3803/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_365",Animal Planet HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Animal Planet HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_365",Animal Planet HD
 http://tmptv.sunduk.tv/CH3801/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_711",Россия 1 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Россия 1 HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_711",Россия 1 HD
 http://tmptv.sunduk.tv/CH3799/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Nat Geo Wild HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_223",Nat Geo Wild HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Nat Geo Wild HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_223",Nat Geo Wild HD
 http://tmptv.sunduk.tv/CH3797/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Discovery Channel HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_325",Discovery Channel HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Discovery Channel HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_325",Discovery Channel HD
 http://tmptv.sunduk.tv/CH3795/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Арена HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2003",Матч! Арена HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Арена HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2003",Матч! Арена HD
 http://tmptv.sunduk.tv/CH3793/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_353",ТНТ HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/ТНТ HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_353",ТНТ HD
 http://tmptv.sunduk.tv/CH3791/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/СТС HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС HD
 http://tmptv.sunduk.tv/CH3789/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/RTVi.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2401",RTVi
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/RTVi.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2401",RTVi
 http://tmptv.sunduk.tv/CH3769/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/penthouse-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_penthouse-hd",Penthouse HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/penthouse-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_penthouse-hd",Penthouse HD
 http://tmptv.sunduk.tv/CH3517/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2777.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2777",Penthouse Gold HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/2777.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2777",Penthouse Gold HD
 http://tmptv.sunduk.tv/CH3479/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Global Star tv.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_6240",Start World
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Global Star tv.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_6240",Start World
 http://tmptv.sunduk.tv/CH3165/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Global Star tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_start-air",Start Air
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Global Star tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_start-air",Start Air
 http://tmptv.sunduk.tv/CH3163/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2028",Моя стихия HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Моя планета.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2028",Моя стихия HD
 http://tmptv.sunduk.tv/CH3099/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/duo3tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-enter",Duo 3 Baltic
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/duo3tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-enter",Duo 3 Baltic
 http://tmptv.sunduk.tv/CH3037/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Матч! Футбол 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4679",Футбольный HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Матч! Футбол 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4679",Футбольный HD
 http://tmptv.sunduk.tv/CH3035/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_3357",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мосфильм. Золотая коллекция.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_3357",Мосфильм. Золотая коллекция
 http://tmptv.sunduk.tv/CH3015/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Хоккейный HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4605",Хоккейный HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Хоккейный HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4605",Хоккейный HD
 http://tmptv.sunduk.tv/CH3013/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Камеди.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2836",Камеди HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Камеди.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2836",Камеди HD
 http://tmptv.sunduk.tv/CH2895/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2142",Настоящее время HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Настоящее страшное ТВ.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2142",Настоящее время HD
 http://tmptv.sunduk.tv/CH2795/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Зал суда.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ufc",Удар ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Зал суда.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ufc",Удар ТВ
 http://tmptv.sunduk.tv/CH2783/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2417",Большая Азия HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Большая Азия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2417",Большая Азия HD
 http://tmptv.sunduk.tv/CH2743/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Известия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2271",Известия
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Известия.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2271",Известия
 http://tmptv.sunduk.tv/CH2703/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2484",Дикая рыбалка HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Дикая рыбалка HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2484",Дикая рыбалка HD
 http://tmptv.sunduk.tv/CH2561/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дикая охота HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2483",Дикая охота HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Дикая охота HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2483",Дикая охота HD
 http://tmptv.sunduk.tv/CH2559/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Мир Premium.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-vokrug",Мир вокруг
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Мир Premium.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-vokrug",Мир вокруг
 http://tmptv.sunduk.tv/CH2557/index.m3u8
-#EXTINF:-1 ,Lolo TV Латвия
+#EXTINF:-1 group-title="RUS" ,Lolo TV Латвия
 http://tmptv.sunduk.tv/CH2547/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/insight-tv-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_insight-tv-hd",Insight TV HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/insight-tv-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_insight-tv-hd",Insight TV HD
 http://tmptv.sunduk.tv/CH2405/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/#Кто куда.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-uvlecheniy",#КтоКуда
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/#Кто куда.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-uvlecheniy",#КтоКуда
 http://tmptv.sunduk.tv/CH2273/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/КВН ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kvn-tv",КВН-ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/КВН ТВ.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kvn-tv",КВН-ТВ
 http://tmptv.sunduk.tv/CH2271/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Уникум.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_66",Уникум HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Уникум.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_66",Уникум HD
 http://tmptv.sunduk.tv/CH2269/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/НТВ-Хит.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-xit",НТВ-Хит
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/НТВ-Хит.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-xit",НТВ-Хит
 http://tmptv.sunduk.tv/CH2105/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bolt-ru",Bolt HD Россия
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Bolt HD.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bolt-ru",Bolt HD Россия
 http://tmptv.sunduk.tv/CH1279/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/vivid-red.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_vivid-red",Vivid Red
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/vivid-red.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_vivid-red",Vivid Red
 http://tmptv.sunduk.tv/CH1187/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Brazzers TV Europe.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2021",Brazzers TV
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Brazzers TV Europe.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2021",Brazzers TV
 http://tmptv.sunduk.tv/CH1185/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Беларусь 5.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2541",Беларусь 5 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Беларусь 5.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2541",Беларусь 5 HD
 http://tmptv.sunduk.tv/CH1175/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Trace Sport Stars.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_5597",Trace Urban HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Trace Sport Stars.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_5597",Trace Urban HD
 http://tmptv.sunduk.tv/CH1029/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7517",Setanta Sports 1 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Setanta Sports 1.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7517",Setanta Sports 1 HD
 http://tmptv.sunduk.tv/CH1013/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1395",Bollywood HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Bollywood HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1395",Bollywood HD
 http://tmptv.sunduk.tv/CH1011/index.m3u8
-#EXTINF:-1 tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2020",Дом кино Премиум HD
+#EXTINF:-1 group-title="RUS" tvg-logo="../Channel/Logo/Дом кино премиум HD.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2020",Дом кино Премиум HD
 http://tmptv.sunduk.tv/CH1009/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/bubokko-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bubokko-tv",БубОкко ТВ
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/bubokko-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bubokko-tv",БубОкко ТВ
 http://tmptv.sunduk.tv/CH17084/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/okko-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_okko-tv",Okko TV
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/okko-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_okko-tv",Okko TV
 http://tmptv.sunduk.tv/CH17081/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/okko-sport.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_okko-sport",Окко Спорт HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/okko-sport.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_okko-sport",Окко Спорт HD
 http://tmptv.sunduk.tv/CH17078/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/okko-sport-2.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_okko-sport-2",Окко Спорт 2 HD
+#EXTINF:-1 group-title="RUS" tvg-logo="https://iptvx.one/picons/okko-sport-2.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_okko-sport-2",Окко Спорт 2 HD
 http://tmptv.sunduk.tv/CH17075/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/9325.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9325",Окко Футбол HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/9325.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9325",Окко Футбол HD
 http://tmptv.sunduk.tv/CH17072/index.m3u8
-#EXTINF:-1 ,Dunyo
+#EXTINF:-1 group-title="RUS" ,Dunyo
 http://tmptv.sunduk.tv/CH10255/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2777.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2777",Penthouse Gold HD
+#EXTINF:-1 group-title="RUS" tvg-logo="http://epg.one/img2/2777.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2777",Penthouse Gold HD
 http://tmptv.sunduk.tv/CH10177/index.m3u8
