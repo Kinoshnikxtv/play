@@ -1,4 +1,22 @@
 #EXTM3U 
+#EXTINF:-1 group-title="Vivacom",Private
+http://213.169.39.30:5036
+#EXTINF:-1 group-title="Vivacom",Dorcel TV
+http://213.169.39.30:5020
+#EXTINF:-1 group-title="Vivacom",TV 1000 Русское кино
+http://213.169.39.30:5006
+#EXTINF:-1 group-title="Vivacom",Настоящее время
+http://213.169.39.30:5241
+#EXTINF:-1 group-title="Vivacom",Перец int.
+http://213.169.39.30:5261
+#EXTINF:-1 group-title="Vivacom",Охота и рыбалка
+http://213.169.39.30:5262
+#EXTINF:-1 group-title="Vivacom",XY Plus
+http://213.169.39.30:5272
+#EXTINF:-1 group-title="Vivacom",СТС Kids
+http://213.169.39.30:5240
+#EXTINF:-1 group-title="Vivacom",Hustler
+http://213.169.39.30:5115
 #EXTINF:-1 group-title="UKR" tvg-logo="https://iptvx.one/picons/1plus1-int.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_1plus1-int",1+1 International
 http://tmptv.sunduk.tv/CH797/index.m3u8
 #EXTINF:-1 group-title="RUS",Уникум
