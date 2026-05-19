@@ -1,0 +1,2640 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1 group-title="Каналы с VPN",TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=tBtLgYgLfhlFUFm52_ZmZg&e=1780163456&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN",TV1000 Action HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=0nXxaVzwTmD1i68ia73ApA&e=1780163439&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN",Viju TV1000 Romantica HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=C5Wsi294DTigZMvRUoE5HA&e=1780163143&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="Каналы с VPN",Cinema SD
+http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", Discovery Channel HD
+http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", HOLLYWOOD HD
+http://5.188.159.128:8070/HOLLYWOOD_HD/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", Кинопремьера
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN", Киносвидание
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.postimg.cc/mDMCsgNL/1.png", IPTVPLAY ВЕДЬМАК
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.postimg.cc/D06WvJWn/1.png", IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВО
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.ibb.co/pbxx3Sd/Fantastika.png", IPTVPLAY ФАНТАСТИКА
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.ibb.co/7gj4dQM/Pamyat.png", IPTVPLAY ПАМЯТЬ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Каналы с VPN" tvg-logo="https://i.ibb.co/LZkQq0x/Uzhastik.png", IPTVPLAY УЖАСТИК
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="Каналы с VPN",Сериал Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Еврокино
+http://vod.tuva.ru/eurokino/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Kино TV
+http://vod.tuva.ru/kinotv/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",НСТ SD
+http://vod.tuva.ru/nst/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",РОМАН
+http://vod.tuva.ru/rusroman/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Наука 2.0
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Alpha Cinema
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Alpha Moretime
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Твоё ТВ HD 
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Твоё ТВ HD Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кино ТВ
+http://31.148.48.15:80/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кино ТВ HD
+http://31.148.48.15:80/Kino_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Кинопоказ
+http://31.148.48.15:80/Kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",ТВ 21
+http://31.148.48.15:80/TV_XXI/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia 1
+http://31.148.48.15:80/A1/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia 2
+http://31.148.48.15:80/A2/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia Hit HD
+http://31.148.48.15:80/Amedia_HIT_HD/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Amedia Premium HD
+http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Sci-Fi
+http://31.148.48.15:80/SONY_SCI_FI/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Hollywood
+http://31.148.48.15:80/AMC/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Hollywood HD
+http://31.148.48.15:80/MGM_HD/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Ностальгия
+http://31.148.48.15:80/Nostalgiya/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Бестселлер
+http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Детектив
+http://31.148.48.15:80/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Иллюзион
+http://31.148.48.15:80/Russkiy_illusion/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Роман
+http://31.148.48.15:80/Russkiy_Roman/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",Роман HD
+http://31.148.48.15:80/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 group-title="Каналы с VPN",SD REX
+http://31.148.48.15:80/Russkiy_Ekstrim/index.m3u8
+
+
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://i.postimg.cc/ZK8brxhb/Kino-Jam.png",KinoJam
+http://kinowalk.hopto.org/kinojam_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://goodgame.ru/files/avatars/av_1676704_9wc1.jpg",MovieToper
+http://kinowalk.hopto.org/movietoper_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkplay.ru/user/18929766/avatar?change_time=1715176122&croped=1&mh=140&mw=140",ZubrilomFranchise
+http://kinowalk.hopto.org/zubrilommusic.ru_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19829671/avatar?change_time=1734328186&croped=1&mh=140&mw=140",wihail
+http://kinowalk.hopto.org/wihail_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19957061/avatar?change_time=1745459243&croped=1&mh=140&mw=140",Scarface
+http://kinowalk.hopto.org/filmomania_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://lastfm.freetls.fastly.net/i/u/300x300/e6ac114abd700e4d57b230a703187a26.jpg",KINOPRO
+http://kinowalk.hopto.org/kinopro_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19223927/avatar?change_time=1753304099&croped=1&mh=140&mw=140",Akudji
+http://kinowalk.hopto.org/akudjitv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20495921/avatar?change_time=1742225886&croped=1&mh=140&mw=140",Мы из 90-х
+http://kinowalk.hopto.org/miiz90x_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://i.imgur.com/FOhNoZe.png",Legion tv
+https://kinowalk.hopto.org/legion-tv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20655827/avatar?change_time=1752925345&croped=1&mh=140&mw=140",Kinofon
+http://kinowalk.hopto.org/kinofon_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://lh3.googleusercontent.com/a/ACg8ocJRCQczrVJsPbG0Q7qgMvphfUBuJiGktsI7wwPXSYxQCcGPBu8=s96-c",EvGAMEN
+http://kinowalk.hopto.org/evgamen_movies_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/19940394/avatar?change_time=1734982742&croped=1&mh=140&mw=140",Фильмы сериалы
+http://kinowalk.hopto.org/dfsfsdg_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20555010/avatar?change_time=1742524384&croped=1&mh=140&mw=140",serial4u
+http://kinowalk.hopto.org/serial4u_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://avatars.mds.yandex.net/i?id=d8bb932a618b126fd382904f1cde2371_sr-5429110-images-thumbs&n=13",Maksim Films
+http://kinowalk.hopto.org/mmaxim0vich_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20292590/avatar?change_time=1746735412&croped=1&mh=140&mw=140",ROMEO Video
+http://kinowalk.hopto.org/romantic_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20745126/avatar?change_time=1746520742&croped=1&mh=140&mw=140",Эквилибриум
+http://kinowalk.hopto.org/equilibrium_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/18725544/avatar?change_time=1764060712&croped=1&mh=140&mw=140",КОМЕДИИ 24/7
+http://kinowalk.hopto.org/cmexye4ku_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/20737705/avatar?change_time=1746958066&croped=1&mh=140&mw=140",Video Channel
+http://kinowalk.hopto.org/video_channel_live
+#EXTINF:-1 group-title="Кинозалы (VPN)" tvg-logo="https://images.live.vkvideo.ru/user/13253802/avatar?change_time=1768739676&croped=1&mh=140&mw=140",Aisman
+http://kinowalk.hopto.org/aisman_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", KINOWALK
+http://kinowalk.hopto.org/kinowalk_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Scripach TV 
+http://kinowalk.hopto.org/scripachtv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Scripach TV 2
+https://kinostreammedia.hopto.org/SCRIPACHTV/index.m3u8
+#EXTINF:-1 group-title="Кинозалы (VPN)", NikNik-TV
+https://hostrec.ru/live/wic2AtEFCLwsZcUkAgtZcjlYgjc.m3u8
+#EXTINF:-1 group-title="Кинозалы (VPN)", KinoMix
+http://kinowalk.hopto.org/yurich_kinomix_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Disney XD
+http://kinowalk.hopto.org/disneyxd_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Play 4 Fun
+http://kinowalk.hopto.org/play4fun_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Astrix116
+http://kinowalk.hopto.org/astrix116_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Kycman
+http://kinowalk.hopto.org/kycman_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Argo_13
+http://kinowalk.hopto.org/argo_13_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", 3JIou TaTapuH
+http://kinowalk.hopto.org/3jiou_tatapuh_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Lisfix
+http://kinowalk.hopto.org/lisfix_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", dj Zour
+http://kinowalk.hopto.org/zsmedia_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", КИНО СТРИМ
+http://kinowalk.hopto.org/kinostreamlive_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", DeVchatA
+http://kinowalk.hopto.org/devchata_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Сериальный мир
+http://kinowalk.hopto.org/serials2025_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Сериальный сериальчик
+http://kinowalk.hopto.org/seriality_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", natanatty
+http://kinowalk.hopto.org/nata.natty_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Назад в СССР
+http://kinowalk.hopto.org/backtotheussr_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Video_Prokat
+http://kinowalk.hopto.org/video_prokat_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", FGS
+http://kinowalk.hopto.org/dscb_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", У КРАЯ БЕЗДНЫ 24/7
+http://kinowalk.hopto.org/ddator_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", zumiBox
+http://kinowalk.hopto.org/zumibox_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", VideoVk
+http://kinowalk.hopto.org/videovk_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", ПикаБУ!
+http://kinowalk.hopto.org/pipa39_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", AASS
+http://kinowalk.hopto.org/aaasss_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Prodigy_movie
+http://kinowalk.hopto.org/roman_prodigy_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", MAX 
+http://kinowalk.hopto.org/maximum_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", InMuNa Live
+http://kinowalk.hopto.org/inmuna_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Тоха Стрим
+http://kinowalk.hopto.org/toxa_stream_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Solo ink
+http://kinowalk.hopto.org/soloink_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Егор Егорыч
+http://kinowalk.hopto.org/yegor_yegorych_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", TopMoment LiVE
+http://kinowalk.hopto.org/topmomentlive_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", VHS кино
+http://kinowalk.hopto.org/and7610_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", VHS Forever
+http://kinowalk.hopto.org/vhs-forever_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", 33 квадратных метра
+http://kinowalk.hopto.org/33metra_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", TimeToMovie
+http://kinowalk.hopto.org/timetomovie_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Blockbusters Time
+http://kinowalk.hopto.org/blockbusterstime_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Dimpon TV
+http://kinowalk.hopto.org/dimpon_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Всё ТВ HD
+http://kinowalk.hopto.org/vsetv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", SeleCaoTV
+http://kinowalk.hopto.org/selecaotv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", SeleCaoTV1
+http://kinowalk.hopto.org/selecaotv1_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", kinolampa
+http://kinowalk.hopto.org/kinolampa_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", VAG KINO 164
+http://kinowalk.hopto.org/vagner164_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", aleksey_24RUS
+http://kinowalk.hopto.org/aleksey_24rus_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", lampoTV
+http://kinowalk.hopto.org/lampotv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", swat2k
+http://kinowalk.hopto.org/swat2k_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Wfliq
+http://kinowalk.hopto.org/wfliq_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", ReanimatoR_VHS
+http://kinowalk.hopto.org/reanimator_vhs_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", КИНОУЖАС HD
+http://kinowalk.hopto.org/kinouzhas_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", ОсторожноМодерн
+http://kinowalk.hopto.org/ostorozhnomodern2_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Video Serial
+http://kinowalk.hopto.org/videoserial_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Канал Disney Онлайн
+http://kinowalk.hopto.org/kanaldisneyonline_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", KINOХИТ HD
+http://kinowalk.hopto.org/4khits_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Тоха Киноман
+http://kinowalk.hopto.org/kinomania_stream_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Alex.Films
+http://kinowalk.hopto.org/alex.films_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", BOSSFILM
+http://kinowalk.hopto.org/bossfilm_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", ZubrilomFilm
+http://kinowalk.hopto.org/zubrilomfilm_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", JTX Online
+http://kinowalk.hopto.org/jtxonline_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", VideoArsenal
+http://kinowalk.hopto.org/videoarsenal_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", SerialTV
+http://kinowalk.hopto.org/serialtv_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Мультфильмы детства
+http://kinowalk.hopto.org/childhood_cartoons_live
+#EXTINF:-1 group-title="Кинозалы (VPN)", Мультфильмы 24/7
+http://kinowalk.hopto.org/mezontrop_live
+
+
+#EXTINF:-1 group-title="KINO+📺",Кинопремьера HD
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОХИТ
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1 group-title="KINO+📺",Кинохит
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОКОМЕДИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1 group-title="KINO+📺",kinomiks
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1 group-title="KINO+📺",Киномикс HD
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕМЬЯ
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1 group-title="KINO+📺",КИНОСЕРИЯ
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1 group-title="KINO+📺",КИНОСВИДАНИЕ
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1 group-title="KINO+📺",Мужское Кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="KINO+📺",МУЖСКОЕ КИНО
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",V Kino COMEDY
+http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju+ Comedy HD
+http://185.46.16.239:8000/VIP_Comedy
+#EXTINF:-1 group-title="KINO+📺",viju+ Megahit HD 
+http://185.46.16.239:8000/VIP_Megahit
+#EXTINF:-1 group-title="KINO+📺",viju+ Premiere HD
+http://185.46.16.239:8000/VIP_Premiere
+#EXTINF:-1 group-title="KINO+📺",VIP Premiere
+http://93.84.105.184:443/vippremiere
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 R Kino
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="KINO+📺",TV1000
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",TV1000 ACTION HD
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000 action
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",viju TV1000
+http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",viju TV1000
+http://178.134.1.158:8081/tv1000/index.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",FILM TV GROUP
+http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="KINO+📺",Новосілки ТБ
+http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="KINO+📺",FILM TV Кінозал
+http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="KINO+📺",Бровари Кіно TV
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",CherTV Заруба + KinoMix
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.kOLvChA3aUIE.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHrPSQ9v/image-15.png" group-title="KINO+📺",KinoMix
+https://ab2262fdd9c5.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.061051251131.channel.QK20f3fCHAGw.m3u8
+#EXTINF:-1 group-title="KINO+📺",Иллюзион+
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:-1 group-title="KINO+📺",illuzion plus
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1 group-title="KINO+📺",Иллюзион plus
+http://176.118.197.101/Illuzion+/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",24 техно
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 group-title="KINO+📺",eurokino
+http://158.101.222.193:88/georgia_play.php?id=eurokino
+#EXTINF:-1 group-title="KINO+📺",Евро кино
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="KINO+📺",ЕВРОКИНО 
+http://176.118.197.101/Evrokino/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино ТВ
+http://185.46.16.239:8000/Kino_TV
+#EXTINF:-1 group-title="KINO+📺",Kino TV
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",КИНОСАТ
+http://5.188.221.43:8080/play/kinosat
+#EXTINF:-1 group-title="KINO+📺",Kineko
+http://31.148.48.15/Kineko/index.m3u8?token=iptv.org.ua
+#EXTINF:-1 group-title="KINO+📺",Видеокассета VHS
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/chunks.m3u8
+#EXTINF:-1 group-title="KINO+📺",K1HO
+https://live20.bozztv.com/giatvplayout7/ushba100/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",KINOSTREAM
+https://live20.bozztv.com/giatvplayout7/ushba102/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="KINO+📺",ЗОВ ТВ Black
+https://live20.bozztv.com/giatv/giatv-tvzovBlackstream/tvzovBlackstream/chunks.m3u8
+#EXTINF:-1 group-title="KINO+📺",STAR CINEMA HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4158
+#EXTINF:-1 group-title="KINO+📺",CINEMA
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",CINEMA sd
+http://94.43.1.138:8081/cinema/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Film UA Drama
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Hollywood
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",hollywood
+http://93.84.105.184:443/hollywoodsd
+#EXTINF:-1 group-title="KINO+📺",Hollywood HD
+http://46.32.176.50/HollywoodHD/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Hollywood hd
+http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="KINO+📺",Индийское Кино
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",Индия
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",zeetv
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="KINO+📺",TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",A1 
+http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia1
+http://93.84.105.184:443/amediasd
+#EXTINF:-1 group-title="KINO+📺",amedia1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="KINO+📺",A2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 group-title="KINO+📺",Amidia Hit HD
+http://194.152.35.17/amedia-hit/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 group-title="KINO+📺",Amedia Premium
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+#EXTINF:-1 group-title="KINO+📺",Red
+http://158.101.222.193:88/georgia_play.php?id=red
+#EXTINF:-1 group-title="KINO+📺",.Red
+http://89.218.32.179:18000/play/a01p
+#EXTINF:-1 group-title="KINO+📺",.sci-fi
+http://158.101.222.193:88/georgia_play.php?id=scifi
+#EXTINF:-1 group-title="KINO+📺",black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1 group-title="KINO+📺",КИНОУЖАС
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="KINO+📺",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",312 KG
+http://176.126.166.43:1935/live/312musik/chunklist_w1516016500.m3u8
+#EXTINF:-1 group-title="KINO+📺",312 Кино  KG
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 3
+https://live20.bozztv.com/giatvplayout7/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 4
+https://live20.bozztv.com/giatvplayout7/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 5
+https://live20.bozztv.com/giatvplayout7/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 6
+https://live20.bozztv.com/giatvplayout7/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 7
+https://live20.bozztv.com/giatvplayout7/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 8
+https://live20.bozztv.com/giatvplayout7/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 9
+https://live20.bozztv.com/giatvplayout7/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 10
+https://live20.bozztv.com/giatvplayout7/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 11
+https://live20.bozztv.com/giatvplayout7/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 12
+https://live20.bozztv.com/giatvplayout7/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 13
+https://live20.bozztv.com/giatvplayout7/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 14
+https://live20.bozztv.com/giatvplayout7/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 15
+https://live20.bozztv.com/giatvplayout7/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 16
+https://live20.bozztv.com/giatvplayout7/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 17
+https://live20.bozztv.com/giatvplayout7/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 18
+https://live20.bozztv.com/giatvplayout7/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 19
+https://live20.bozztv.com/giatvplayout7/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 20
+https://live20.bozztv.com/giatvplayout7/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 21
+https://live20.bozztv.com/giatvplayout7/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 22
+https://live20.bozztv.com/giatvplayout7/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 23
+https://live20.bozztv.com/giatvplayout7/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 24
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 25
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 26
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 27
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 28
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 29
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 30
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 31
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 32
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-k/index.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 33
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 34
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 35
+https://live20.bozztv.com/giatvplayout7/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 36
+https://live20.bozztv.com/giatvplayout7/ushba64/index.m3u8
+#EXTINF:-1 group-title="KINO+📺" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" ,Кинозалы 37
+https://live20.bozztv.com/giatvplayout7/ushba65/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8?token=tva.in.ua
+#EXTINF:-1 group-title="KINO+📺",Ushba-Films
+https://stream.ushba.tv/akamaiushba/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="KINO+📺",TNT
+https://streaming.thestream.cyou/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="KINO+📺",nashanovoekino
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1 group-title="KINO+📺",фЕНИКС plus КИНО
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 group-title="KINO+📺",СТС
+http://5.188.221.43:8080/play/sts
+#EXTINF:-1 group-title="KINO+📺",СТС 720x576
+http://31.131.141.195:8000/play/2030/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",STS
+http://185.46.16.239:8000/STS
+#EXTINF:-1 group-title="KINO+📺",Домашний
+http://5.188.221.43:8080/play/domashniy
+#EXTINF:-1 group-title="KINO+📺",Домашний 720x576
+http://31.131.141.195:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Che TV
+http://194.152.35.17/che/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Че
+http://176.118.197.101/Che/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Че!
+http://5.188.221.43:8080/play/che
+#EXTINF:-1 group-title="KINO+📺",ТV 3
+http://5.188.221.43:8080/play/tv3
+#EXTINF:-1 group-title="KINO+📺",ТВ3
+http://194.152.35.17/tv-3/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",ТV3
+http://176.118.197.101/TB3/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",ТВ 3
+http://31.131.141.195:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Иллюзион
+http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 group-title="KINO+📺",Пятница! International
+http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1 group-title="KINO+📺",Пятница
+http://5.188.221.43:8080/play/Pyatnica
+#EXTINF:-1 group-title="KINO+📺",Пятница 720x576
+http://31.131.141.195:8000/play/2060/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="KINO+📺",perec
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 group-title="KINO+📺",Бел 3 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="KINO+📺",Ретро sd
+http://176.118.197.101/Retro/index.m3u8
+#EXTINF:-1 group-title="KINO+📺",Ретро
+http://93.84.105.184:443/retro
+#EXTINF:-1 group-title="KINO+📺",nostalgy
+http://158.101.222.193:88/georgia_play.php?id=nostalgy
+#EXTINF:-1 group-title="KINO+📺",Ностальгия 
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+
+
+#EXTINF:-1 group-title="Україна 🇺🇦",ПЕРШИЙ HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 UA
+http://m3u8.ott.blue/C5UK_1plus1SD/mpegts?token=94450098895765784220366841698509
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 Україна
+http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 Україна (UA)
+http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 Україна
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384904&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",1+1 INTERNATIONAL
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384901&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",2+2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384902&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",НТН HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384894&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",K1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384892&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",ТЕТ HD
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384903&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",Сонце
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384882&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",УНІАН
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384899&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",БІГУДІ
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384900&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",ОЦЕ
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384908&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",МЕГА
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:F8:22:9D&stream=384893&extension=ts
+#EXTINF:-1 group-title="Україна 🇺🇦",МИ-УКРАЇНА
+http://cdn-bal.srv4you.net/0174/mpegts
+#EXTINF:-1 group-title="Україна 🇺🇦",FILM TV GROUP
+http://filmtvgroup.hopto.org/FILM_TV_GROUP/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Україна 🇺🇦",Новосілки ТБ
+http://filmtvgroup.hopto.org/novosilkiTB/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Україна 🇺🇦",FILM TV Кінозал
+http://filmtvgroup.hopto.org/FILMTVKinozaL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Україна 🇺🇦",Бровари Кіно TV
+https://live20.bozztv.com/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Usba TV - Україна
+https://live20.bozztv.com/giatvplayout7/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Usba TV - Україна 2
+https://live20.bozztv.com/giatvplayout7/ushba12/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",МИ+ УКРАЇНА HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",5 Канал HD
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Армія ТБ
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Перший Кабельний
+http://91.226.35.134:8081/PK 
+#EXTINF:-1 group-title="Україна 🇺🇦",24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",СK 1 
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Нове тв 
+https://novoe.top/nove_tv.m3u8.jpg?m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",TVA
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+#EXTINF:-1 group-title="Україна 🇺🇦",Надія/N.K.
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ТРК Надія - Новий Канал (Первомайский)
+http://178.217.215.57/mob/mystream.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",НТК Коломия
+https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 group-title="Україна 🇺🇦",ТВА tva*org-ua
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",ТВА tva*in-ua
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",33 канал (Хмельницький)
+https://33news.org/33chanel/live/chunklist_w459617257.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",МТМ Запоріжжя
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Перший міський Кривий Ріг
+https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",TV Rivne 1 
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Балта ТВ HD
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="Україна 🇺🇦",Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗЖ
+http://185.57.68.33/40/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",24 техно
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
+http://158.101.222.193:88/georgia_play.php?id=zoo
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ДРАЙВ 20
+http://185.164.82.18:9009/aDxLhVQm_Drive
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета HD
+http://185.46.16.239:8000/Planeta_HD
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
+http://185.46.16.239:8000/Doktor
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая планета
+http://185.46.16.239:8000/Zhivaya_Planeta
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://185.46.16.239:8000/Nauka_2.0
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
+http://hls127.freeott.top:8080/RTG_TV/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикий
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
+https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery
+https://stream8.cinerama.uz/1039/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Приключения
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Первый Космический
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охотник и Рыболов HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая Природа HD
+https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Глазами Туриста
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Вопросы и Ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",В Мире Животных
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",NAT GEO WILD
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Insight TV HD
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка 
+https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая Планета
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Усадьба
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Точка Отрыва
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Здоровое ТВ
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живи Активно HD
+https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живи
+https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Драйв
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто Плюс
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗАГОРОДНЫЙ
+https://stream8.cinerama.uz/1410/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
+http://178.134.1.158:8081/nauka/index.m3u8
+#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",RTG TV
+http://178.124.153.123:44400/rtg
+
+
+#EXTINF:-1 group-title="♥18+", Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1 group-title="♥18+",DORCEL TV HD
+http://81.15.109.89:8001/play/DorcelTV
+#EXTINF:-1 group-title="♥18+",Hustler HD
+http://81.15.109.89:8001/play/Hustler
+#EXTINF:-1 group-title="♥18+",Blue Hustler
+http://81.15.109.89:8001/play/BlueHustler
+#EXTINF:-1 group-title="♥18+",Brazzers TV
+http://81.15.109.89:8001/play/BrazzersTV
+#EXTINF:-1 group-title="♥18+",Private HD
+http://81.15.109.89:8001/play/Private
+#EXTINF:-1 group-title="♥18+",Redlight HD
+http://81.15.109.89:8001/play/Redlight
+#EXTINF:-1 group-title="♥18+",Private HD
+https://de1.dstv.cx/Private/index.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler HD
+https://de1.dstv.cx/Hustler/index.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel HD
+https://de1.dstv.cx/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="♥18+",FrenchLover HD
+https://de1.dstv.cx/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="♥18+",Babes TV
+https://de1.dstv.cx/BabesTV/index.m3u8
+#EXTINF:-1 group-title="♥18+",Reality Kings
+https://de1.dstv.cx/RealityKings/index.m3u8
+#EXTINF:-1 group-title="♥18+",BangU
+https://de1.dstv.cx/BangU/index.m3u8
+#EXTINF:-1 group-title="♥18+",Playboy TV HD
+https://de1.dstv.cx/PlayboyHD/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 1
+https://de1.dstv.cx/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 2
+https://de1.dstv.cx/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 3
+https://de1.dstv.cx/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 4
+https://de1.dstv.cx/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 5
+https://de1.dstv.cx/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 6
+https://de1.dstv.cx/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="♥18+",CENTOXCENTO
+http://94.155.93.182:80/CENTOXCENTO/index.m3u8?token=test
+#EXTINF:-1 group-title="♥18+",PASSIONXXX HD
+http://94.155.93.182:80/PASSIONXXX/index.m3u8?token=test
+#EXTINF:-1 group-title="♥18+",Dorcel HD
+http://162.19.246.113/XXX1/index.m3u8
+#EXTINF:-1 group-title="♥18+",Private HD
+http://162.19.246.113/XXX2/index.m3u8
+#EXTINF:-1 group-title="♥18+",PENTHOUSE HD
+http://162.19.246.113/XXX3/index.m3u8
+#EXTINF:-1 group-title="♥18+",PENTHOUSE GOLD HD
+http://162.19.246.113/XXX4/index.m3u8
+#EXTINF:-1 group-title="♥18+",Blue Hustler
+http://46.149.191.217:9009/play/a025
+#EXTINF:-1 group-title="♥18+",Hustler
+http://46.149.191.217:9009/play/a02a
+#EXTINF:-1 group-title="♥18+",Epic Drama HD
+http://46.149.191.217:9017/play/a00w
+#EXTINF:-1 group-title="♥18+",Private TV
+http://46.149.191.217:9009/play/a020
+#EXTINF:-1 group-title="♥18+",Private HD
+https://srv1.adriatelekom.com/Private/index.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler HD
+https://srv1.adriatelekom.com/Hustler/index.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel HD
+https://srv1.adriatelekom.com/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="♥18+",FrenchLover HD
+https://srv1.adriatelekom.com/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="♥18+",Babes TV
+https://srv1.adriatelekom.com/BabesTV/index.m3u8
+#EXTINF:-1 group-title="♥18+",Reality Kings
+https://srv1.adriatelekom.com/RealityKings/index.m3u8
+#EXTINF:-1 group-title="♥18+",BangU
+https://srv1.adriatelekom.com/BangU/index.m3u8
+#EXTINF:-1 group-title="♥18+",Playboy TV HD
+https://srv1.adriatelekom.com/PlayboyHD/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 1
+https://srv1.adriatelekom.com/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 2
+https://srv1.adriatelekom.com/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 3
+https://srv1.adriatelekom.com/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 4
+https://srv1.adriatelekom.com/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 5
+https://srv1.adriatelekom.com/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 6
+https://srv1.adriatelekom.com/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="♥18+",adult1
+http://143.244.62.109:80/adult1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",adult2
+http://143.244.62.109:80/adult2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",adult3
+http://143.244.62.109:80/adult3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",adult4
+http://143.244.62.109:80/adult4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",adult5
+http://143.244.62.109:80/adult5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",adult6
+http://143.244.62.109:80/adult6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",pinkerotic1
+http://143.244.62.109:80/pinkerotic1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",pinkerotic2
+http://143.244.62.109:80/pinkerotic2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",pinkerotic3
+http://143.244.62.109:80/pinkerotic3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",pinkerotic4
+http://143.244.62.109:80/pinkerotic4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",pinkerotic5
+http://143.244.62.109:80/pinkerotic5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",pinkerotic6
+http://143.244.62.109:80/pinkerotic6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",pinkerotic7
+http://143.244.62.109:80/pinkerotic7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",pinkerotic8
+http://143.244.62.109:80/pinkerotic8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="♥18+",Passion XXX
+http://94.156.59.233:8899/udp/239.10.2.180:30000
+#EXTINF:-1 group-title="♥18+",PassionXXX -2
+http://94.156.59.233:8899/udp/239.10.2.181:30000
+#EXTINF:-1 group-title="♥18+",Passion XXX 3
+http://94.156.59.233:8899/udp/239.10.3.198:30000
+#EXTINF:-1 group-title="♥18+",Pink O -2
+http://94.156.59.233:8899/udp/239.10.2.199:30000
+#EXTINF:-1 group-title="♥18+",Pink O TV
+http://94.156.59.233:8899/udp/239.10.2.198:30000
+#EXTINF:-1 group-title="♥18+",Cento X Cento
+http://94.156.59.233:8899/udp/239.10.3.199:30000
+#EXTINF:-1 group-title="♥18+",XYplus
+http://94.156.59.233:8899/udp/239.10.3.17:30000
+#EXTINF:-1 group-title="♥18+",XY Plus 2
+http://94.156.59.233:8899/udp/239.10.3.18:30000
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 3
+http://143.244.63.87/pinkerotic3/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",PINK EROTIC 2
+http://143.244.63.87/pinkerotic2/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",EROXXX
+http://143.244.63.87/eroxxx/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",adult1
+http://143.244.63.87/adult1/index.m3u8
+#EXTINF:-1 group-title="♥18+",adult2
+http://143.244.63.87/adult2/index.m3u8
+#EXTINF:-1 group-title="♥18+",adult6
+http://143.244.63.87/adult6/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",PLAYBOY TV
+http://31.148.48.15:80/Playboy_TV/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",babestv
+http://212.86.120.82:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="♥18+",bluehustler
+http://212.86.120.82:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="♥18+",cinemanxxxhd
+http://212.86.120.82:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="♥18+",dorceltv
+http://212.86.120.82:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="♥18+",privatetv
+http://212.86.120.82:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="♥18+",Private HD
+http://169.150.255.53/Private/index.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel HD
+http://169.150.255.53/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler HD
+http://169.150.255.53/Hustler/index.m3u8
+#EXTINF:-1 group-title="♥18+",FrenchLover HD
+http://169.150.255.53/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="♥18+",BangU
+http://169.150.255.53/BangU/index.m3u8
+#EXTINF:-1 group-title="♥18+",Playboy TV HD
+http://169.150.255.53/PlayboyHD/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 1
+http://169.150.255.53/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 2
+http://169.150.255.53/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 3
+http://169.150.255.53/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 4
+http://169.150.255.53/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 5
+http://169.150.255.53/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 6
+http://169.150.255.53/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 7
+http://169.150.255.53/PinkErotic7/index.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 8
+http://169.150.255.53/PinkErotic8/index.m3u8
+#EXTINF:-1 group-title="♥18+",Red Lips 18+
+http://tinyurl.com/TvZaTak37/Red_Lips/manifest.m3u8
+#EXTINF:-1 group-title="♥18+",Русская ночь 18+
+http://tinyurl.com/TvZaTak37/Russkaya_Noch/manifest.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler HD XXX
+http://78.130.250.2:8023/play/a03f/index.m3u8
+#EXTINF:-1 group-title="♥18+",Brazzers TV
+http://78.130.250.2:8023/play/a06f/index.m3u8
+#EXTINF:-1 group-title="♥18+",Private HD XXX
+http://78.130.250.2:8023/play/a03h/index.m3u8
+#EXTINF:-1 group-title="♥18+",DORCEL TV HD
+http://78.130.250.2:8023/play/a069/index.m3u8
+#EXTINF:-1 group-title="♥18+",Redlight HD
+http://78.130.250.2:8023/play/a05q/index.m3u8
+#EXTINF:-1 group-title="♥18+",Blue Hustler XXX
+http://78.130.250.2:8023/play/a03g/index.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler HD
+http://79.127.207.193:80/Hustler/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel HD
+http://79.127.207.193:80/DorcelHD/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 1
+http://79.127.207.193:80/PinkErotic1/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 2
+http://79.127.207.193:80/PinkErotic2/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 3
+http://79.127.207.193:80/PinkErotic3/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 4
+http://79.127.207.193:80/PinkErotic4/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 5
+http://79.127.207.193:80/PinkErotic5/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 6
+http://79.127.207.193:80/PinkErotic6/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 7
+http://79.127.207.193:80/PinkErotic7/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Pink Erotic 8
+http://79.127.207.193:80/PinkErotic8/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",DorcelHD
+http://169.150.223.25/DorcelHD/index.m3u8
+#EXTINF:-1 group-title="♥18+",Hustler HD
+http://169.150.223.25/Hustler/index.m3u8
+#EXTINF:-1 group-title="♥18+",Private HD
+http://169.150.223.25/Private/index.m3u8
+#EXTINF:-1 group-title="♥18+",FrenchLover
+http://169.150.223.25/FrenchLover/index.m3u8
+#EXTINF:-1 group-title="♥18+",PinkErotic1
+http://169.150.223.25/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="♥18+",PinkErotic2
+http://169.150.223.25/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="♥18+",PinkErotic3
+http://169.150.223.25/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="♥18+",PinkErotic4
+http://169.150.223.25/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="♥18+",PinkErotic5
+http://169.150.223.25/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="♥18+",PinkErotic6
+http://169.150.223.25/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="♥18+",PinkErotic7
+http://169.150.223.25/PinkErotic7/index.m3u8
+#EXTINF:-1 group-title="♥18+",PinkErotic8
+http://169.150.223.25/PinkErotic8/index.m3u8
+#EXTINF:-1 group-title="♥18+",BangU
+http://169.150.223.25/BangU/index.m3u8
+#EXTINF:-1 group-title="♥18+",penthouse1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1 group-title="♥18+",penthouse2
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1 group-title="♥18+",RK TV
+http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Brazzers
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Desire
+http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Extasy 4K
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel TV
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Eroxxx
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Erox
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Babes TV
+http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",XY MAX
+http://79.124.21.250:8199/play/DiemaSport/index.m3u8
+#EXTINF:-1 group-title="♥18+",Reality Kings TV
+http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Leo TV HD
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Digital Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Brazzers TV Europe
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Dorcel TV HD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Eroxxx HD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Erox
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Extasy TV
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Babes TV
+http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="♥18+",Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+
+#EXTINF:-1 group-title="♥18+",  18+ zamuzhnyaya_no_raskreposhchennaya
+https://video2.tizam.cc/files/2284674/zamuzhnyaya_no_raskreposhchennaya.mp4
+#EXTINF:-1 group-title="♥18+",  18+ 5_klyuchey_k_naslazhdeniyu_1 
+https://video2.tizam.cc/files/1570634/5_klyuchey_k_naslazhdeniyu_1_cd.mp4
+#EXTINF:-1 group-title="♥18+",  18+ 5 ottenkov 
+https://video2.tizam.cc/files/2206650/5_ottenkov_privat___5_shades_of_private.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Anita Dark Forever
+https://video1.tizam.cc/films/anita_dark_navsegda.mp4
+#EXTINF:-1 group-title="♥18+",  18+Private 41
+https://video1.tizam.cc/films/PrivateMovies41FuckyNewYear.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Кульминация Апокалипсиса
+https://video1.tizam.cc/films/Apocalypse-Climax1.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Грязные люди на работе
+https://video1.tizam.cc/films/DirtyMenAtWork.mp4
+#EXTINF:-1 group-title="♥18+",  18+ грязные_девушки
+https://video1.tizam.cc/files/2492463/filthy_girls.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Torn
+https://video1.tizam.cc/vk/Torn-Rus.mp4
+#EXTINF:-1 group-title="♥18+",  18+ расположение макета
+https://video2.tizam.cc/files/1408676/raspolozhenie_layout__2007.mp4
+#EXTINF:-1 group-title="♥18+",  18+ распутница
+https://video2.tizam.cc/files/2215569/rasputnitsa___la_libertine.mp4
+#EXTINF:-1 group-title="♥18+",  18+ ревность
+https://video2.tizam.cc/files/1408706/revnost__jalousie__1994.mp4
+#EXTINF:-1 group-title="♥18+",  18+ приключения робинзона крузо на острове греха
+https://video2.tizam.cc/files/1623843/priklyucheniya_robinzona_kruzo_na_ostrove_greha.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Schone Bescherung
+https://video1.tizam.cc/films/Schone-Bescherung.mp4
+#EXTINF:-1 group-title="♥18+",  18+ розовая тюрьма рус
+https://video2.tizam.cc/files/2224405/rozovaya_tyurma___pink_prison__rus.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Путь Рокко к любви
+https://video1.tizam.cc/vk/Roccos-Way-To-Love.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Роковая Орхидея 1 RUS
+https://video1.tizam.cc/old_films/Fatal-Orchid-RUS.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Роковая Орхидея 2 RUS
+https://video1.tizam.cc/old_films/Fatal-Orchid-2-RUS.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Роскошный 2
+https://video1.tizam.cc/old_films/Luxurious2.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Роскошный 4
+https://video1.tizam.cc/old_films/Luxurious4.mp4
+#EXTINF:-1 group-title="♥18+",  18+ Роскошный 5
+https://video1.tizam.cc/old_films/Luxurious5.mp4
+#EXTINF:-1 group-title="♥18+", НЕВЕСТА
+https://video2.tizam.cc/files/1940967/la_sposa__s_perevodom.mp4
+
+#EXTINF:-1 group-title="♥18+",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="♥18+",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="♥18+",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="♥18+",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="♥18+",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 group-title="♥18+",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 group-title="♥18+",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="♥18+",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 group-title="♥18+",Russian r
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="♥18+",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 group-title="♥18+",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 group-title="♥18+",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 group-title="♥18+",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="♥18+",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="♥18+",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 group-title="♥18+",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 group-title="♥18+",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 group-title="♥18+",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 group-title="♥18+",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 group-title="♥18+",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="♥18+",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 group-title="♥18+",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="♥18+",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 group-title="♥18+",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 group-title="♥18+",NOVXX
+https://novoe.top/nove_tv.m3u8.jpg?m3u8
+
+
+#EXTINF:-1 group-title="♥18+",tva-in-ua-1
+https://ovhv47.twincdn.com/videos/48/48396/48396_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua--2
+https://ovhv47.twincdn.com/videos/48/48591/48591_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-3
+https://ovhv47.twincdn.com/videos/48/48593/48593_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-4
+https://ovhv47.twincdn.com/videos/49/49307/49307_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-5
+https://ovhv47.twincdn.com/videos/7/7316/7316_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-6
+https://ovhv47.twincdn.com/videos/7/7318/7318_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-7
+https://ovhv47.twincdn.com/videos/7/7319/7319_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-8_
+https://ovhv47.twincdn.com/videos/7/7320/7320_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-9
+https://ovhv47.twincdn.com/videos/7/7322/7322_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-10
+https://ovhv47.twincdn.com/videos/7/7323/7323_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-11
+https://ovhv47.twincdn.com/videos/7/7324/7324_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-12
+https://ovhv47.twincdn.com/videos/7/7325/7325_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-13
+https://ovhv47.twincdn.com/videos/7/7326/7326_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-14
+https://ovhv47.twincdn.com/videos/7/7327/7327_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-15
+https://ovhv47.twincdn.com/videos/7/7328/7328_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-16
+https://ovhv47.twincdn.com/videos/7/7329/7329_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-17
+https://ovhv47.twincdn.com/videos/7/7331/7331_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-18
+https://ovhv47.twincdn.com/videos/7/7332/7332_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-19
+https://ovhv47.twincdn.com/videos/7/7337/7337_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-in-ua-20
+https://ovhv47.twincdn.com/videos/7/7545/7545_720p.mp4?key_iptv.org.ua
+
+#EXTINF:-1 group-title="♥18+",tva-xx1
+https://ovhv47.twincdn.com/videos/43/43392/43392_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x1
+https://ovhv47.twincdn.com/videos/43/43393/43393_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x2
+https://ovhv47.twincdn.com/videos/43/43394/43394_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x3
+https://ovhv47.twincdn.com/videos/43/43395/43395_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x4
+https://ovhv47.twincdn.com/videos/43/43390/43390_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x5
+https://ovhv47.twincdn.com/videos/43/43389/43389_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x6
+https://ovhv47.twincdn.com/videos/43/43397/43397_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x7
+https://ovhv47.twincdn.com/videos/43/43398/43398_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x8
+https://ovhv47.twincdn.com/videos/42/42313/42313_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x9
+https://ovhv47.twincdn.com/videos/42/42314/42314_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x10
+https://ovhv47.twincdn.com/videos/42/42315/42315_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x11
+https://ovhv47.twincdn.com/videos/42/42316/42316_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x12
+https://ovhv47.twincdn.com/videos/42/42318/42318_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x13
+https://ovhv47.twincdn.com/videos/42/42321/42321_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x14
+https://ovhv47.twincdn.com/videos/42/42324/42324_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x15
+https://ovhv47.twincdn.com/videos/42/42325/42325_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x16
+https://ovhv47.twincdn.com/videos/42/42331/42331_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x17
+https://ovhv47.twincdn.com/videos/42/42333/42333_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x18
+https://ovhv47.twincdn.com/videos/42/42335/42335_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x19
+https://ovhv47.twincdn.com/videos/42/42339/42339_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x20
+https://ovhv47.twincdn.com/videos/42/42346/42346_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x21
+https://ovhv47.twincdn.com/videos/42/42347/42347_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x22
+https://ovhv47.twincdn.com/videos/42/42348/42348_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x23
+https://ovhv47.twincdn.com/videos/42/42356/42356_720p.mp4?key_iptv.org.ua
+#EXTINF:-1 group-title="♥18+",tva-x24 G
+https://ovhv47.twincdn.com/videos/45/45395/45395_720p.mp4?key_iptv.org.ua
+
+
+#EXTINF:-1 group-title="♥18+", ShaidenRogue на свежем воздухе (14min)
+https://v88188.cdn-d1.com/a98567b9b4cfb4e139bf955377851dfcef86f0cd/video.drive-movie.com/contents/videos/12000/12918/12918fhd.mp4
+#EXTINF:-1 group-title="♥18+", Alyx Star Лесби с Jazmin Luv (12min)
+https://v148173.cdn-d1.com/a98567b9b4cfb4e139bf750a4e37a40eec84f198/video.drive-movie.com/contents/videos/6000/6748/6748.mp4
+#EXTINF:-1 group-title="♥18+", Veronica Leal ЖМЖ(30min)
+https://v88188.cdn-d1.com/a98567b9b4cfb4e139bf41c7c22d28c28498a1a0/video.drive-movie.com/contents/videos/2000/2795/2795.mp4
+
+
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",1
+https://s2.ebacdn.net/videos_ssd3/pornhub/ph62111bd56a3d2/pornhub_ph62111bd56a3d2.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",2
+https://s2.ebacdn.net/videos_ssd2/pornhub/6897cf0e117aa/pornhub_6897cf0e117aa.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",3
+https://s4.ebacdn.net/videos_ssd2/pornhub/666bbc5b4cf26/pornhub_666bbc5b4cf26.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",4
+https://s4.ebacdn.net/videos_ssd3/pornhub/67f7ff294db60/pornhub_67f7ff294db60.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",5
+https://s2.ebacdn.net/videos_ssd1/pornhub/68f526e4215b5/pornhub_68f526e4215b5.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",6
+https://s1.ebacdn.net/videos_ssd2/pornhub/691a0dda5d1c8/pornhub_691a0dda5d1c8.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",7
+https://s3.ebacdn.net/videos_ssd1/pornhub/687ac2ad974fe/pornhub_687ac2ad974fe.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",8
+https://s1.ebacdn.net/videos_ssd3/pornhub/68cd6aed70fd1/pornhub_68cd6aed70fd1.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",9
+https://s3.ebacdn.net/videos_ssd2/pornhub/684b65c8d1ecb/pornhub_684b65c8d1ecb.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",10
+https://s3.ebacdn.net/videos_ssd1/pornhub/68bf28621eddd/pornhub_68bf28621eddd.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",11
+https://s2.ebacdn.net/videos_ssd2/pornhub/68e7fa1797469/pornhub_68e7fa1797469.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",12
+https://s4.ebacdn.net/videos_ssd1/pornhub/688f051571078/pornhub_688f051571078.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",13
+https://s2.ebacdn.net/videos_ssd2/pornhub/68ba0134963cd/pornhub_68ba0134963cd.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",14
+https://s1.ebacdn.net/videos_ssd1/pornhub/68ca8261cd9b0/pornhub_68ca8261cd9b0.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",15
+https://s3.ebacdn.net/videos_ssd1/pornhub/688f8dff61589/pornhub_688f8dff61589.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",16
+https://s4.ebacdn.net/videos_ssd2/pornhub/68adc162bbcec/pornhub_68adc162bbcec.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",17
+https://s4.ebacdn.net/videos_ssd1/pornhub/6885fe1a8fb13/pornhub_6885fe1a8fb13.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",18
+https://s1.ebacdn.net/videos_ssd1/pornhub/64ef9b915ae87/pornhub_64ef9b915ae87.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",19
+https://s3.ebacdn.net/videos_ssd1/pornhub/685418702ae6b/pornhub_685418702ae6b.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",20
+https://s1.ebacdn.net/videos_ssd3/pornhub/6862390eef44d/pornhub_6862390eef44d.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",21
+https://s3.ebacdn.net/videos_ssd3/pornhub/66b345c77ecd1/pornhub_66b345c77ecd1.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",22
+https://s1.ebacdn.net/videos_ssd1/pornhub/68d374e700e36/pornhub_68d374e700e36.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",23
+https://s3.ebacdn.net/videos_ssd1/pornhub/67ee54a190b8d/pornhub_67ee54a190b8d.mp4
+#EXTINF:-1 group-title="👍♥♥♥ Pornohub",24
+https://s4.ebacdn.net/videos_ssd1/pornhub/680f40a25819a/pornhub_680f40a25819a.mp4
+
+
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Action HD
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Comedy HD
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Drama HD
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Fiction HD
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Fresh HD
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Investigation
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Jackie Chan HD
+http://hls127.freeott.top:8080/CPS_Jackie_Chan/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Mix HD
+http://hls127.freeott.top:8080/CPS_Mix/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Anime HD
+http://hls127.freeott.top:8080/CPS_Anime/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Cartoon HD
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",CPS Fresh UA HD
+http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",КИНОСЕРИЯ
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",КИНОПОКАЗ
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Кухня ТВ
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Хит HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наш Киномир
+http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",НСТ
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Про Любовь HD
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Amedia 2
+http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc", Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",VIP Megahit
+http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Индия
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Футбол
+http://hls127.freeott.top:8080/Football/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Матч ТВ
+http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",RTG TV
+http://hls127.freeott.top:8080/RTG_TV/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Дикий
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Наука
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Бобер
+http://hls127.freeott.top:8080/Bober/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",Da Vinci
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 group-title="Cloudflare_Inc",СТС Kids
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+
+
+#EXTINF:-1 group-title="Turon Media",Hollywood
+https://stream8.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",TV1000 Кино
+https://stream8.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",TV1000 ACTION HD
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",TV1000
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Bollywood
+https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Техно 24
+https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Ретро
+https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Кинопоказ
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Наше Новое Кино
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Родное Кино
+https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Кинохит
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",МУЖСКОЕ КИНО
+https://stream8.cinerama.uz/1237/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Киносерия
+https://stream8.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Киносемья
+https://stream8.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Киносвидание
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Кинопремьера
+https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Киномикс
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Кинокомедия
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Индийское Кино
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Капитан Фантастика HD
+https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Дом Кино
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Дорама
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Зоопарк
+https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Здоровое ТВ
+https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Живи Активно HD
+https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Живи
+https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Драйв
+https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Домашние Животные
+https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Кухня ТВ
+https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Доктор
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Приключения
+https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Первый Космический
+https://stream8.cinerama.uz/1415/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Охотник и Рыболов HD
+https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Охота и Рыбалка
+https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Наука
+https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Моя Планета
+https://stream8.cinerama.uz/1247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Живая Природа HD
+https://stream8.cinerama.uz/1411/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Глазами Туриста
+https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Вопросы и Ответы
+https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",В Мире Животных
+https://stream8.cinerama.uz/1404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Viasat Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Viasat History
+https://stream8.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Viasat Explore
+https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",NAT GEO WILD
+https://stream8.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",National Geographic
+https://stream8.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Insight TV HD
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Discovery Science
+https://stream8.cinerama.uz/1040/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Точка Отрыва
+https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Живая Планета
+https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Усадьба
+https://stream8.cinerama.uz/1427/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Авто Плюс
+https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Turon Media",Авто 24
+https://stream8.cinerama.uz/1430/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="ОБИТ",viju Explore
+http://37.46.49.14:18010/play/a02e/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju History
+http://37.46.49.14:18010/play/a02f/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju Nature
+http://37.46.49.14:18010/play/a02g/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju TV1000
+http://37.46.49.14:18010/play/a02d/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju TV1000 action
+http://37.46.49.14:18010/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju TV1000 русское
+http://37.46.49.14:18010/play/a02b/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju+ Comedy
+http://37.46.49.14:18010/play/a02k/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju+ Megahit
+http://37.46.49.14:18010/play/a02j/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju+ Planet
+http://37.46.49.14:18010/play/a02o/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju+ Premiere
+http://37.46.49.14:18010/play/a02i/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju+ Serial
+http://37.46.49.14:18010/play/a02p/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",FilmBox
+http://37.46.49.14:18010/play/a01x/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Hollywood
+http://37.46.49.14:18010/play/a09n/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",.Black
+http://37.46.49.14:18010/play/a00z/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",.Red
+http://37.46.49.14:18010/play/a00x/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",.Sci-Fi
+http://37.46.49.14:18010/play/a00y/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Детский Мир
+http://37.46.49.14:18010/play/a06b/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Живая Планета
+http://37.46.49.14:18010/play/a09k/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Карусель
+http://37.46.49.14:18010/play/a08k/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Кинеко
+http://37.46.49.14:18010/play/a08r/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Комедия
+http://37.46.49.14:18010/play/a09h/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Мульт HD
+http://37.46.49.14:18010/play/a02m/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Охота и Рыбалка
+http://37.46.49.14:18010/play/a02u/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",viju+ Sport
+http://37.46.49.14:18010/play/a02h/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Матч Арена
+http://37.46.49.14:18010/play/a09i/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Матч Боец
+http://37.46.49.14:18010/play/a09g/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Матч Страна
+http://37.46.49.14:18010/play/a09o/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Матч ТВ
+http://37.46.49.14:18010/play/a08i/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Матч Футбол 1
+http://37.46.49.14:18010/play/a09d/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Матч Футбол 2
+http://37.46.49.14:18010/play/a09e/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Матч Футбол 3
+http://37.46.49.14:18010/play/a09f/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Матч! Премьер
+http://37.46.49.14:18010/play/a00w/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Setanta Qazaqstan
+http://37.46.49.14:18010/play/a03h/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Setanta Sport Eurasia
+http://37.46.49.14:18010/play/a03f/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Setanta Sport Eurasia Plus
+http://37.46.49.14:18010/play/a03g/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",Sport Plus Kazakhstan
+http://37.46.49.14:18010/play/a056/index.m3u8
+#EXTINF:-1 group-title="ОБИТ",QAZSPORT HD
+http://37.46.49.14:18010/play/a04c/index.m3u8
+
+
+#EXTINF:-1 group-title="ТЕСТ 01-03-26" tvg-logo="http://pl.ottg.app/icon/2829.png",Shot TV
+http://tinyurl.com/TvZaTak37/SHOT_TV/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-id="A1.ru" tvg-name="а1" tvg-logo="https://i.imgur.com/2pAHdAi.png" group-title="ТЕСТ 01-03-26",Amedia 1 
+http://tinyurl.com/TvZaTak37/Amedia_1/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-id="A2.ru" tvg-name="а2" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="ТЕСТ 01-03-26",Amedia 2 
+http://tinyurl.com/TvZaTak37/Amedia_2_HD/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-id="Bolt.ru" tvg-name="bolt" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="ТЕСТ 01-03-26",BOLT 
+http://tinyurl.com/TvZaTak37/Bolt/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="tv1000 megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="ТЕСТ 01-03-26",viju+ Megahit 
+http://tinyurl.com/TvZaTak37/ViP_Megahit/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="кинопоказ" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="ТЕСТ 01-03-26",Кинопоказ 
+http://tinyurl.com/TvZaTak37/Kinopokaz_HD/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-id="Kinoseriya.ru" tvg-name="киносерия" tvg-logo="https://i.imgur.com/iao7zLZ.png" group-title="ТЕСТ 01-03-26",Киносерия 
+http://tinyurl.com/TvZaTak37/Kinoseriya_HD/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-id="mosfilm" tvg-logo="http://team.ga/images/chIcons/336.png" group-title="ТЕСТ 01-03-26",Мосфильм. Золотая коллекция
+http://tinyurl.com/TvZaTak37/Mosfilm/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-id="NST.ru" tvg-name="нст" tvg-logo="https://i.imgur.com/uv2yxa5.png" group-title="ТЕСТ 01-03-26",НСТ 
+http://tinyurl.com/TvZaTak37/HCTV/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-id="ProLyubov.ru" tvg-name="про любовь" tvg-logo="https://i.imgur.com/QpIGAT0.png" group-title="ТЕСТ 01-03-26",Про любовь 
+http://tinyurl.com/TvZaTak37/ProLubovHD/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-name="cps action" tvg-logo="https://i.ibb.co/GvWH2Yf/image.png" group-title="ТЕСТ 01-03-26",CPS Action 
+http://tinyurl.com/TvZaTak37/CPS_Action/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-name="cps comedy" tvg-logo="https://i.ibb.co/GvWH2Yf/image.png" group-title="ТЕСТ 01-03-26",CPS Comedy 
+http://tinyurl.com/TvZaTak37/CPS_Comedy/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-name="cps drama" tvg-logo="https://i.ibb.co/GvWH2Yf/image.png" group-title="ТЕСТ 01-03-26",CPS Drama 
+http://tinyurl.com/TvZaTak37/CPS_Drama/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-name="cps fiction" tvg-logo="https://i.ibb.co/GvWH2Yf/image.png" group-title="ТЕСТ 01-03-26",CPS Fiction 
+http://tinyurl.com/TvZaTak37/CPS_Fiction/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-name="cps fresh" tvg-logo="https://i.ibb.co/GvWH2Yf/image.png" group-title="ТЕСТ 01-03-26",CPS Fresh 
+http://tinyurl.com/TvZaTak37/CPS_Fresh/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 tvg-name="cps investigation" tvg-logo="https://i.ibb.co/GvWH2Yf/image.png" group-title="ТЕСТ 01-03-26",CPS Investigation 
+http://tinyurl.com/TvZaTak37/CPS_Investigation/video.m3u8?token=iptv.org.ua-key
+#EXTINF:-1 group-title="ТЕСТ 01-03-26",MM Скорость HD
+http://tinyurl.com/TvZaTak37/minimax-skorost-m4f/manifest.m3u8?token=iptv.org.ua-key
+
+
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",.Black
+http://89.218.32.179:18000/play/a01r
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",.Red
+http://89.218.32.179:18000/play/a01p
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",.Sci-Fi
+http://89.218.32.179:18000/play/a01q
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",DocuBox
+http://89.218.32.179:18000/play/a03t
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",FilmBox
+http://89.218.32.179:18000/play/a03x
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Hollywood
+http://89.218.32.179:18000/play/a03e
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",QAZSPORT HD
+http://89.218.32.179:18000/play/a009
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",START Air
+http://89.218.32.179:18000/play/a03s
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",THT
+http://89.218.32.179:18000/play/a00s
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",TV XXI
+http://89.218.32.179:18000/play/a04d
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Terra
+http://89.218.32.179:18000/play/a04k
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",viju Explore
+http://89.218.32.179:18000/play/a02w
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",viju History
+http://89.218.32.179:18000/play/a02x
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",viju Nature
+http://89.218.32.179:18000/play/a02y
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",viju TV1000
+http://89.218.32.179:18000/play/a02v
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",viju TV1000 action
+http://89.218.32.179:18000/play/a02u
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",viju TV1000 новелла
+http://89.218.32.179:18000/play/a030
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",viju TV1000 kino
+http://89.218.32.179:18000/play/a02t
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",viju+ Sport
+http://89.218.32.179:18000/play/a02z
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Авто 24
+http://89.218.32.179:18000/play/a03d
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Домашний
+http://89.218.32.179:18000/play/a01l
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Жетісу
+http://89.218.32.179:18000/play/a004
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Живая Планета
+http://89.218.32.179:18000/play/a03c
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Карусель
+http://89.218.32.179:18000/play/a02r
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Комедия
+http://89.218.32.179:18000/play/a038
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",МУЖСКОЕ КИНО
+http://89.218.32.179:18000/play/a03o
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Матч Арена
+http://89.218.32.179:18000/play/a039
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Матч Боец
+http://89.218.32.179:18000/play/a037
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Матч Игра
+http://89.218.32.179:18000/play/a03b
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Матч ТВ
+http://89.218.32.179:18000/play/a02p
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Матч Футбол 1
+http://89.218.32.179:18000/play/a034
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Матч Футбол 2
+http://89.218.32.179:18000/play/a035
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Матч Футбол 3
+http://89.218.32.179:18000/play/a036
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Матч! Премьер
+http://89.218.32.179:18000/play/a01o
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Моя Планета
+http://89.218.32.179:18000/play/a03i
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Мульт
+http://89.218.32.179:18000/play/a03j
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",МультиМузыка
+http://89.218.32.179:18000/play/a03f
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",НСТВ
+http://89.218.32.179:18000/play/a03n
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Наука
+http://89.218.32.179:18000/play/a03h
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",СТС Love
+http://89.218.32.179:18000/play/a01m
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Синема
+http://89.218.32.179:18000/play/a043
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Че ТВ
+http://89.218.32.179:18000/play/a04j
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Ю ТВ
+http://89.218.32.179:18000/play/a01i
+
+
+#EXTINF:-1 group-title="KazTransCom",Discovery Channel
+http://77.245.98.18:8000/play/a01j
+#EXTINF:-1 group-title="KazTransCom",В мире животных
+http://77.245.98.18:8000/play/a00k
+#EXTINF:-1 group-title="KazTransCom",Travel+Adventure
+http://77.245.98.18:8000/play/Travel_and_Adventure
+#EXTINF:-1 group-title="KazTransCom",National Geographic
+http://77.245.98.18:8000/play/a00u
+#EXTINF:-1 group-title="KazTransCom",Nat Geo Wild
+http://77.245.98.18:8000/play/a00v
+#EXTINF:-1 group-title="KazTransCom",Travelxp HD
+http://77.245.98.18:8000/play/a00n
+#EXTINF:-1 group-title="KazTransCom",Живая природа
+http://77.245.98.18:8000/play/a00m
+#EXTINF:-1 group-title="KazTransCom",ЖИВИ АКТИВНО
+http://77.245.98.18:8000/play/a012
+#EXTINF:-1 group-title="KazTransCom",Amedia HIT HD
+http://77.245.98.18:8000/play/a00p
+#EXTINF:-1 group-title="KazTransCom",Euronews
+http://77.245.98.18:8000/play/a007
+#EXTINF:-1 group-title="KazTransCom",Fox
+http://77.245.98.18:8000/play/a00w
+#EXTINF:-1 group-title="KazTransCom",Индийское кино
+http://77.245.98.18:8000/play/a01f
+#EXTINF:-1 group-title="KazTransCom",Кинопремьера HD
+http://77.245.98.18:8000/play/a01g
+#EXTINF:-1 group-title="KazTransCom",Киносемья
+http://77.245.98.18:8000/play/a02h
+#EXTINF:-1 group-title="KazTransCom",МУЖСКОЕ КИНО
+http://77.245.98.18:8000/play/a01o
+#EXTINF:-1 group-title="KazTransCom",Кинохит
+http://77.245.98.18:8000/play/a01h
+#EXTINF:-1 group-title="KazTransCom",Киносерия
+http://77.245.98.18:8000/play/a00x
+#EXTINF:-1 group-title="KazTransCom",Vip Comedy
+http://77.245.98.18:8000/play/a011
+#EXTINF:-1 group-title="KazTransCom",Vip Megahit
+http://77.245.98.18:8000/play/a010
+#EXTINF:-1 group-title="KazTransCom",Vip Premiere
+http://77.245.98.18:8000/play/a00z
+#EXTINF:-1 group-title="KazTransCom",Start World
+http://77.245.98.18:8000/play/a02c
+#EXTINF:-1 group-title="KazTransCom",TLC
+http://77.245.98.18:8000/play/a01k
+#EXTINF:-1 group-title="KazTransCom",Домашний
+http://77.245.98.18:8000/play/a01n
+#EXTINF:-1 group-title="KazTransCom",Дорама
+http://77.245.98.18:8000/play/a004
+#EXTINF:-1 group-title="KazTransCom",Индия
+http://77.245.98.18:8000/play/a002
+#EXTINF:-1 group-title="KazTransCom",Кухня ТВ
+http://77.245.98.18:8000/play/a01l
+#EXTINF:-1 group-title="KazTransCom", Золотая коллекция
+http://77.245.98.18:8000/play/a01i
+#EXTINF:-1 group-title="KazTransCom",Алматы
+http://77.245.98.18:8000/play/15
+#EXTINF:-1 group-title="KazTransCom",Balapan
+http://77.245.98.18:8000/play/a00e
+#EXTINF:-1 group-title="KazTransCom",В гостях у сказки
+http://77.245.98.18:8000/play/a023
+#EXTINF:-1 group-title="KazTransCom",Киномульт
+http://77.245.98.18:8000/play/a015
+#EXTINF:-1 group-title="KazTransCom",Nick Jr
+http://77.245.98.18:8000/play/a00a
+#EXTINF:-1 group-title="KazTransCom",Nickelodeon
+http://77.245.98.18:8000/play/a005
+#EXTINF:-1 group-title="KazTransCom",Мультиландия
+http://77.245.98.18:8000/play/a01p
+#EXTINF:-1 group-title="KazTransCom",TiJi
+http://77.245.98.18:8000/play/a01w
+#EXTINF:-1 group-title="KazTransCom",КХЛ HD
+http://77.245.98.18:8000/play/a016
+#EXTINF:-1 group-title="KazTransCom",Бокс ТВ
+http://77.245.98.18:8000/play/a017
+#EXTINF:-1 group-title="KazTransCom",Viasat sport
+http://77.245.98.18:8000/play/a00j
+#EXTINF:-1 group-title="KazTransCom",Eurosport 1 HD
+http://77.245.98.18:8000/play/a00h
+#EXTINF:-1 group-title="KazTransCom",Q Sport League
+http://77.245.98.18:8000/play/a00c
+#EXTINF:-1 group-title="KazTransCom",Q Sport Arena
+http://77.245.98.18:8000/play/a00d
+#EXTINF:-1 group-title="KazTransCom",QAZSPORT HD
+http://77.245.98.18:8000/play/529
+#EXTINF:-1 group-title="KazTransCom",Матч! Планета
+http://77.245.98.18:8000/play/a006
+
+
+#EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ-JK",Fantastika
+http://pl.online24.pm/play/50011/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="wednesday" group-title="КІНОЗАЛИ-JK",Wednesday
+http://pl.online24.pm/play/50005/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="the_last_of_us" group-title="КІНОЗАЛИ-JK",The_Last_of_Us
+http://pl.online24.pm/play/50006/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="house_ukr" group-title="КІНОЗАЛИ-JK",House_ukr
+http://pl.online24.pm/play/50007/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="gubka bob" group-title="КІНОЗАЛИ-JK",Gubka bob
+http://pl.online24.pm/play/50008/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="love" group-title="КІНОЗАЛИ-JK",Love
+http://pl.online24.pm/play/50009/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_alf" group-title="КІНОЗАЛИ-JK",jk_Alf
+http://pl.online24.pm/play/50001/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_grimm" group-title="КІНОЗАЛИ-JK",jk_grimm
+http://pl.online24.pm/play/50010/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_kids" group-title="КІНОЗАЛИ-JK",jk_kids
+http://pl.online24.pm/play/50012/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_black_cloak" group-title="КІНОЗАЛИ-JK",jk_black_cloak
+http://pl.online24.pm/play/50013/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_futurama" group-title="КІНОЗАЛИ-JK",jk_futurama
+http://pl.online24.pm/play/50014/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_ducks" group-title="КІНОЗАЛИ-JK",jk_ducks
+http://pl.online24.pm/play/50015/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_csi_ny" group-title="КІНОЗАЛИ-JK",jk_csi_NY
+http://pl.online24.pm/play/50016/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_csi_vegas" group-title="КІНОЗАЛИ-JK",jk_csi_vegas
+http://pl.online24.pm/play/50017/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_csi_m" group-title="КІНОЗАЛИ-JK",jk_csi_m
+http://pl.online24.pm/play/50018/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_90" group-title="КІНОЗАЛИ-JK",jk_90
+http://pl.online24.pm/play/50019/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_got" group-title="КІНОЗАЛИ-JK",jk_GoT
+http://pl.online24.pm/play/50020/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_x_files" group-title="КІНОЗАЛИ-JK",jk_x_files
+http://pl.online24.pm/play/50021/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_house_dragon" group-title="КІНОЗАЛИ-JK",jk_House_Dragon
+http://pl.online24.pm/play/50022/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_sherlock" group-title="КІНОЗАЛИ-JK",jk_Sherlock
+http://pl.online24.pm/play/50023/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_gostri_kartuz" group-title="КІНОЗАЛИ-JK",jk_Gostri_Kartuz
+http://pl.online24.pm/play/50024/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_vedmak" group-title="КІНОЗАЛИ-JK",jk_Vedmak
+http://pl.online24.pm/play/50025/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_panda" group-title="КІНОЗАЛИ-JK",jk_panda
+http://pl.online24.pm/play/50026/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_ledi_bag" group-title="КІНОЗАЛИ-JK",jk_ledi_Bag
+http://pl.online24.pm/play/50027/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_twin_peaks" group-title="КІНОЗАЛИ-JK",jk_Twin_Peaks
+http://pl.online24.pm/play/50028/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_poirot" group-title="КІНОЗАЛИ-JK",jk_Poirot
+http://pl.online24.pm/play/50029/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_boys" group-title="КІНОЗАЛИ-JK",jk_boys
+http://pl.online24.pm/play/50030/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_dexter" group-title="КІНОЗАЛИ-JK",jk_Dexter
+http://pl.online24.pm/play/50031/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_castle" group-title="КІНОЗАЛИ-JK",jk_Castle
+http://pl.online24.pm/play/50032/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_brookllyn" group-title="КІНОЗАЛИ-JK",jk_brookllyn
+http://pl.online24.pm/play/50033/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_fubar" group-title="КІНОЗАЛИ-JK",jk_FUBAR
+http://pl.online24.pm/play/50034/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_kosty" group-title="КІНОЗАЛИ-JK",jk_kosty
+http://pl.online24.pm/play/50035/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_berega" group-title="КІНОЗАЛИ-JK",jk_berega
+http://pl.online24.pm/play/50036/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_mel" group-title="КІНОЗАЛИ-JK",jk_Mel
+http://pl.online24.pm/play/50037/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_lie_to_me" group-title="КІНОЗАЛИ-JK",jk_Lie_To_Me
+http://pl.online24.pm/play/50038/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_muhtesem" group-title="КІНОЗАЛИ-JK",jk_Muhtesem
+http://pl.online24.pm/play/50039/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_van_dame" group-title="КІНОЗАЛИ-JK",jk_Van_Dame
+http://pl.online24.pm/play/50040/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_sexsity" group-title="КІНОЗАЛИ-JK",jk_sexsity
+http://pl.online24.pm/play/50041/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_desperate_ukr" group-title="КІНОЗАЛИ-JK",jk_desperate_ukr
+http://pl.online24.pm/play/50042/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_colombo" group-title="КІНОЗАЛИ-JK",jk_Colombo
+http://pl.online24.pm/play/50043/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_ben_holly" group-title="КІНОЗАЛИ-JK",jk_Ben_Holly
+http://pl.online24.pm/play/50044/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_american_dad" group-title="КІНОЗАЛИ-JK",jk_American_Dad
+http://pl.online24.pm/play/50045/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_gravity_falls" group-title="КІНОЗАЛИ-JK",jk_Gravity_Falls
+http://pl.online24.pm/play/50046/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_grifins" group-title="КІНОЗАЛИ-JK",jk_Grifins
+http://pl.online24.pm/play/50047/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_south_park" group-title="КІНОЗАЛИ-JK",jk_South_Park
+http://pl.online24.pm/play/50048/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_pepa_pig" group-title="КІНОЗАЛИ-JK",jk_Pepa_pig
+http://pl.online24.pm/play/50049/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_robocar_poli" group-title="КІНОЗАЛИ-JK",jk_Robocar_Poli
+http://pl.online24.pm/play/50050/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_paw_patrol" group-title="КІНОЗАЛИ-JK",jk_PAW_Patrol
+http://pl.online24.pm/play/50051/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_your_mother" group-title="КІНОЗАЛИ-JK",jk_Your_mother
+http://pl.online24.pm/play/50052/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_big_bang" group-title="КІНОЗАЛИ-JK",jk_Big_Bang
+http://pl.online24.pm/play/50053/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_cinema" group-title="КІНОЗАЛИ-JK",jk_Cinema
+http://pl.online24.pm/play/50054/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_cinema2" group-title="КІНОЗАЛИ-JK",jk_Cinema2
+http://pl.online24.pm/play/50055/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_cinema3" group-title="КІНОЗАЛИ-JK",jk_Cinema3
+http://pl.online24.pm/play/50056/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_gorets" group-title="КІНОЗАЛИ-JK",jk_gorets
+http://pl.online24.pm/play/50057/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_doku_ukraine" group-title="КІНОЗАЛИ-JK",jk_doku_Ukraine
+http://pl.online24.pm/play/50058/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_serial" group-title="КІНОЗАЛИ-JK",jk_serial
+http://pl.online24.pm/play/50059/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_magic" group-title="КІНОЗАЛИ-JK",jk_Magic
+http://pl.online24.pm/play/50060/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_criminal" group-title="КІНОЗАЛИ-JK",jk_Criminal
+http://pl.online24.pm/play/50061/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_90210" group-title="КІНОЗАЛИ-JK",jk_90210
+http://pl.online24.pm/play/50062/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_rik_i_marti" group-title="КІНОЗАЛИ-JK",jk_Rik_i_Marti
+http://pl.online24.pm/play/50063/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_mentalist" group-title="КІНОЗАЛИ-JK",jk_mentalist
+http://pl.online24.pm/play/50064/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_dram" group-title="КІНОЗАЛИ-JK",jk_dram
+http://pl.online24.pm/play/50065/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_fineas" group-title="КІНОЗАЛИ-JK",jk_fineas
+http://pl.online24.pm/play/50066/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_ograblenie" group-title="КІНОЗАЛИ-JK",jk_ograblenie
+http://pl.online24.pm/play/50067/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_strah" group-title="КІНОЗАЛИ-JK",jk_strah
+http://pl.online24.pm/play/50068/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_sliders" group-title="КІНОЗАЛИ-JK",jk_Sliders
+http://pl.online24.pm/play/50069/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_succession" group-title="КІНОЗАЛИ-JK",jk_Succession
+http://pl.online24.pm/play/50070/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_korona" group-title="КІНОЗАЛИ-JK",jk_korona
+http://pl.online24.pm/play/50071/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_money_heist" group-title="КІНОЗАЛИ-JK",jk_Money_Heist
+http://pl.online24.pm/play/50072/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_lost" group-title="КІНОЗАЛИ-JK",jk_lost
+http://pl.online24.pm/play/50073/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_office" group-title="КІНОЗАЛИ-JK",jk_office
+http://pl.online24.pm/play/50074/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_scrubs" group-title="КІНОЗАЛИ-JK",jk_Scrubs
+http://pl.online24.pm/play/50075/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_house_of_cards" group-title="КІНОЗАЛИ-JK",jk_house_of_cards
+http://pl.online24.pm/play/50076/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_element" group-title="КІНОЗАЛИ-JK",jk_element
+http://pl.online24.pm/play/50077/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_buffy" group-title="КІНОЗАЛИ-JK",jk_Buffy
+http://pl.online24.pm/play/50078/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_melrose_place" group-title="КІНОЗАЛИ-JK",jk_Melrose_Place
+http://pl.online24.pm/play/50079/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_black_mirror" group-title="КІНОЗАЛИ-JK",jk_Black_Mirror
+http://pl.online24.pm/play/50080/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_stargate" group-title="КІНОЗАЛИ-JK",jk_Stargate
+http://pl.online24.pm/play/50081/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_formula" group-title="КІНОЗАЛИ-JK",jk_formula
+http://pl.online24.pm/play/50082/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_only_murders" group-title="КІНОЗАЛИ-JK",jk_Only_Murders
+http://pl.online24.pm/play/50083/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_detektiv" group-title="КІНОЗАЛИ-JK",jk_detektiv
+http://pl.online24.pm/play/50084/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_biograf" group-title="КІНОЗАЛИ-JK",jk_biograf
+http://pl.online24.pm/play/50085/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_ncis" group-title="КІНОЗАЛИ-JK",jk_NCIS
+http://pl.online24.pm/play/50086/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_speed" group-title="КІНОЗАЛИ-JK",jk_speed
+http://pl.online24.pm/play/50087/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_call_saul" group-title="КІНОЗАЛИ-JK",jk_Call_Saul
+http://pl.online24.pm/play/50088/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_dark" group-title="КІНОЗАЛИ-JK",jk_dark
+http://pl.online24.pm/play/50089/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_heroes" group-title="КІНОЗАЛИ-JK",jk_Heroes
+http://pl.online24.pm/play/50090/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_balance" group-title="КІНОЗАЛИ-JK",jk_balance
+http://pl.online24.pm/play/50091/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_timon" group-title="КІНОЗАЛИ-JK",jk_timon
+http://pl.online24.pm/play/50092/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_pingvins" group-title="КІНОЗАЛИ-JK",jk_pingvins
+http://pl.online24.pm/play/50093/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_cartoon" group-title="КІНОЗАЛИ-JK",jk_Cartoon
+http://pl.online24.pm/play/50094/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_flintstones" group-title="КІНОЗАЛИ-JK",jk_Flintstones
+http://pl.online24.pm/play/50095/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_lilo" group-title="КІНОЗАЛИ-JK",jk_Lilo
+http://pl.online24.pm/play/50096/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_rusaloshka" group-title="КІНОЗАЛИ-JK",jk_rusaloshka
+http://pl.online24.pm/play/50097/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_aladin" group-title="КІНОЗАЛИ-JK",jk_aladin
+http://pl.online24.pm/play/50098/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_chip_dale" group-title="КІНОЗАЛИ-JK",jk_Chip_Dale
+http://pl.online24.pm/play/50099/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_arnold" group-title="КІНОЗАЛИ-JK",jk_arnold
+http://pl.online24.pm/play/50100/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_tomjery" group-title="КІНОЗАЛИ-JK",jk_TomJery
+http://pl.online24.pm/play/50101/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_winx" group-title="КІНОЗАЛИ-JK",jk_Winx
+http://pl.online24.pm/play/50102/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_morning_show" group-title="КІНОЗАЛИ-JK",jk_Morning_Show
+http://pl.online24.pm/play/50103/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_ritchie" group-title="КІНОЗАЛИ-JK",jk_Ritchie
+http://pl.online24.pm/play/50104/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_scorsese" group-title="КІНОЗАЛИ-JK",jk_Scorsese
+http://pl.online24.pm/play/50105/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_spilberg" group-title="КІНОЗАЛИ-JK",jk_Spilberg
+http://pl.online24.pm/play/50106/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_kopola" group-title="КІНОЗАЛИ-JK",jk_Kopola
+http://pl.online24.pm/play/50107/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_skott" group-title="КІНОЗАЛИ-JK",jk_Skott
+http://pl.online24.pm/play/50108/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_tarantino" group-title="КІНОЗАЛИ-JK",jk_Tarantino
+http://pl.online24.pm/play/50109/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_kameron" group-title="КІНОЗАЛИ-JK",jk_Kameron
+http://pl.online24.pm/play/50110/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_besson" group-title="КІНОЗАЛИ-JK",jk_Besson
+http://pl.online24.pm/play/50111/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_nolan" group-title="КІНОЗАЛИ-JK",jk_Nolan
+http://pl.online24.pm/play/50112/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_relax" group-title="КІНОЗАЛИ-JK",jk_relax
+http://pl.online24.pm/play/50113/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_king" group-title="КІНОЗАЛИ-JK",jk_King
+http://pl.online24.pm/play/50114/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_crowe" group-title="КІНОЗАЛИ-JK",jk_Crowe
+http://pl.online24.pm/play/50115/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_reeves" group-title="КІНОЗАЛИ-JK",jk_Reeves
+http://pl.online24.pm/play/50116/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_hemsworth" group-title="КІНОЗАЛИ-JK",jk_Hemsworth
+http://pl.online24.pm/play/50117/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_butler" group-title="КІНОЗАЛИ-JK",jk_Butler
+http://pl.online24.pm/play/50118/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_kunis" group-title="КІНОЗАЛИ-JK",jk_Kunis
+http://pl.online24.pm/play/50119/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_neeson" group-title="КІНОЗАЛИ-JK",jk_Neeson
+http://pl.online24.pm/play/50120/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_scorpion" group-title="КІНОЗАЛИ-JK",jk_Scorpion
+http://pl.online24.pm/play/50122/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_duva" group-title="КІНОЗАЛИ-JK",jk_duva
+http://pl.online24.pm/play/50123/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_emeli" group-title="КІНОЗАЛИ-JK",jk_Emeli
+http://pl.online24.pm/play/50124/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="jk_rizdvo" group-title="КІНОЗАЛИ-JK",jk_rizdvo
+http://pl.online24.pm/play/50125/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ-JK",Хіт Комедія
+http://pl.online24.pm/play/1952/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ-JK",Хіт Бойовик
+http://pl.online24.pm/play/1951/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ-JK",Sweet Kino HD
+http://pl.online24.pm/play/1886/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ-JK",Одного разу під Полтавою
+http://pl.online24.pm/play/1964/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ-JK",На трьох
+http://pl.online24.pm/play/1963/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="Liberty" group-title="КІНОЗАЛИ-JK",Liberty Кино UKR HD
+http://pl.online24.pm/play/7068/F6E1DD42544DD10/video.m3u8
+#EXTINF:-1 tvg-name="fantastika" group-title="КІНОЗАЛИ-JK",Різдво
+http://pl.online24.pm/play/50125/F6E1DD42544DD10/video.m3u8
+
+
+#EXTINF:-1 group-title="IZONE", Кухня ТВ
+http://46.32.176.50/kuxnyatv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Домашние Животные
+http://46.32.176.50/domashniejivotnie/index.m3u8
+#EXTINF:-1 group-title="IZONE", Поехали!
+http://46.32.176.50/poexali/index.m3u8
+#EXTINF:-1 group-title="IZONE", Телекафе
+http://46.32.176.50/telekafe/index.m3u8
+#EXTINF:-1 group-title="IZONE", Живая Планета
+http://46.32.176.50/jivayaplaneta/index.m3u8
+#EXTINF:-1 group-title="IZONE", Авто24
+http://46.32.176.50/avto24/index.m3u8
+#EXTINF:-1 group-title="IZONE", Авто Плюс
+http://46.32.176.50/avtoplyus/index.m3u8
+#EXTINF:-1 group-title="IZONE", Наука
+http://46.32.176.50/nauka/index.m3u8
+#EXTINF:-1 group-title="IZONE", Моя планета
+http://46.32.176.50/moyaplaneta/index.m3u8
+#EXTINF:-1 group-title="IZONE", Big Planet 
+http://46.32.176.50/bigplanet/index.m3u8
+#EXTINF:-1 group-title="IZONE", Animal Planet
+http://46.32.176.50/animalplanet/index.m3u8
+#EXTINF:-1 group-title="IZONE", Animal Planet HD
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat explore
+http://46.32.176.50/viasatexplorer/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat history
+http://46.32.176.50/viasathistory/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat Nature
+http://46.32.176.50/viasatnature/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat Nature HD
+http://46.32.176.50/ViasatNatureHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Дикий
+http://46.32.176.50/dikiy/index.m3u8
+#EXTINF:-1 group-title="IZONE", History HD
+http://46.32.176.50/HistoryHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", TLC
+http://46.32.176.50/tlc/index.m3u8
+#EXTINF:-1 group-title="IZONE", Охота и Рыбалка
+http://46.32.176.50/oxotoiribalka/index.m3u8
+#EXTINF:-1 group-title="IZONE", Nat Geo Wild HD
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Nat Geo Wild 
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 group-title="IZONE", Discovery Channel
+http://46.32.176.50/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="IZONE", Discovery Channel HD
+http://46.32.176.50/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="IZONE", National Geographic
+http://46.32.176.50/nationalgeographic/index.m3u8
+#EXTINF:-1 group-title="IZONE", National Geographic HD
+http://46.32.176.50/NationalGeographicHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Зоопарк
+http://46.32.176.50/zoopark/index.m3u8
+#EXTINF:-1 group-title="IZONE", TV 1000
+http://46.32.176.50/tv1000/index.m3u8
+#EXTINF:-1 group-title="IZONE", TV 1000 Action
+http://46.32.176.50/tv1000action/index.m3u8
+#EXTINF:-1 group-title="IZONE", Иллюзион+
+http://46.32.176.50/illuzion/index.m3u8
+#EXTINF:-1 group-title="IZONE",  Иллюзион
+http://46.32.176.50/russkiyiluzion/index.m3u8
+#EXTINF:-1 group-title="IZONE", Еврокино
+http://46.32.176.50/eurokino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мир сериала
+http://46.32.176.50/mirseriala/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мужское кино HD
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Hollywood HD
+http://46.32.176.50/HollywoodHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Megahit HD
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Premiere HD
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Comedy HD
+http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Serial HD
+http://46.32.176.50/ViasatSportHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Дом кино
+http://46.32.176.50/domkino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Дом Кино Премиум HD
+http://46.32.176.50/DomKinoPremiumHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", НСТ
+http://46.32.176.50/nst/index.m3u8
+#EXTINF:-1 group-title="IZONE", .Black
+http://46.32.176.50/sonyturbo/index.m3u8
+#EXTINF:-1 group-title="IZONE", .Sci-Fi
+http://46.32.176.50/sonyscifi/index.m3u8
+#EXTINF:-1 group-title="IZONE", TV XXI
+http://46.32.176.50/tv21/index.m3u8
+#EXTINF:-1 group-title="IZONE", Plan B
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1 group-title="IZONE",  Детектив
+http://46.32.176.50/russkiydetektiv/index.m3u8
+#EXTINF:-1 group-title="IZONE",  Роман
+http://46.32.176.50/russkiyroman/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кинохит
+http://46.32.176.50/kinoxit/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киносерия HD
+http://46.32.176.50/kinoseria/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киномикс HD
+http://46.32.176.50/kinomiks/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киносемья HD
+http://46.32.176.50/kinosemya/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кинокомедия
+http://46.32.176.50/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="IZONE", Индийское Кино
+http://46.32.176.50/indiskoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киносвидание
+http://46.32.176.50/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="IZONE", Родное Кино
+http://46.32.176.50/rodnoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia 1
+http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia 2
+http://46.32.176.50/amedia2/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Hit
+http://46.32.176.50/amediahit/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Premium
+http://46.32.176.50/AmediaPremium/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Premium HD
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Любимое Кино
+http://46.32.176.50/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кинеко
+http://46.32.176.50/foxrussia/index.m3u8
+#EXTINF:-1 group-title="IZONE", ТВ3
+http://46.32.176.50/tv3/index.m3u8
+#EXTINF:-1 group-title="IZONE", Че
+http://46.32.176.50/ce/index.m3u8
+#EXTINF:-1 group-title="IZONE", Euronews
+http://46.32.176.50/euronews/index.m3u8
+#EXTINF:-1 group-title="IZONE", Домашний
+http://46.32.176.50/domashniy/index.m3u8
+#EXTINF:-1 group-title="IZONE", Ностальгия
+http://46.32.176.50/nostalgiya/index.m3u8
+#EXTINF:-1 group-title="IZONE", Уникум
+http://46.32.176.50/detskiy/index.m3u8
+#EXTINF:-1 group-title="IZONE", Бобер
+http://46.32.176.50/bobertv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Солнце
+http://46.32.176.50/solnce/index.m3u8
+#EXTINF:-1 group-title="IZONE", Суббота
+http://46.32.176.50/subbota/index.m3u8
+#EXTINF:-1 group-title="IZONE", Детский Мир HD
+http://46.32.176.50/detskiymir/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мама
+http://46.32.176.50/mama/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мульт
+http://46.32.176.50/mult/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мульт HD
+http://46.32.176.50/MultHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", 2x2
+http://46.32.176.50/2x2/index.m3u8
+#EXTINF:-1 group-title="IZONE", Ani
+http://46.32.176.50/anitv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Карусель
+http://46.32.176.50/karusel/index.m3u8
+#EXTINF:-1 group-title="IZONE", Nick jr
+http://46.32.176.50/nickelodeonjunior/index.m3u8
+#EXTINF:-1 group-title="IZONE", Матч ТВ
+http://46.32.176.50/matchtv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Матч HD
+http://46.32.176.50/MatchTVHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Eurosport 2
+http://46.32.176.50/eurosport2/index.m3u8
+#EXTINF:-1 group-title="IZONE", Матч! Игра
+http://46.32.176.50/matchiqra/index.m3u8
+#EXTINF:-1 group-title="IZONE", Матч! Арена HD
+http://46.32.176.50/MatchArenaHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat Sport
+http://46.32.176.50/viasatsport/index.m3u8
+#EXTINF:-1 group-title="IZONE", Бокс ТВ
+http://46.32.176.50/bokstv/index.m3u8
+#EXTINF:-1 group-title="IZONE", KHL
+http://46.32.176.50/kxltv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Extreme Sports
+http://46.32.176.50/extremesport/index.m3u8
+
+
+#EXTINF:-1 group-title="Hetzner Online GmbH",National Geographic HD
+http://178.63.98.119:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty Netflix 4K
+http://178.63.98.119:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty РусФильм 4K
+http://178.63.98.119:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty Триллер 4K
+http://178.63.98.119:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty Индия 4K
+http://178.63.98.119:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty Турк Фильм 4K
+http://178.63.98.119:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty Аванпост 4K
+http://178.63.98.119:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty Мелодрамы FHD
+http://178.63.98.119:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty Кино Микс 4K
+http://178.63.98.119:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty Криминал 4K
+http://178.63.98.119:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Liberty Сериалы FHD
+http://178.63.98.119:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Агата Кристи HD
+http://178.63.98.119:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM NewFilm RU HD
+http://178.63.98.119:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM 007 HD
+http://178.63.98.119:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Classic HD
+http://178.63.98.119:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Драма HD
+http://178.63.98.119:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM NewFilm 1 HD
+http://178.63.98.119:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM NewFilm 2 HD
+http://178.63.98.119:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM NewFilm 3 HD
+http://178.63.98.119:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Фантастика HD
+http://178.63.98.119:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM История HD
+http://178.63.98.119:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Макромир HD
+http://178.63.98.119:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Мегамир HD
+http://178.63.98.119:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Микромир HD
+http://178.63.98.119:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Погружение HD
+http://178.63.98.119:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Приключения HD
+http://178.63.98.119:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Скорость HD
+http://178.63.98.119:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Триллер HD
+http://178.63.98.119:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM UFO HD
+http://178.63.98.119:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",MM Вестерн HD
+http://178.63.98.119:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Adrenaline
+http://178.63.98.119:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Adventure
+http://178.63.98.119:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Best
+http://178.63.98.119:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Grand
+http://178.63.98.119:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV New Кино
+http://178.63.98.119:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Oblivion
+http://178.63.98.119:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Русские Фильмы
+http://178.63.98.119:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Трагичное
+http://178.63.98.119:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Thriller
+http://178.63.98.119:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Забавное
+http://178.63.98.119:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Мелодрама
+http://178.63.98.119:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Ковбойское
+http://178.63.98.119:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Yosso TV Мелодрама
+http://178.63.98.119:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Setanta Sports 1 HD
+http://178.63.98.119:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",Setanta Sports 2 HD
+http://178.63.98.119:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Hetzner Online GmbH",NHL Network [US]
+http://178.63.98.119:8000/play/a01p/index.m3u8
+
+
+#EXTINF:-1 group-title="Кавкасус Онлайн",Amedia Hit
+http://85.117.37.41/amediahit/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Драйв
+http://85.117.37.41/drive/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Еврокино
+http://85.117.37.41/eurokino/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",TV1000
+http://85.117.37.41/tv1000/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",TV1000 кино
+http://85.117.37.41/tv1000ru/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",TV XXI
+http://85.117.37.41/tv21/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Mezzo
+http://85.117.37.41/mezzo/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",JimJam
+http://85.117.37.41/jimjam/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Viasat Sport
+http://85.117.37.41/viasatsport/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",KHL
+http://85.117.37.41/khl/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Матч! Арена
+http://85.117.37.41/matcharena/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Матч! Страна
+http://85.117.37.41/matchstrana/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 1 HD
+http://85.117.37.41/eurosport1/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Eurosport 2 HD
+http://85.117.37.41/eurosport2/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Матч! Футбол 1 HD
+http://85.117.37.41/fut1/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Матч! Футбол 2 HD
+http://85.117.37.41/fut2/index.m3u8
+#EXTINF:-1 group-title="Кавкасус Онлайн",Матч! Футбол 3 HD
+http://85.117.37.41/fut3/index.m3u8
+
+
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", UA:Перший
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.2.45/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Прямий
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Київ HD UA
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", 5 Канал
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.4.26/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Рада
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Суспільне Київ
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Суспільне Крим
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Суспільне Культура
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", 8 Канал
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", 24 Канал
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Наталі
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.140/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Эко-ТВ
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Чорноморська ТРК
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Надія
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Перший західний HD
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Сонце
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Еспресо TV HD
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", ATR HD
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Lale HD
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Obozrevatel TV HD
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Megogo live HD
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Апостроф TV HD
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+#EXTINF:-1 group-title="Наш Нет 🇺🇦", Капучино TV
+#EXTVLCOPT:http-user-agent=UA
+http://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+
+
+#EXTINF:-1 group-title="Test-12-05" ,Quadro 4K
+http://185.78.112.47:8077/Quadro4K/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,BCU Ultra 4K
+http://185.78.112.47:8077/BCU_Ultra_4K/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Romance HD
+http://185.78.112.47:8077/romance_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,viju TV1000 HD
+http://185.78.112.47:8077/viju_tv1000_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,viju TV1000 Action HD
+http://185.78.112.47:8077/viju_tv1000_action_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,viju TV1000 kino HD
+http://185.78.112.47:8077/viju_tv1000_rus_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,.red HD
+http://185.78.112.47:8077/red_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,.black HD
+http://185.78.112.47:8077/black_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Cinema HD
+http://185.78.112.47:8077/cinema_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",KinoLiving HD
+http://185.78.112.47:8077/kinoliving_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Shot TV
+http://185.78.112.47:8077/shot_tv/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Наш кинопоказ HD
+http://185.78.112.47:8077/nash_kinopokaz_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кинопремьера HD
+http://185.78.112.47:8077/premiera/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Kinosat
+http://185.78.112.47:8077/kinosat/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Start Air
+http://185.78.112.47:8077/start_air/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Start World
+http://185.78.112.47:8077/start_world/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",FAN HD
+http://185.78.112.47:8077/fan/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Комедия HD
+http://185.78.112.47:8077/comedy/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Kinojam 1 HD
+http://185.78.112.47:8077/kinojam1/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Kinojam 2 HD
+http://185.78.112.47:8077/kinojam2/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",SD/REX
+http://185.78.112.47:8077/rus-extrim/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",SD/REX HD
+http://185.78.112.47:8077/rus-extrim-hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кинокомедия HD
+http://185.78.112.47:8077/komediya/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Мир сериала
+http://185.78.112.47:8077/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Amedia 1
+http://185.78.112.47:8077/amedia/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Amedia Premium HD
+http://185.78.112.47:8077/amedia_premium_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Amedia Hit HD
+http://185.78.112.47:8077/amedia_hit_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кинеко
+http://185.78.112.47:8077/fox/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кинеко HD
+http://185.78.112.47:8077/fox_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Дом Кино
+http://185.78.112.47:8077/dom_kino/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кинопремьера HD
+http://185.78.112.47:8077/premiera/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кинохит
+http://185.78.112.47:8077/kinohit/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кинокомедия
+http://185.78.112.47:8077/komediya/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Мужское кино HD
+http://185.78.112.47:8077/muzhskoe-kino_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Киносерия
+http://185.78.112.47:8077/mnogo-tv/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Наше новое кино
+http://185.78.112.47:8077/nashe-novoe-kino/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Родное Кино
+http://185.78.112.47:8077/nashe-kino/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кино ТВ
+http://185.78.112.47:8077/kino-tv/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кино ТВ HD
+http://185.78.112.47:8077/kino_tv_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Иллюзион +
+http://185.78.112.47:8077/illusion_plus_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Иллюзион
+http://185.78.112.47:8077/RusskiyIllusion/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",БЕСТСЕЛЛЕР
+http://185.78.112.47:8077/rus-bestseller/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ДЕТЕКТИВ
+http://185.78.112.47:8077/rus-detective/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Роман HD
+http://185.78.112.47:8077/russki_roman_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Индия ТВ
+http://185.78.112.47:8077/zee-tv/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ИНДИЙСКОЕ КИНО
+http://185.78.112.47:8077/indiya/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Bollywood HD
+http://185.78.112.47:8077/BollywoodHD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Dorama
+http://185.78.112.47:8077/Dorama/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",КИНОСЕМЬЯ HD
+http://185.78.112.47:8077/kinosemya/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",КИНОПОКАЗ
+http://185.78.112.47:8077/kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",КИНОМИКС HD
+http://185.78.112.47:8077/kinomix/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",КИНОУЖАС
+http://185.78.112.47:8077/kinoujas/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",НСТ
+http://185.78.112.47:8077/nstv/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ТЕХНО 24
+http://185.78.112.47:8077/t24/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",СУББОТА
+http://185.78.112.47:8077/super/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",КИНОСВИДАНИЕ
+http://185.78.112.47:8077/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",МОСФИЛЬМ
+http://185.78.112.47:8077/mosfilm/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Океан ТВ
+http://185.78.112.47:8077/OceanTV/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Кухня ТВ
+http://185.78.112.47:8077/kuhnya/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Авто Плюс
+http://185.78.112.47:8077/avto_plus/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ЖИВАЯ ПЛАНЕТА
+http://185.78.112.47:8077/zhivaya-planeta/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ЗОО ТВ
+http://185.78.112.47:8077/zoo_tv/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ГЛАЗАМИ ТУРИСТА HD
+http://185.78.112.47:8077/glazami_turista_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Еда HD
+http://185.78.112.47:8077/eda_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Зоопарк
+http://185.78.112.47:8077/Zoopark/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",History HD
+http://185.78.112.47:8077/History-HD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Моя планета
+http://185.78.112.47:8077/moya_planeta/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Планета HD
+http://185.78.112.47:8077/planeta_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Animal Planet HD
+http://185.78.112.47:8077/AnimalPlanetRussiaHD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Discovery Россия HD
+http://185.78.112.47:8077/DiscoveryChannelHD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Nat Geo Wild HD
+http://185.78.112.47:8077/natgeo_wild_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",National Geographic 
+http://185.78.112.47:8077/natgeo/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",National Geographic HD
+http://185.78.112.47:8077/natgeo_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Viasat History HD
+http://185.78.112.47:8077/ViasatHistoryHD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Travel Channel HD
+http://185.78.112.47:8077/TravelChannelHD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Телепутешествия HD
+http://185.78.112.47:8077/teletravel_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Еда HD
+http://185.78.112.47:8077/eda_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Усадьба
+http://185.78.112.47:8077/Usadba/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Охотник и рыболов HD
+http://185.78.112.47:8077/ohot_i_rybolov_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Дикий
+http://185.78.112.47:8077/Dikiy/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Дикая охота
+http://185.78.112.47:8077/DikayaOxotaHD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ОХОТНИК
+http://185.78.112.47:8077/ohotnik/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",NANO TV
+http://185.78.112.47:8077/nano-tv/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",RTG
+http://185.78.112.47:8077/rtg/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",RTG HD
+http://185.78.112.47:8077/rtg_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ПЕС И КОТ
+http://185.78.112.47:8077/pes_i_ko/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",8 КАНАЛ
+http://185.78.112.47:8077/8kanal/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ДОКТОР HD
+http://185.78.112.47:8077/doctor/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ТОЧКА ТВ
+http://185.78.112.47:8077/tochka/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",КВН ТВ
+http://185.78.112.47:8077/kvn_tv/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,tnt-4
+http://185.78.112.47:8077/tnt-4/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Ностальгия
+http://185.78.112.47:8077/nostalgia/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Уникум
+http://185.78.112.47:8077/detskiy/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Супергерои
+http://185.78.112.47:8077/malish/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",2х2
+http://185.78.112.47:8077/2x2/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Мульт
+http://185.78.112.47:8077/mult/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Мультимания
+http://185.78.112.47:8077/multimania/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Карусель
+http://185.78.112.47:8077/karusel/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Солнце
+http://185.78.112.47:8077/disney/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Nickelodeon 
+http://185.78.112.47:8077/nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",TiJi 
+http://185.78.112.47:8077/TiJi/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",JimJam
+http://185.78.112.47:8077/JimJam/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",МАМА
+http://185.78.112.47:8077/mama/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Радость моя
+http://185.78.112.47:8077/radost-moya/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,О!
+http://185.78.112.47:8077/o_/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",РЫЖИЙ
+http://185.78.112.47:8077/ryzhiy/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",СТС love
+http://185.78.112.47:8077/sts-love/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",СТС kids HD
+http://185.78.112.47:8077/sts_kids/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ANI
+http://185.78.112.47:8077/ani/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,ТНТ
+http://185.78.112.47:8077/tnt/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,ТНТ HD
+http://185.78.112.47:8077/tnt_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,СТС
+http://185.78.112.47:8077/sts_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Пятница
+http://185.78.112.47:8077/Pyatnica/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Домашний
+http://185.78.112.47:8077/domashniy/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ТВ3 
+http://185.78.112.47:8077/tv3/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ЧЕ
+http://185.78.112.47:8077/che/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Ю
+http://185.78.112.47:8077/utv/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Матч ТВ
+http://185.78.112.47:8077/match/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Матч ТВ HD
+http://185.78.112.47:8077/match_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",МАТЧ ИГРА
+http://185.78.112.47:8077/match-igra/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",МАТЧ ИГРА HD
+http://185.78.112.47:8077/match_igra_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",Матч Страна
+http://185.78.112.47:8077/strana/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Матч! Арена HD
+http://185.78.112.47:8077/arena_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05",ФУТБОЛЬНЫЙ
+http://185.78.112.47:8077/football/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Матч! Футбол 1 HD
+http://185.78.112.47:8077/football1_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Матч! Футбол 2 HD
+http://185.78.112.47:8077/football2_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Матч! Футбол 3 HD
+http://185.78.112.47:8077/football3_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Матч! Премьер
+http://185.78.112.47:8077/nash-football/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Матч! Премьер HD
+http://185.78.112.47:8077/nash_football_hd/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Футбол  HD
+http://185.78.112.47:8077/football/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Eurosport
+http://185.78.112.47:8077/Eurosport1HD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,EUROSPORT 2 HD
+http://185.78.112.47:8077/Eurosport2HD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,Viasat Sport  HD
+http://185.78.112.47:8077/ViasatSportHD/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,КХЛ ТВ
+http://185.78.112.47:8077/khl/index.m3u8
+#EXTINF:-1 group-title="Test-12-05" ,КХЛ HD
+http://185.78.112.47:8077/khl_hd/index.m3u8
