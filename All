@@ -263,7 +263,7 @@ http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
 http://193.25.8.59:8000/dtx
 #EXTINF:-1 group-title="Разное",RTN-USA (rus)
 http://4.59.210.197:8815/udp/127.0.0.1:6002
-#EXTINF:-1 group-title="Разное",МУльт-USA (rus)
+#EXTINF:-1 group-title="Разное",Мульт-USA (rus)
 http://4.59.210.197:8815/udp/127.0.0.1:6006
 #EXTINF:-1 group-title="Разное" tvg-id="rutube-tv" tvg-logo="https://iptvx.one/picons/rutube-tv.png" group-title="Развлекательные" ,RUTUBE TV
 https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=U_og5iHG6xVp0V3KXYMB0g&e=2070623479&scheme=https
