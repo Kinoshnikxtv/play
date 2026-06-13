@@ -1,16 +1,4 @@
-#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
-#EXTINF:-1 group-title="🔺 ИНФОРМАЦИЯ 🔺" tvg-logo="https://i.ibb.co/rKM072sy/eec7ffafca466c7373ccc01f3cfb8881-1.png" tvg-id="simpleTVFakeEpgId",БЕСПЛАТНЫЕ ЧЕБУР КАНАЛЫ
-https://dl.dropbox.com/scl/fi/88kajg74noc309og0t3re/.mp4?rlkey=nyrmu95ix77m7k65zll5pmbzh&st=q0amlkvj&dl=0
-#EXTINF:-1 group-title="🔺 ИНФОРМАЦИЯ 🔺" tvg-logo="https://i.ibb.co/23JzbykB/qrcod-e-Xxy.png" tvg-id="simpleTVFakeEpgId",Обновление: Сегодня 💯
-https://dl.dropbox.com/scl/fi/zb2v5bq01teji1i7m4do4/.mp4?rlkey=uwh8xl7sexl99a8hdw648hi4m&st=lddfo749&dl=0
-#EXTINF:-1 group-title="🔺 ИНФОРМАЦИЯ 🔺" tvg-logo="https://i.ibb.co/GmzP9qw/photo-2025-05-17-13-20-23.jpg" tvg-id="simpleTVFakeEpgId",Обновление: Сюда не нажимать!!!
-https://dl.dropbox.com/scl/fi/sva6t5fqwfymbijhteuz1/1.avi?rlkey=y5hzn7l1xq0f45313hdq3bbai&st=sqdj8k9b&dl=0
-#EXTINF:-1 group-title="🔺 ИНФОРМАЦИЯ 🔺" tvg-logo="https://i.ibb.co/23JzbykB/qrcod-e-Xxy.png" tvg-id="simpleTVFakeEpgId",Донат на развитие проекта
-https://dl.dropbox.com/scl/fi/qn7442gvp31bl63fcgvi0/.mp4?rlkey=alxj4101odj8si1vssqp4khzn&st=srud1yms&dl=0
-#EXTINF:-1 group-title="🔺 ИНФОРМАЦИЯ 🔺" tvg-logo="https://i.ibb.co/Kx1h4L1j/4e75bddccfbd6354ae07efec95ec636e.png" tvg-id="simpleTVFakeEpgId",Приложение для Android
-https://dl.dropbox.com/scl/fi/5hkg9rse0r2tstwq5i0sc/.mp4?rlkey=uejkq3fewy4ogsl69nwuly7n1&st=2cqntirq&dl=0
-#EXTINF:-1 group-title="🔺 ИНФОРМАЦИЯ 🔺" tvg-logo="https://i.ibb.co/cdYFQrF/qrcod-e-Lr-Y.png" tvg-id="simpleTVFakeEpgId",https://t.me/shalunishka980
-https://dl.dropbox.com/scl/fi/rgw6q02tha8t7b8wtxhn4/.mp4?rlkey=un450epqo90pko5bnm2he8e6w&st=s9hqc7nt&dl=0
+#EXTM3U 
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="simpleTVFakeEpgId",САМЫЙ ЛУЧШИЙ КАНАЛАРЫ 🤣
 https://dl.dropbox.com/scl/fi/6aoezzl8i8req33y8clfe/.mp4?rlkey=rq0kzl97mzmgtlj7zx64mgi2j&st=le0pgwhj&dl=0
 #EXTINF:-1 group-title="🔴 Кинозалы 🔴" tvg-logo="https://i.ibb.co/4gWrp0z5/image-4.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_narod-vsio-vidit",Народ Всё Видит
