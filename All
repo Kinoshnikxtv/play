@@ -2582,55 +2582,55 @@ http://94.230.128.107:8080/TB3/video.m3u8
 http://94.230.128.107:8080/THT/video.m3u8
 #EXTINF:-1 group-title="94.230.128.107_Екатеринбург" tvg-logo="../Channel/Logo/VHS TV.png",VHS HD
 http://94.230.128.107:8080/VHS/video.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",5kanal
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/427.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
 http://vod.tuva.ru/5kanal/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="../Channel/Logo/Euronews.png",eurokino
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/352.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_352",Еврокино
 http://vod.tuva.ru/eurokino/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",friday
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://iptvx.one/picons/piatnica.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica",Пятница!
 http://vod.tuva.ru/friday/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",karusel
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
 http://vod.tuva.ru/karusel/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="../Channel/Logo/Kino 24.png",kinotv
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/1037.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1037",Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",kultura
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/187.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_187",Россия К
 http://vod.tuva.ru/kultura/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",mir
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/726.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир
 http://vod.tuva.ru/mir/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",muztv
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/897.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_897",Муз-ТВ
 http://vod.tuva.ru/muztv/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",myplanet
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/675.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_675",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",nauka2
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://iptvx.one/picons/nauka-20.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka-20",Наука 2.0
 http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",nst
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://iptvx.one/picons/nst.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nst",Настоящее страшное ТВ
 http://vod.tuva.ru/nst/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="../Channel/Logo/FashionTv.png",ntv
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
 http://vod.tuva.ru/ntv/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="../Channel/Logo/XSport.png",ort
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy",Первый канал
 http://vod.tuva.ru/ort/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",otp
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/1000.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1000",ОТР
 http://vod.tuva.ru/otp/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",ovaa HD
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://avatars.mds.yandex.net/i?id=6f8f08149cc8449e1326837863a71a1f_l-12487748-images-thumbs&n=13" tvg-id="simpleTVFakeEpgId",Ovaa TV
 http://vod.tuva.ru/ovaa/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",rentv
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",Рен ТВ
 http://vod.tuva.ru/rentv/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="../Channel/Logo/Eurosport 1.png",rossia1
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
 http://vod.tuva.ru/rossia1/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="../Channel/Logo/Eurosport 1.png",rossia24
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/1683.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1683",Россия 24
 http://vod.tuva.ru/rossia24/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="../Channel/Logo/MTV Russia.png",rusroman
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/401.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_401",Русский роман
 http://vod.tuva.ru/rusroman/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",spas
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/2141.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2141",Спас
 http://vod.tuva.ru/spas/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",sts
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/79.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС
 http://vod.tuva.ru/sts/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/2343.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2343",tnt
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://iptvx.one/picons/tnt.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt",ТНТ
 http://vod.tuva.ru/tnt/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",tuva24
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="https://iptvx.one/picons/tuva24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tuva24",Тува 24
 http://vod.tuva.ru/tuva24/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",tv3
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/698.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_698",ТВ-3
 http://vod.tuva.ru/tv3/index.m3u8
-#EXTINF:-1 group-title="94.230.250.140_Кызыл",zvezda
+#EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://vod.tuva.ru/zvezda/index.m3u8
 #EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",21 РТС Хакасия HD
 http://95.47.155.244:8001/play/a022
