@@ -2138,199 +2138,165 @@ http://45.11.139.43:8555/lori/index.m3u8
 http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 group-title="45.11.139.43_Армения",Время
 http://45.11.139.43:8555/vremya/index.m3u8
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/О2TV.png",2tv
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/О2TV.png" tvg-id="simpleTVFakeEpgId",2tv
 http://45.145.32.13:20440/2tv/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/2x2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/323.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
 http://45.145.32.13:20440/2x2/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Amedia Hit.png",amedia_hit
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2007.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit
 http://45.145.32.13:20440/amedia_hit/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",amedia_premium_hd HD
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/1372.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1372",Amedia Premium HD
 http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Amedia Hit.png",amedia1
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/1371.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1371",Amedia 1
 http://45.145.32.13:20440/amedia1/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Amedia Hit.png",amedia2
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2492.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2492",Amedia 2
 http://45.145.32.13:20440/amedia2/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Ani.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2011",ani
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2011.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2011",Ani
 http://45.145.32.13:20440/ani/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",avto24
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",Авто 24
 http://45.145.32.13:20440/avto24/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",big_planet_hd HD
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/7623.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7623",Big Planet HD
 http://45.145.32.13:20440/big_planet_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://veranzo.ru/other/icons/.black.png" tvg-id="d09336db60acee31f19aef3ee307fef6_8717",black
 http://45.145.32.13:20440/black/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",boks_tv
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2285.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2285",Бокс ТВ
 http://45.145.32.13:20440/boks_tv/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Bollywood HD.png",bollywood_hd HD
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/1395.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1395",Bollywood HD
 http://45.145.32.13:20440/bollywood_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ctc
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/79.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_79",СТС
 http://45.145.32.13:20440/ctc/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ctc_kids_hd HD
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2481.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2481",СТС Kids HD
 http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",da_vinci
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/410.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_410",Da Vinci Learning
 http://45.145.32.13:20440/da_vinci/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",dom_kino
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/834.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_834",Дом кино
 http://45.145.32.13:20440/dom_kino/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",dom_kino_premium_hd HD
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2020.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2020",Дом кино Премиум HD
 http://45.145.32.13:20440/dom_kino_premium_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",domashnij
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_304",Домашний
 http://45.145.32.13:20440/domashnij/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",dorama
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2174.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2174",Дорама
 http://45.145.32.13:20440/dorama/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Euronews.png",eurokino
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/352.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_352",Еврокино
 http://45.145.32.13:20440/eurokino/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/FAN.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2359",fan
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2359.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2359",FAN
 http://45.145.32.13:20440/fan/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/774.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_774",flixsnip
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/774.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_774",FlixSnip
 http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Gulli Girl.png",gulli_girl
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/810.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_810",Gulli Girl
 http://45.145.32.13:20440/gulli_girl/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/HDL.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_415",hdl HD
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/415.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_415",Точка.РФ
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Hollywood HD.png",hollywood_hd HD
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/934.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_934",Hollywood HD
 http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",india
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2233.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2233",Индия
 http://45.145.32.13:20440/india/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",izvestija
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2271.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2271",Известия
 http://45.145.32.13:20440/izvestija/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",karusel
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/740.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_740",Карусель
 http://45.145.32.13:20440/karusel/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2048.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2048",khl
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/kxl.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kxl",КХЛ ТВ
 http://45.145.32.13:20440/khl/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",khl_prime HD
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/1038.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1038",KHL Prime
 http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Kino 24.png",kineko
-http://45.145.32.13:20440/kineko/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Kino 24.png",kinomix
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/644.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_644",Киномикс
 http://45.145.32.13:20440/kinomix/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Kino 24.png",kinotv
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/1037.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1037",Кино ТВ
 http://45.145.32.13:20440/kinotv/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Kino 24.png",kinoxit
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/542.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_542",Кинохит
 http://45.145.32.13:20440/kinoxit/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",kvn_tv
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/kvn-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kvn-tv",КВН-ТВ
 http://45.145.32.13:20440/kvn_tv/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mama
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/618.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_618",Мама
 http://45.145.32.13:20440/mama/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/FAN (Fantastic animation).png",match
-http://45.145.32.13:20440/match/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_arena
-http://45.145.32.13:20440/match_arena/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_arena_hd HD
-http://45.145.32.13:20440/match_arena_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_boets
-http://45.145.32.13:20440/match_boets/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_football1
-http://45.145.32.13:20440/match_football1/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_football3
-http://45.145.32.13:20440/match_football3/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_football2
-http://45.145.32.13:20440/match_football2/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_futbol_1_hd HD
-http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_futbol_2_hd HD
-http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_futbol_3_hd HD
-http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_hd HD
-http://45.145.32.13:20440/match_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/FAN (Fantastic animation).png",match_igra
-http://45.145.32.13:20440/match_igra/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_igra_hd HD
-http://45.145.32.13:20440/match_igra_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",match_strana
-http://45.145.32.13:20440/match_strana/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/MCM Top.png",mcm_top
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/mcm-top.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mcm-top",MCM Top
 http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mir
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/726.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_726",Мир
 http://45.145.32.13:20440/mir/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mir_24
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/mir24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_mir-24",Мир-24
 http://45.145.32.13:20440/mir_24/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mir_basketbola
-http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mmatv
-http://45.145.32.13:20440/mmatv/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",mosfilm
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-id="simpleTVFakeEpgId",mosfilm
 http://45.145.32.13:20440/mosfilm/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",moskva24
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/moskva-24.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_moskva-24",Москва-24
 http://45.145.32.13:20440/moskva24/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",muz_tv
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/897.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_897",Муз-ТВ
 http://45.145.32.13:20440/muz_tv/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",nauka
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/nauka-20.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_nauka-20",Наука 2.0
 http://45.145.32.13:20440/nauka/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/FashionTv.png",ntv_hit
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/ntv-xit.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-xit",НТВ-Хит
 http://45.145.32.13:20440/ntv_hit/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/FashionTv.png",ntv_pravo
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-pravo",НТВ-Право
 http://45.145.32.13:20440/ntv_pravo/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/FashionTv.png",ntv_serial
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/ntv-serial.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv-serial",НТВ-Сериал
 http://45.145.32.13:20440/ntv_serial/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/FOX.png",o
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/1757.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1757",О!
 http://45.145.32.13:20440/o/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",otp
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/1000.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1000",ОТР
 http://45.145.32.13:20440/otp/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",pervyj_kanal
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy",Первый канал
 http://45.145.32.13:20440/pervyj_kanal/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",piatnica
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/piatnica.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_piatnica",Пятница!
 http://45.145.32.13:20440/piatnica/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",pobeda
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2447.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2447",Победа
 http://45.145.32.13:20440/pobeda/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://veranzo.ru/other/icons/.red.png" tvg-id="d09336db60acee31f19aef3ee307fef6_11043",red
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/sony.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_sony-tv",.red
 http://45.145.32.13:20440/red/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",ren_tv
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",Рен ТВ
 http://45.145.32.13:20440/ren_tv/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/RTG HD.png",rtg_hd HD
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/648.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_648",RTG HD
 http://45.145.32.13:20440/rtg_hd/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",sarafan
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/663.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_663",Сарафан
 http://45.145.32.13:20440/sarafan/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Shot TV.png",shot_tv
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/431.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_431",Shot TV
 http://45.145.32.13:20440/shot_tv/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",spas
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/spas.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_spas",Спас ТВ
 http://45.145.32.13:20440/spas/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Global Star tv.png",start_air
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/start-air.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_start-air",Start Air
 http://45.145.32.13:20440/start_air/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Global Star tv.png",start_world
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/6240.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_6240",Start World
 http://45.145.32.13:20440/start_world/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",telekafe
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/2304.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2304",Телекафе
 http://45.145.32.13:20440/telekafe/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/CNN International.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7632",terra
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/7632.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_7632",Terra
 http://45.145.32.13:20440/terra/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",the_explorers
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/9082.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_9082",The Explorers
 http://45.145.32.13:20440/the_explorers/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Tiji.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tiji",tiji
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/tiji.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tiji",TiJi
 http://45.145.32.13:20440/tiji/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tnt4
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/tnt4.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tnt4",ТНТ 4
 http://45.145.32.13:20440/tnt4/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/Travel channel HD.png",travel_adventure
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/1035.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1035",Travel+Adventure
 http://45.145.32.13:20440/travel_adventure/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/TV1000.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv1-lt",tv1
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/tv1-lt.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv1-lt",TV1 (Литва)
 http://45.145.32.13:20440/tv1/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tv3
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/tv3-lt.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv3-lt",TV3 Литва
 http://45.145.32.13:20440/tv3/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tv6
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/tv6-lt.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv6-lt",TV6 Литва
 http://45.145.32.13:20440/tv6/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tv8
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/tv8-lt.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_tv8-lt",TV8 (Литва)
 http://45.145.32.13:20440/tv8/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",tvc
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-id="simpleTVFakeEpgId",ТВ Центр
 http://45.145.32.13:20440/tvc/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://veranzo.ru/other/icons/УДАР.png" tvg-id="d09336db60acee31f19aef3ee307fef6_10921",udar
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/ufc.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ufc",Удар ТВ
 http://45.145.32.13:20440/udar/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",unikum
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/66.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_66",Уникум
 http://45.145.32.13:20440/unikum/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_history
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/277.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_277",viju History
 http://45.145.32.13:20440/viju_history/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_nature
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/765.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_765",viju Nature
 http://45.145.32.13:20440/viju_nature/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_tv1000
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/127.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_127",viju TV1000
 http://45.145.32.13:20440/viju_tv1000/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_explore
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/521.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_521",viju Explore
 http://45.145.32.13:20440/viju_explore/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",viju_tv1000_action
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/125.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_125",viju TV1000 Action
 http://45.145.32.13:20440/viju_tv1000_action/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",zhara
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/165.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_165",Жара
 http://45.145.32.13:20440/zhara/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",zhyvi
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="https://iptvx.one/picons/zhivi.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_zhivi",Живи
 http://45.145.32.13:20440/zhyvi/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",zvezda
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://45.145.32.13:20440/zvezda/index.m3u8?token=test
-#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва",zvezdaplus
+#EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/4661.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4661",Звезда Плюс
 http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
 #EXTINF:-1 group-title="46.32.176.50_Баку_Азербайджан" tvg-logo="../Channel/Logo/2x2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
 http://46.32.176.50/2x2/index.m3u8
