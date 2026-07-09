@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="http://gabbarit.drm-play.com/epg_14.xml.gz"
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/Звезда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда
 https://streaming.televizor-24-tochka.ru/live/748.m3u8
 #EXTINF:-1 group-title="televizor-24-tochka.ru" tvg-logo="../Channel/Logo/Муз-ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10414",Муз-ТВ
