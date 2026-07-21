@@ -1546,6 +1546,7 @@ http://185.78.112.47:8077/art/index.m3u8
 https://stream8.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Полет
 http://stitch.teletarget.ru/vintera/flighttv/index.m3u8
+
 #EXTINF:-1 group-title="Региональные", БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Региональные", Беларусь 1
@@ -1978,20 +1979,14 @@ https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
 http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 group-title="Региональные", ТСВ (Приднестровье)
 https://tsv.md/stream/hls/tsv-online/index.m3u8
+
 #EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",RTN-America (rus)
 http://4.59.210.197:8815/udp/127.0.0.1:6002
-#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США" tvg-logo="../Channel/Logo/НТВ-Хит.png",НТВ-America
-http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 group-title="4.59.210.197_udp_Монро_США" tvg-logo="../Channel/Logo/Мультиландия.png",Мульт-America
 http://4.59.210.197:8815/udp/127.0.0.1:6006
-#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",матрас-America
-http://4.59.210.197:8815/udp/127.0.0.1:6007
-#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",CBS LA-America
-http://4.59.210.197:8815/udp/127.0.0.1:6008
-#EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",CNBC-America
-http://4.59.210.197:8815/udp/127.0.0.1:6009
 #EXTINF:-1 group-title="4.59.210.197_udp_Монро_США",Израиль9-America
 http://4.59.210.197:8815/udp/127.0.0.1:6013
+
 #EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="http://epg.one/img2/2024.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2024",Bridge TV Hits
 http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 #EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="https://iptvx.one/picons/bridge-hd.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bridge-hd",Bridge Deluxe
@@ -2016,6 +2011,7 @@ http://5.188.159.128:8070/rutv/index.m3u8
 http://5.188.159.128:8070/TNT_MUSIC/index.m3u8
 #EXTINF:-1 group-title="5.188.159.128_Санкт-Петербург" tvg-logo="https://iptvx.one/picons/ufc.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ufc",Удар ТВ
 http://5.188.159.128:8070/udar/index.m3u8
+
 #EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург" tvg-logo="http://epg.one/img2/323.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
 http://5.188.221.43:8080/play/2x2
 #EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург" tvg-logo="http://epg.one/img2/427.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
@@ -2072,56 +2068,7 @@ http://5.188.221.43:8080/play/tv-centr
 http://5.188.221.43:8080/play/utv
 #EXTINF:-1 group-title="5.188.221.43_Санкт-Петербург" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://5.188.221.43:8080/play/zvezda
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения" tvg-logo="../Channel/Logo/TV1000.png",	О!
-http://37.186.70.39:40/play/100/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",101 HD
-http://37.186.70.39:40/play/101/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",102 HD
-http://37.186.70.39:40/play/102/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Авто Плюс
-http://37.186.70.39:40/play/103/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",National Geographic HD
-http://37.186.70.39:40/play/105/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",НТВ-Стиль
-http://37.186.70.39:40/play/106/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Bridge TV
-http://37.186.70.39:40/play/107/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Рыболов
-http://37.186.70.39:40/play/108/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Загородный
-http://37.186.70.39:40/play/109/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Зоо ТВ
-http://37.186.70.39:40/play/110/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Eurosport 1 HD
-http://37.186.70.39:40/play/111/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Animal Planet HD
-http://37.186.70.39:40/play/113/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Eurosport 2 HD
-http://37.186.70.39:40/play/112/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",КХЛ ТВ
-http://37.186.70.39:40/play/114/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",116
-http://37.186.70.39:40/play/116/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",365 дней HD
-http://37.186.70.39:40/play/115/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",СТС Love
-http://37.186.70.39:40/play/117/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Discovery Channel HD
-http://37.186.70.39:40/play/118/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",Русский роман
-http://37.186.70.39:40/play/119/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",НТВ-Хит
-http://37.186.70.39:40/play/120/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",121
-http://37.186.70.39:40/play/121/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",123 HD
-http://37.186.70.39:40/play/123/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",122 HD
-http://37.186.70.39:40/play/122/index.m3u8
-#EXTINF:-1 group-title="37.186.70.39_Абовян_Армения",124
-http://37.186.70.39:40/play/124/index.m3u8
-#EXTINF:-1 group-title="45.11.139.43_Армения",8 канал
-http://45.11.139.43:8555/8kanal/index.m3u8
+
 #EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/BBC World News.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_bbc",BBC World News
 http://45.11.139.43:8555/bbc/index.m3u8
 #EXTINF:-1 group-title="45.11.139.43_Армения" tvg-logo="../Channel/Logo/CNN International.png",CNN International HD
@@ -2138,6 +2085,7 @@ http://45.11.139.43:8555/lori/index.m3u8
 http://45.11.139.43:8555/orujie/index.m3u8
 #EXTINF:-1 group-title="45.11.139.43_Армения",Время
 http://45.11.139.43:8555/vremya/index.m3u8
+
 #EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="../Channel/Logo/О2TV.png" tvg-id="simpleTVFakeEpgId",2tv
 http://45.145.32.13:20440/2tv/index.m3u8?token=test
 #EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/323.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
@@ -2298,6 +2246,7 @@ http://45.145.32.13:20440/zhyvi/index.m3u8?token=test
 http://45.145.32.13:20440/zvezda/index.m3u8?token=test
 #EXTINF:-1 group-title="45.145.32.13_Игналина_Литва" tvg-logo="http://epg.one/img2/4661.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4661",Звезда Плюс
 http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
+
 #EXTINF:-1 group-title="46.32.176.50_Баку_Азербайджан" tvg-logo="../Channel/Logo/2x2.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
 http://46.32.176.50/2x2/index.m3u8
 #EXTINF:-1 group-title="46.32.176.50_Баку_Азербайджан",5kanal
@@ -2566,10 +2515,13 @@ http://46.32.176.50/worldfashion/index.m3u8
 http://46.32.176.50/zoopark/index.m3u8
 #EXTINF:-1 group-title="46.32.176.50_Баку_Азербайджан",zvezda
 http://46.32.176.50/zvezda/index.m3u8
+
 #EXTINF:-1 group-title="46.56.85.151_гомель" tvg-logo="../Channel/Logo/8 канал Беларусь.png",Беларусь-4 Гомель
 http://46.56.85.151:8080/0.m3u8
+
 #EXTINF:-1 group-title="85.208.223.249_Кушва_Россия",REX
 http://85.208.223.249:8888/play/a004
+
 #EXTINF:-1 group-title="94.230.128.107_Екатеринбург",Dorama
 http://94.230.128.107:8080/Dorama/video.m3u8
 #EXTINF:-1 group-title="94.230.128.107_Екатеринбург",Friday
@@ -2582,6 +2534,7 @@ http://94.230.128.107:8080/TB3/video.m3u8
 http://94.230.128.107:8080/THT/video.m3u8
 #EXTINF:-1 group-title="94.230.128.107_Екатеринбург" tvg-logo="../Channel/Logo/VHS TV.png",VHS HD
 http://94.230.128.107:8080/VHS/video.m3u8
+
 #EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/427.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
 http://vod.tuva.ru/5kanal/index.m3u8
 #EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/352.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_352",Еврокино
@@ -2632,10 +2585,12 @@ http://vod.tuva.ru/tuva24/index.m3u8
 http://vod.tuva.ru/tv3/index.m3u8
 #EXTINF:-1 group-title="94.230.250.140_Кызыл" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://vod.tuva.ru/zvezda/index.m3u8
+
 #EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",21 РТС Хакасия HD
 http://95.47.155.244:8001/play/a022
 #EXTINF:-1 group-title="95.47.155.244_Черногорск_Россия",Юг Сибири HD
 http://95.47.155.244:8001/play/a023
+
 #EXTINF:-1 group-title="109.248.236.51_fs.uplink.kz" tvg-logo="https://iptvx.one/picons/365-dnej.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_365-dnej",365 дней ТВ
 https://fs.uplink.kz/365_dney/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="109.248.236.51_fs.uplink.kz" tvg-logo="http://epg.one/img2/427.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
@@ -2810,6 +2765,7 @@ https://fs.uplink.kz/zhivi/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 https://fs.uplink.kz/zoopark/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="109.248.236.51_fs.uplink.kz" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 https://fs.uplink.kz/zvezda/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+
 #EXTINF:-1 group-title="176.118.130.21_Майкоп" tvg-logo="https://iptvx.one/picons/pervy.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_pervy",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="176.118.130.21_Майкоп" tvg-logo="https://iptvx.one/picons/rossia1.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rossia1",Россия 1
@@ -2966,6 +2922,7 @@ https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
 https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
 #EXTINF:-1 group-title="176.118.130.21_Майкоп" tvg-logo="http://epg.one/img2/2417.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2417",Большая Азия HD
 https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
+
 #EXTINF:-1 group-title="176.118.197.101_Анжеро-Судженск" tvg-logo="http://epg.one/img2/323.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="176.118.197.101_Анжеро-Судженск" tvg-logo="http://epg.one/img2/4037.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_4037",1HD Music Television
@@ -3022,6 +2979,7 @@ http://176.118.197.101/THT/index.m3u8
 http://176.118.197.101/Multilandiya/index.m3u8
 #EXTINF:-1 group-title="176.118.197.101_Анжеро-Судженск" tvg-logo="http://epg.one/img2/984.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_711",Россия HD
 http://176.118.197.101/RossiyaHD/index.m3u8
+
 #EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="http://epg.one/img2/2754.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",Cinema
 http://185.46.16.239:8000/Cinema
 #EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/ntv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ntv",НТВ
@@ -3118,6 +3076,7 @@ http://185.46.16.239:8000/STS
 http://185.46.16.239:8000/TNT
 #EXTINF:-1 group-title="185.46.16.239_Тихорецк" tvg-logo="https://iptvx.one/picons/rentv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_rentv",Рен ТВ
 http://185.46.16.239:8000/REN_TV
+
 #EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="http://epg.one/img2/2298.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2298",Загородная Жизнь
 http://185.57.68.14:80/40/mpegts
 #EXTINF:-1 group-title="185.57.68.14_Армавир_Армения",Relax Костёр
@@ -3128,10 +3087,9 @@ http://185.57.68.14:80/233/mpegts
 http://185.57.68.14:80/236/mpegts
 #EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="../Channel/Logo/360°.png",6
 http://185.57.68.14:80/237/mpegts
-#EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="../Channel/Logo/7tv.png",7
-http://185.57.68.14:80/240/mpegts
 #EXTINF:-1 group-title="185.57.68.14_Армавир_Армения" tvg-logo="../Channel/Logo/MTV 80s.png",8
 http://185.57.68.14:80/255/mpegts
+
 #EXTINF:-1 group-title="185.57.68.33_Армавир_Армения" tvg-logo="http://epg.one/img2/2298.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2298",Загородная Жизнь
 http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",233 HD
@@ -3142,12 +3100,12 @@ http://185.57.68.33/232/index.m3u8
 http://185.57.68.33/236/index.m3u8
 #EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",237 HD
 http://185.57.68.33/237/index.m3u8
-#EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",240 HD
-http://185.57.68.33/240/index.m3u8
 #EXTINF:-1 group-title="185.57.68.33_Армавир_Армения",255 HD
 http://185.57.68.33/255/index.m3u8
+
 #EXTINF:-1 group-title="192.162.37.3_Таштагол_Россия" tvg-logo="https://iptvx.one/picons/10kanal-novokuzneck.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_10kanal-novokuzneck",Десятка (Новокузнецк)
 http://192.162.37.3:8000/play/a00p/index.m3u8
+
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="https://iptvx.one/picons/ege-tv.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_ege-tv",ЕГЭ
 http://193.25.8.59:8000/24Doc
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/1108.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_1108",2x2 (+7)
@@ -3308,12 +3266,15 @@ http://193.25.8.59:8000/zdorovoetv
 http://193.25.8.59:8000/zoo
 #EXTINF:-1 group-title="193.25.8.59_Южно-Сахалинск" tvg-logo="http://epg.one/img2/405.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_405",Звезда
 http://193.25.8.59:8000/zvezda
+
 #EXTINF:-1 group-title="194.26.203.157_Viasat Comedy" tvg-logo="http://epg.one/img2/8880.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_8880",Viasat Kino Comedy HD
 http://ukr2.ukrainske.tv/493/video.m3u8
+
 #EXTINF:-1 group-title="194.26.229.213_chip-n-dale" tvg-logo="https://iptvx.one/picons/kernel-chipndale.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_kernel-chipndale",Kernel TV Чип и Дейл
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1 group-title="194.26.229.213_chip-n-dale",souzmultfilm HD
 http://194.26.229.213/souzmultfilm/index.m3u8
+
 #EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/323.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_323",2x2
 http://194.152.35.17/2x2/index.m3u8
 #EXTINF:-1 group-title="194.152.35.17_Лобня" tvg-logo="http://epg.one/img2/2007.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2007",Amedia Hit HD
@@ -3356,6 +3317,7 @@ http://194.152.35.17/tv-3/index.m3u8
 http://194.152.35.17/tvc/index.m3u8
 #EXTINF:-1 group-title="194.152.35.17_Лобня",Звезда
 http://194.152.35.17/zvezda/index.m3u8
+
 #EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/2423.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2423",365 дней ТВ
 https://s70378.cdn.ngenix.net/365_dney_tv/2/index.m3u8
 #EXTINF:-1 group-title="195.209.81.203_cdn.ngenix.net_Самара" tvg-logo="http://epg.one/img2/427.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_427",Пятый канал
