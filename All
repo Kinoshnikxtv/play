@@ -3637,6 +3637,52 @@ http://stream.mcquack.net/61/index.m3u8
 #EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net" tvg-rec="7" timeshift="7",Penthouse Gold
 #EXTGRP:185.235.216.3_stream.mcquack.net
 http://stream.mcquack.net/66/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",CineMan
+http://stream.mcquack.net/475/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",канал-http://stream.mcquack.net/470/index.m3u8
+http://stream.mcquack.net/470/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",CineMan
+http://stream.mcquack.net/359/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",CineMan
+http://stream.mcquack.net/354/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Fashion UA
+http://stream.mcquack.net/288/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Viva Latino
+http://stream.mcquack.net/285/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",black music
+http://stream.mcquack.net/283/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",UA music
+http://stream.mcquack.net/281/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",NIKI Kids
+http://stream.mcquack.net/271/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",NIKI Junior
+http://stream.mcquack.net/262/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",EU music
+http://stream.mcquack.net/261/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Drama 4ver
+http://stream.mcquack.net/260/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Theater 4ver
+http://stream.mcquack.net/259/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Cinema 4ver
+http://stream.mcquack.net/258/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Music 4ver
+http://stream.mcquack.net/257/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Перший миський KR
+http://stream.mcquack.net/255/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",МТМ
+http://stream.mcquack.net/254/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",1 канал
+http://stream.mcquack.net/250/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Раi
+http://stream.mcquack.net/249/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net" tvg-logo="https://iptvx.one/picons/atr-ua.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_atr-ua",ATR
+http://stream.mcquack.net/244/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Капчино TV
+http://stream.mcquack.net/243/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net" tvg-logo="../Channel/Logo/Cinema.png" tvg-id="32aa43b2731a8971e0dc30e469c02e80_2754",Cinema HD
+http://stream.mcquack.net/62/index.m3u8
+#EXTINF:-1 group-title="185.235.216.3_stream.mcquack.net",Porno
+http://stream.mcquack.net/59/index.m3u8
 
 #EXTINF:-1 group-title="192.162.37.3_Таштагол_Россия" tvg-logo="https://iptvx.one/picons/10kanal-novokuzneck.png" tvg-id="650a0ae5672bd20d04bd2247b8cff705_10kanal-novokuzneck",Десятка (Новокузнецк)
 http://192.162.37.3:8000/play/a00p/index.m3u8
